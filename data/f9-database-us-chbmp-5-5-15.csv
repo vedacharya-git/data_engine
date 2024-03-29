@@ -1,0 +1,227 @@
+HGVS cDNA Name,Mutation Type,Mechanism,Exon,Codon (Yoshitake),Nucleotide Change,Predicted AA Change,Domain,Subtype,FIX:C,FIX:Ag,Severity from factor level,History of Inhibitor,Race,Ethnicity,Country of Report,Source,Source ID
+c.1219T>C,Missense,Substitution,8,361,TGT CGT,Cys Arg,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0295
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,11.5,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0771
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,12,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0387
+c.1358G>A,Nonsense,Substitution,8,407,TGG TAG,Trp *,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0388
+c.484C>A,Synonymous,Substitution,5,116,CGA AGA,Arg Arg,EGF2,Light Chain,1-5,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0454
+c.317G>A,Missense,Substitution,4,60,GGC GAC,Gly Asp,EGF1,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0140
+c.317G>A,Missense,Substitution,4,60,GGC GAC,Gly Asp,EGF1,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0281
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,5,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0913
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0341
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,16,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0276
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2.7,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0143
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0362
+c.301C>G,Missense,Substitution,4,55,CCA GCA,Pro Ala,EGF1,Light Chain,7,,Mild,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS0070
+c.-29-?_1386+?del,Large Structure Change (>50bp),Deletion,1-8,,del exons 1-8,,,,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0285
+c.-29-?_1386+?del,Large Structure Change (>50bp),Deletion,1-8,,del exons 1-8,,,,<1,,Severe,Yes,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0286
+c.178C>T,Missense,Substitution,2,14,CTT TTT,Leu Phe,GLA,Light Chain,50,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0359
+c.880C>T,Nonsense,Substitution,8,248,CGA TGA,Arg *,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0814
+c.1067G>A,Nonsense,Substitution,8,310,TGG TAG,Trp *,Protease,Heavy Chain,<1,,Severe,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS0075
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,16,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0273
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,16,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0272
+c.881G>A,Missense,Substitution,8,248,CGA CAA,Arg Gln,Protease,Heavy Chain,5,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0395
+c.223C>T,Nonsense,Substitution,2,29,CGA TGA,Arg *,GLA,Light Chain,.,,.,Yes,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS3061
+c.802T>C,Missense,Substitution,7,222,TGT CGT,Cys Arg,Protease,Heavy Chain,<1,,Severe,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS1691
+c.223C>T,Nonsense,Substitution,2,29,CGA TGA,Arg *,GLA,Light Chain,<1,,Severe,Yes,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1969
+c.343T>A,Missense,Substitution,4,69,TAT AAT,Tyr Asn,EGF1,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1677
+c.172G>A,Missense,Substitution,2,12,GGG AGG,Gly Arg,GLA,Light Chain,1.4,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1716
+c.723G>A,Synonymous,Substitution,6,195,CAG CAA,Gln Gln,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1728
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1645
+c.223C>T,Nonsense,Substitution,2,29,CGA TGA,Arg *,GLA,Light Chain,<1,,Severe,Yes,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1943
+c.277+1G>C,Splice site change,Substitution,Intron 3,IVS 3 +1,g>c,,,,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1664
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1644
+c.-29-?_1386+?del,Large Structure Change (>50bp),Deletion,1-8,,del exons 1-8,,,,<1,,Severe,Yes,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1985
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,10,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1380
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0249
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,4,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0473
+c.224G>A,Missense,Substitution,2,29,CGA CAA,Arg Gln,GLA,Light Chain,31,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1167
+c.572G>A,Missense,Substitution,6,145,CGT CAT,Arg His,Linker,Light Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0799
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,12,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0719
+c.545_546del,Frameshift,Deletion,6,136,del CT,frameshift,Linker,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0047
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,6,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0844
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0513
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1076
+c.1115T>C,Missense,Substitution,8,326,CTT CCT,Leu Pro,Protease,Heavy Chain,<1,,Severe,No,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS0055
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0467
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,9,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0106
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0250
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0251
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,16,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1606
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,5,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0059
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1239
+c.484C>T,Nonsense,Substitution,5,116,CGA TGA,Arg *,EGF2,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1155
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,9,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0533
+c.1157C>T,Missense,Substitution,8,340,ACA ATA,Thr Ile,Protease,Heavy Chain,1,,Moderate,No,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS0911
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,10,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0229
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,6,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1554
+c.434G>A,Missense,Substitution,5,99,TGT TAT,Cys Tyr,EGF2,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1620
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,6,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0049
+c.-29-?_520+?,Large Structure Change (>50bp),Deletion,1-5,,del exons 1-5,,,,<1,,Severe,Yes,OTH,,USA,CDC Inhibitor Surveillance Project,HIS0248
+c.127C>T,Missense,Substitution,2,-4,CGG TGG,Arg Trp,PRO,Propeptide,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0011
+c.301C>A,Missense,Substitution,4,55,CCA ACA,Pro Thr,EGF1,Light Chain,11,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0110
+c.301C>A,Missense,Substitution,4,55,CCA ACA,Pro Thr,EGF1,Light Chain,9,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0109
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,3,,Moderate,No,OTH,,USA,CDC Inhibitor Surveillance Project,HIS1354
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,4,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0852
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,4,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1075
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0629
+c.316G>C,Missense,Substitution,4,60,GGC CGC,Gly Arg,EGF1,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0563
+c.316G>C,Missense,Substitution,4,60,GGC CGC,Gly Arg,EGF1,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0562
+c.82T>C,Missense,Substitution,1,-19,TGT CGT,Cys Arg,Signal Peptide,Signal Peptide,3.8,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0666
+c.881G>T,Missense,Substitution,8,248,CGA CTA,Arg Leu,Protease,Heavy Chain,3,,Moderate,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS1143
+c.627delC,Frameshift,Deletion,6,164,del C,frameshift,Activation,,<1,,Severe,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS0708
+c.627delC,Frameshift,Deletion,6,164,del C,frameshift,Activation,,<1,,Severe,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS0705
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,6,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0601
+c.880C>T,Nonsense,Substitution,8,248,CGA TGA,Arg *,Protease,Heavy Chain,<1,,Severe,Yes,BNH,,USA,CDC Inhibitor Surveillance Project,HIS2071
+c.383G>A,Missense,Substitution,4,82,TGT TAT,Cys Tyr,EGF1,Light Chain,4,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1427
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,8,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0680
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,7,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0681
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,4,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0600
+c.946A>T,Missense,Substitution,8,270,ATT TTT,Ile Phe,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0053
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,1-5,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1596
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,17,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS3016
+c.1001T>C,Missense,Substitution,8,288,ATT ACT,Ile Thr,Protease,Heavy Chain,9,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0311
+c.839G>A,Missense,Substitution,8,234,GGT GAT,Gly Asp,Protease,Heavy Chain,1.5,,Moderate,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS0561
+c.470G>A,Missense,Substitution,5,111,TGT TAT,Cys Tyr,EGF2,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1992
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,15,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0332
+c.676C>G,Missense,Substitution,6,180,CGG GGG,Arg Gly,Activation,,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1348
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,11,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0313
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,>5,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0009
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,15,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0475
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,>5,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0465
+c.880C>T,Nonsense,Substitution,8,248,CGA TGA,Arg *,Protease,Heavy Chain,>5,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0050
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0206
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0205
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,8,,Mild,No,OTH,,USA,CDC Inhibitor Surveillance Project,HIS0202
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0219
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0204
+c.304T>C,Missense,Substitution,4,56,TGT CGT,Cys Arg,EGF1,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0198
+c.89-?_723+?,Large Structure Change (>50bp),Deletion,2-6,,del exons 2-6,,,,<1,,Severe,Yes,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1891
+c.128G>A,Missense,Substitution,2,-4,CGG CAG,Arg Gln,PRO,Propeptide,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0178
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,4,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0408
+c.677G>A,Missense,Substitution,6,180,CGG CAG,Arg Gln,Activation,,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0409
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0226
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,26,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0308
+c.304T>C,Missense,Substitution,4,56,TGT CGT,Cys Arg,EGF1,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0200
+c.278-3A>G,Splice site change,Substitution,Intron3,IVS 3 -3,a>g,,,,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0373
+c.-29-?_1386+?del,Large Structure Change (>50bp),Deletion,1-8,,del exons 1-8,,,,<1,,Severe,Yes,WNH,,USA,CDC Inhibitor Surveillance Project,HIS3037
+c.1228G>T,Missense,Substitution,8,364,GAT TAT,Asp Tyr,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0443
+c.448_451dup,Frameshift,Duplication,5,105,dup GATA,frameshift,EGF2,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0218
+c.354_356dup,"Small structural change (in-frame, <50bp)",Duplication,4,72,dup GTG,dup Trp,EGF1,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0290
+c.-29-?_1386+?del,Large Structure Change (>50bp),Deletion,1-8,,del exons 1-8,,,,<1,,Severe,Yes,WNH,,USA,CDC Inhibitor Surveillance Project,HIS2011
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0208
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0207
+c.1174_1175dup,Frameshift,Duplication,8,346,dup AA,frameshift,Protease,Heavy Chain,<1,,Severe,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS0242
+c.880C>T,Nonsense,Substitution,8,248,CGA TGA,Arg *,Protease,Heavy Chain,<1,,Severe,Yes,BNH,,USA,CDC Inhibitor Surveillance Project,HIS1925
+None,,,,,None,,,,14,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0211
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,5,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0210
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0633
+c.1304G>A,Missense,Substitution,8,389,TGT TAT,Cys Tyr,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0216
+c.87A>G,Synonymous,Substitution,1,-18,ACA ACG,Thr Thr,PRO,Propeptide,1-5,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1307
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,>5,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1181
+c.1168A>T,Missense,Substitution,8,344,ATC TTC,Ile Phe,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0687
+c.277G>A,Missense,Substitution,3,47,GAT AAT,Asp Asn,EGF1,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0121
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,5,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0999
+c.1067G>A,Nonsense,Substitution,8,310,TGG TAG,Trp *,Protease,Heavy Chain,<1,,Severe,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS0689
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0842
+c.-35G>A,Promoter,Substitution,5'UTR,,g>a,,,,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0421
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0933
+c.878delA,Frameshift,Deletion,8,247,del A,frameshift,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0128
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0397
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,4,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1335
+c.1067G>A,Nonsense,Substitution,8,310,TGG TAG,Trp *,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0669
+c.677G>A,Missense,Substitution,6,180,CGG CAG,Arg Gln,Activation,,17,,Mild,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS1200
+c.572G>A,Missense,Substitution,6,145,CGT CAT,Arg His,Linker,Light Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0172
+c.392-1G>C,Splice site change,Substitution,Intron4,IVS 4 -1,g>c,,,,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0176
+c.392-1G>C,Splice site change,Substitution,Intron4,IVS 4 -1,g>c,,,,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0175
+c.224G>A,Missense,Substitution,2,29,CGA CAA,Arg Gln,GLA,Light Chain,9.2,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1719
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0151
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,1-5,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1748
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0157
+c.545_546del,Frameshift,Deletion,6,136,del CT,frameshift,Linker,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0154
+None,,,,,None,,,,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0411
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,5,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0088
+c.1240C>A,Missense,Substitution,8,368,CCC ACC,Pro Thr,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0153
+c.677G>A,Missense,Substitution,6,180,CGG CAG,Arg Gln,Activation,,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0022
+c.572G>A,Missense,Substitution,6,145,CGT CAT,Arg His,Linker,Light Chain,13,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0412
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0152
+c.881G>A,Missense,Substitution,8,248,CGA CAA,Arg Gln,Protease,Heavy Chain,1,,Moderate,No,OTH,,USA,CDC Inhibitor Surveillance Project,HIS1400
+c.1294G>A,Missense,Substitution,8,386,GGT AGT,Gly Ser,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1149
+c.1002T>G,Missense,Substitution,8,288,AAT ATG,Ile Met,Protease,Heavy Chain,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0008
+c.223C>T,Nonsense,Substitution,2,29,CGA TGA,Arg *,GLA,Light Chain,<1,,Severe,Yes,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1922
+c.304T>C,Missense,Substitution,4,56,TGT CGT,Cys Arg,EGF1,Light Chain,4.8,,Moderate,No,BH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1695
+c.676C>T,Missense,Substitution,6,180,CGG TGG,Arg Trp,Activation,,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1646
+c.-29-?_1386+?del,Large Structure Change (>50bp),Deletion,1-8,,del exons 1-8,,,,<1,,Severe,No,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1733
+c.482A>G,Missense,Substitution,5,115,TAT TGT,Tyr Cys,EGF2,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1659
+c.881G>A,Missense,Substitution,8,248,CGA CAA,Arg Gln,Protease,Heavy Chain,9,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1667
+c.1136G>A,Missense,Substitution,8,333,CGA CAA,Arg Gln,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1750
+c.223C>T,Nonsense,Substitution,2,29,CGA TGA,Arg *,GLA,Light Chain,<1,,Severe,Yes,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1990
+c.1242_1244delinsAAT,Missense,Insertion/deletion,8,369,del CCA ins AAT,His Ile,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1864
+c.301C>G,Missense,Substitution,4,55,CCA GCA,Pro Ala,EGF1,Light Chain,7,,Mild,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS1812
+c.128G>A,Missense,Substitution,2,-4,CGG CAG,Arg Gln,PRO,Propeptide,<1,,Severe,No,OTH,,USA,CDC Inhibitor Surveillance Project,HIS1669
+c.301C>G,Missense,Substitution,4,55,CCA GCA,Pro Ala,EGF1,Light Chain,13,,Mild,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS1682
+c.223C>T,Nonsense,Substitution,2,29,CGA TGA,Arg *,GLA,Light Chain,<1,,Severe,Yes,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1949
+c.853G>T,Nonsense,Substitution,8,239,GAG TAG,Glu *,Protease,Heavy Chain,<1,,Severe,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS1893
+c.1318A>G,Missense,Substitution,8,394,AAA GAA,Lys Glu,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1794
+c.881G>T,Missense,Substitution,8,248,CGA CTA,Arg Leu,Protease,Heavy Chain,2,,Moderate,No,AIAN,,USA,CDC Inhibitor Surveillance Project,HIS1735
+c.1169T>C,Missense,Substitution,8,344,ATC ACC,Ile Thr,Protease,Heavy Chain,1.9,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1839
+c.881G>T,Missense,Substitution,8,248,CGA CTA,Arg Leu,Protease,Heavy Chain,2.1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1868
+c.881G>T,Missense,Substitution,8,248,CGA CTA,Arg Leu,Protease,Heavy Chain,1.8,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1842
+c.802T>C,Missense,Substitution,7,222,TGT CGT,Cys Arg,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1869
+c.1072A>G,Missense,Substitution,8,312,AGA GGA,Arg Gly,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0403
+c.-29-?_1386+?del,Large Structure Change (>50bp),Deletion,1-8,,del exons 1-8,,,,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0299
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1510
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1509
+c.786T>G,Missense,Substitution,7,216,ATT ATG,Ile Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0063
+c.1150C>T,Nonsense,Substitution,8,338,CGA TGA,Arg *,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0186
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0482
+c.1240C>A,Missense,Substitution,8,368,CCC ACC,Pro Thr,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0369
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,>5,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0115
+c.1183T>A,Missense,Substitution,8,349,TTC ATC,Phe Ile,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0266
+c.786T>G,Missense,Substitution,7,216,ATT ATG,Ile Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0185
+c.-35G>A,Promoter,Substitution,5'UTR,,g>a,,,,10,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0132
+c.-29-?_1386+?del,Large Structure Change (>50bp),Deletion,1-8,,del exons 1-8,,,,15,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1141
+c.1178_1180del,"Small structural change (in-frame, <50bp)",Deletion,8,347,del ACA,del Asn,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1160
+c.892C>T,Nonsense,Substitution,8,252,CGA TGA,Arg *,Protease,Heavy Chain,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0384
+c.227_229del,"Small structural change (in-frame, <50bp)",Deletion,2,30,del AAG,del Glu,GLA,Light Chain,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0253
+c.1279G>A,Missense,Substitution,8,381,GGA AGA,Gly Arg,Protease,Heavy Chain,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0327
+c.1134_1135delinsAACTCTAA,"Small structural change (in-frame, <50bp)",Insertion/deletion,8,332,del CC ins AACTCTAA,del Asp ins Glu Thr Leu,Protease,Heavy Chain,3,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0303
+c.420A>T,Missense,Substitution,5,94,AGA AGT,Arg Ser,EGF2,Light Chain,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0879
+c.401_407del,Frameshift,Deletion,5,88,del GTAACAT,frameshift,EGF2,Light Chain,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS0446
+c.-35G>A,Promoter,Substitution,5'UTR,,g>a,,,,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1651
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,<1,,Severe,No,OTH,,USA,CDC Inhibitor Surveillance Project,HIS1250
+c.1328T>C,Missense,Substitution,8,397,ATA ACA,Ile Thr,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1078
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1277
+c.799C>T,Missense,Substitution,7,221,CAC TAC,His Tyr,Protease,Heavy Chain,<1,,Severe,No,BH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1495
+c.1256T>G,Missense,Substitution,8,373,GTG GGG,Val Gly,Protease,Heavy Chain,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1209
+c.223C>T,Nonsense,Substitution,2,29,CGA TGA,Arg *,GLA,Light Chain,<1,,Severe,Yes,WNH,,USA,CDC Inhibitor Surveillance Project,HIS2022
+c.-29-?_1386+?del,Large Structure Change (>50bp),Deletion,1-8,,del exons 1-8,,,,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1251
+c.212T>C,Missense,Substitution,2,25,TTT TCT,Phe Ser,GLA,Light Chain,2.9,,Moderate,No,OTH,,USA,CDC Inhibitor Surveillance Project,HIS0998
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,8,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1276
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,1,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1270
+c.253-25A>G,Splice site change,Substitution,Intron2,IVS 2 -25,a>g,,,,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1051
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,1.5,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1077
+c.304T>C,Missense,Substitution,4,56,TGT CGT,Cys Arg,EGF1,Light Chain,<1,,Severe,No,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1881
+c.881G>A,Missense,Substitution,8,248,CGA CAA,Arg Gln,Protease,Heavy Chain,3,,Moderate,No,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1220
+c.127C>T,Missense,Substitution,2,-4,CGG TGG,Arg Trp,PRO,Propeptide,7,,Mild,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS1753
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,11,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1539
+c.572G>A,Missense,Substitution,6,145,CGT CAT,Arg His,Linker,Light Chain,5,,Moderate,No,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1280
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,7,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1258
+c.-29-?_1386+?del,Large Structure Change (>50bp),Deletion,1-8,,del exons 1-8,,,,<1,,Severe,Yes,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1940
+c.-29-?_1386+?del,Large Structure Change (>50bp),Deletion,1-8,,del exons 1-8,,,,<1,,Severe,Yes,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1939
+c.301C>G,Missense,Substitution,4,55,CCA GCA,Pro Ala,EGF1,Light Chain,12,,Mild,No,BNH,,USA,CDC Inhibitor Surveillance Project,HIS1282
+c.659C>G,Nonsense,Substitution,6,174,TCA TGA,Ser *,Activation,,<1,,Severe,Yes,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1978
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,5,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1818
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1883
+c.223C>T,Nonsense,Substitution,2,29,CGA TGA,Arg *,GLA,Light Chain,4,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1882
+c.223C>T,Nonsense,Substitution,2,29,CGA TGA,Arg *,GLA,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1827
+c.1025C>T,Missense,Substitution,8,296,ACG ATG,Thr Met,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1822
+c.317G>A,Missense,Substitution,4,60,GGC GAC,Gly Asp,EGF1,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1787
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,9,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1845
+c.316G>A,Missense,Substitution,4,60,GGC AGC,Gly Ser,EGF1,Light Chain,9,,Mild,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1846
+c.155delT,Frameshift,Deletion,2,6,del T,frameshift,GLA,Light Chain,<1,,Severe,No,BH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1784
+c.838+245_1283del,Large Structure Change (>50bp),Deletion,8,0,del >50 bp,,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1814
+c.268C>T,Nonsense,Substitution,3,44,CAG TAG,Gln *,GLA,Light Chain,<1,,Severe,No,WH,Hispanic,USA,CDC Inhibitor Surveillance Project,HIS1887
+c.392-21_392-22del,Frameshift,Deletion,Intron 4,IVS 4 -21_-22,del CT,,,,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1761
+c.571C>T,Missense,Substitution,6,145,CGT TGT,Arg Cys,Linker,Light Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1757
+c.934T>G,Missense,Substitution,8,266,TAC GAC,Tyr Asp,Protease,Heavy Chain,<1,,Severe,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1811
+c.880C>T,Nonsense,Substitution,8,248,CGA TGA,Arg *,Protease,Heavy Chain,2,,Moderate,No,WNH,,USA,CDC Inhibitor Surveillance Project,HIS1808

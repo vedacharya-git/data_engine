@@ -1,0 +1,1140 @@
+HGVS cDNA Name,Yoshitake Nucleotide No.,hg19 Nucleotide No.,HGVS Protein Name,Mature Protein Change,Mutation Type,Mechanism,Exon,Codon,Domain,Subtype,"Severe
+(<1U/dL)","Moderate
+(1-5U/dL)","Mild
+(>5U/dL)","Unclassified
+(no FIX level)","Reported
+Severity",History of Inhibitor,Comments,Reference,"Year
+ Reported"
+c.-19C>G,11C>G,g.138612905C>G,,,Promoter,Substitution,1,-53,Signal Peptide,Signal Peptide,,,,X,Mild,Not Reported,,223,2013
+c.8G>A,37G>A,g.138612931G>A,p.Arg3His,Arg-44His,Missense,Substitution,1,-44,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,"Polynorphism, dbSNPID:  rs148060786",235,1992
+c.19A>T,48A>T,g.138612942A>T,p.Ile7Phe,Ile-40Phe,Missense,Substitution,1,-40,Signal Peptide,Signal Peptide,X,,X,,Severe,Not Reported,"Polynorphism, dbSNPID:  rs150190385",157,1993
+c.27_28del,56_57del,g.138612950_138612951del,p.Glu10fs,Glu-37fs,Frameshift,Deletion,1,-37,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,FIXMD,
+c.30delA,59delA,g.138612953delA,p.Glu10fs,Glu-37fs,Frameshift,Deletion,1,-37,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,FIXMD,
+c.50T>A,79T>A,g.138612973T>A,p.Ile17Asn,Ile-30Asn,Missense,Substitution,1,-30,Signal Peptide,Signal Peptide,X,X,,,Severe,Not Reported,,76,1993
+c.52_53insTC,81insTC,g.138612975_138612976insTC,p.Cys18fs,Cys-29fs,Frameshift,Insertion,1,-29,Signal Peptide,Signal Peptide,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.53G>T,82G>T,g.138612976G>T,p.Cys18Phe,Cys-29Phe,Missense,Substitution,1,-29,Signal Peptide,Signal Peptide,,X,,,Moderate,Not Reported,,FIXMD,
+c.55delC,84delC,g.138612978delC,p.Leu19fs,Leu-28fs,Frameshift,Deletion,1,-28,Signal Peptide,Signal Peptide,X,,,X,Not Reported,Not Reported,,90,2001
+c.56delT,85delT,g.138612979delT,p.Leu20*,Leu-27stop,Frameshift,Deletion,1,-27,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,FIXMD,
+c.59T>A,88T>A,g.138612982T>A,p.Leu20*,Leu-27Stop,Nonsense,Substitution,1,-27,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,43,2000
+c.59T>C,88T>C,g.138612982T>C,p.Leu20Ser,Leu-27Ser,Missense,Substitution,1,-27,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,119,2000
+c.60delA,89delA,g.138612983delA,p.Gly21fs,Gly-26fs,Frameshift,Deletion,1,-26,Signal Peptide,Signal Peptide,X,,,X,Not Reported,Not Reported,,FIXMD,
+c.61G>T,90G>T,g.138612984G>T,p.Gly21*,Gly-26Stop,Nonsense,Substitution,1,-26,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,FIXMD,
+c.62G>T,91G>T,g.138612985G>T,p.Gly21Val,Gly-26Val,Missense,Substitution,1,-26,Signal Peptide,Signal Peptide,,,,X,Mild,Not Reported,,FIXMD,
+c.63_64del,92_93delAT,g.138612986_138612987del,p.Tyr22fs,Tyr-25fs,Frameshift,Deletion,1,-25,Signal Peptide,Signal Peptide,,X,,,Moderate,Yes,,FIXMD,
+c.64T>G,93T>G,g.138612987T>G,p.Tyr22*,Tyr-25Stop,Nonsense,Substitution,1,-25,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,161,2009
+c.66T>A,95T>A,g.138612989T>A,p.Tyr22*,Tyr-25Stop,Nonsense,Substitution,1,-25,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,FIXMD,
+c.68T>C,97T>C,g.138612991T>C,p.Leu23Pro,Leu-24Pro,Missense,Substitution,1,-24,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,FIXMD,
+c.71T>C,100T>C,g.138612994T>C,p.Leu24Pro,Leu-23Pro,Missense,Substitution,1,-23,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,112,2008
+c.68delT,97delT,g.138612991delT,p.Leu23Hisfs*19,Leu-23Hisfs*19,Frameshift,Deletion,1,-23,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,222,2014
+c.76_77delGinsAGATATCCTAAA,105_106delGins12bp,g.138612999_138613000delGins12bp,p.Ala26fs,Ala-21fs,Frameshift,Insertion/deletion,1,-21,Signal Peptide,Signal Peptide,X,,,,Severe,Yes,,162,2013
+c.77C>A,106C>A,g.138613000C>A,p.Ala26Asp,Ala-21Asp,Missense,Substitution,1,-21,Signal Peptide,Signal Peptide,,X,,,Moderate,Not Reported,,FIXMD,
+c.78_81del,107_110del,g.138613001_138613004del,p.Cys28fs,Cys-19fs,Frameshift,Deletion,1,-19,Signal Peptide,Signal Peptide,,X,,,Moderate,Not Reported,,12,2005
+c.82T>C,111T>C,g.138613005T>C,p.Cys28Arg,Cys-19Arg,Missense,Substitution,1,-19,Signal Peptide,Signal Peptide,,X,X,,Moderate/Mild,No,,23,1991
+c.82T>G,111T>G,g.138613005T>G,p.Cys28Gly,Cys-19Gly,Missense,Substitution,1,-19,Signal Peptide,Signal Peptide,,,X,,Severe,Not Reported,,119,2000
+c.83delG,112deG,g.138613006delG,p.Cys28fs,Cys-19fs,Frameshift,Deletion,1,-19,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,65,1993
+c.83G>A,112G>A,g.138613006G>A,p.Cys28Tyr,Cys-19Tyr,Missense,Substitution,1,-19,Signal Peptide,Signal Peptide,X,X,,,Moderate,Not Reported,,153,2003
+c.84T>A,113T>A,g.138613007T>A,p.Cys28*,Cys-19Stop,Nonsense,Substitution,1,-19,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,60,2011
+c.84T>G,113T>G,g.138613007T>G,p.Cys28Trp,Cys-19Trp,Missense,Substitution,1,-19,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,148,1995
+c.85_88+6del,114_123del,g.138613008_138613017del,p.Cys28fs,Cys-19fs,Frameshift,Deletion,1,-19,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,172,1994
+c.84_85insAT,113_114insAT,g.138613007_138613008insAT,p.Thr29fs,Thr-18fs,Frameshift,Insertion,1,-18,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,,FIXMD,
+c.86C>T,115C>T,g.138613009C>T,p.Thr29Ile,Thr-18Ile,Missense,Substitution,1,-18,Signal Peptide,Signal Peptide,X,,,,Severe,Not Reported,May affect splice site,FIXMD,
+c.86delC,115delC,g.138613009delC,p.Thr29Lysfs*13,Thr-18Lysfs*13,Frameshift,Deletion,1,-18,Signal Peptide,Signal Peptide,,,,X,Severe,No,,219,2012
+c.87A>G,116A>G,g.138613010A>G,p.Thr29Thr,Thr-18Thr,Synonymous,Substitution,1,-18,PRO,Propeptide,X,X,X,,Severe,No,May affect splice site,194,1990
+c.88G>A,117G>A,g.138613011G>A,p.Val30Ile,Val-17Ile,Missense,Substitution,1,-17,PRO,Propeptide,X,,,,Severe,Not Reported,May affect splice site,23,1991
+c.88G>C,117G>C,g.138613011G>C,p.Val30Leu,Val-17Leu,Missense,Substitution,1,-17,PRO,Propeptide,X,,,,Not Reported,Not Reported,,143,2008
+c.95delT,6332delT,g.138619175delT,p.Asp33fs,Asp-14fs,Frameshift,Deletion,2,-14,PRO,Propeptide,X,,,,Severe,Not Reported,,32,1995
+c.103G>T,6340G>T,g.138619183G>T,p.Glu35*,Glu-12Stop,Nonsense,Substitution,2,-12,PRO,Propeptide,X,,,,Severe,Yes,,162,2013
+c.101delA,6287delA,g.138619181delA,p.His34Leufs*8,His-12Leufs*8,Frameshift,Deletion,2,-12,PRO,Propeptide,,,,X,Severe,Not Reported,,223,2013
+c.107A>C,6344A>C,g.138619187A>C,p.Asn36Thr,Asn-11Thr,Missense,Substitution,2,-11,PRO,Propeptide,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.109G>A,6346G>A,g.138619189G>A,p.Ala37Thr,Ala-10Thr,Missense,Substitution,2,-10,PRO,Propeptide,,,,X,Not Reported,Not Reported,,42,1996
+c.110C>A,6347C>A,g.138619190C>A,p.Ala37Asp,Ala-10Asp,Missense,Substitution,2,-10,PRO,Propeptide,,,,X,Severe,Not Reported,,FIXMD,
+c.110C>T,6347C>T,g.138619190C>T,p.Ala37Val,Ala-10Val,Missense,Substitution,2,-10,PRO,Propeptide,,,,X,Not Reported,Not Reported,,152,1997
+c.112A>C,6349A>C,g.138619192A>C,p.Asn38His,Asn-9His,Missense,Substitution,2,-9,PRO,Propeptide,X,,,,Severe,Not Reported,,161,2009
+c.118delA,6355delA,g.138619198delA,p.Ile40Phefs*1,Ile-7fs,Frameshift,Deletion,2,-7,PRO,Propeptide,X,,,,Severe,Not Reported,,128,2004
+c.119delT,6356delT,g.138619199delT,p.Leu41*,Leu-7Stop,Frameshift,Deletion,2,-7,PRO,Propeptide,X,,,,Severe,Not Reported,,FIXMD,
+c.127C>T,6364C>T,g.138619207C>T,p.Arg43Trp,Arg-4Trp,Missense,Substitution,2,-4,PRO,Propeptide,X,X,X,,Severe,No,CpG,72,1989
+c.127delC,6364delC,g.138619207delC,p.Arg43fs,Arg-4fs,Frameshift,Deletion,2,-4,PRO,Propeptide,X,,,,Severe,Not Reported,,94,2003
+c.128G>A,6365G>A,g.138619208G>A,p.Arg43Gln,Arg-4Gln,Missense,Substitution,2,-4,PRO,Propeptide,X,X,X,,Severe,No,CpG,72,1989
+c.128G>T,6365G>T,g.138619208G>T,p.Arg43Leu,Arg-4Leu,Missense,Substitution,2,-4,PRO,Propeptide,X,X,,,Severe,Not Reported,,232,1990
+c.129delG,6366delG,g.138619209delG,p.Pro44Glnfs*60,Pro-3Gln*60,Frameshift,Deletion,2,-3,PRO,Propeptide,,,,X,Severe,No,,219,2012
+c.133_134insT,6370_6371insT,g.138619213_138619214insT,p.Lys45*,Lys'-2Stop,Frameshift,Insertion,2,-2,PRO,Propeptide,X,,,,Severe,Not Reported,,7,1999
+c.133A>T,6370A>T,g.138619213A>T,p.Lys45*,Lys-2Stop,Nonsense,Substitution,2,-2,PRO,Propeptide,X,,,,Severe,Not Reported,,FIXMD,
+c.133delA,6370delA,g.138619213delA,p.Lys45fs,Lys-2fs,Frameshift,Deletion,2,-2,PRO,Propeptide,X,,,,Severe,Not Reported,,217,1995
+c.135G>C,6372G>C,g.138619215G>C,p.Lys45Asn,Lys-2Asn,Missense,Substitution,2,-2,PRO,Propeptide,X,,,,Severe,Not Reported,,12,2005
+c.135G>T,6372G>T,g.138619215G>T,p.Lys45Asn,Lys-2Asn,Missense,Substitution,2,-2,PRO,Propeptide,X,,,,Severe,Not Reported,,197,1992
+c.137G>A,6374G>A,g.138619217G>A,p.Arg46Lys,Arg-2Lys,Missense,Substitution,2,-2,PRO,Propeptide,X,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.137G>C,6374G>C,g.138619217G>C,p.Arg46Thr,Arg-2Thr,Missense,Substitution,2,-2,PRO,Propeptide,X,,,,Severe,Not Reported,,FIXMD,
+c.138G>C,6375G>C,g.138619218G>C,p.Arg47Ser,Arg-1Ser,Missense,Substitution,2,-1,PRO,Propeptide,X,,,,Severe,Not Reported,,56,1986
+c.138G>T,6375G>T,g.138619218G>T,p.Arg47Ser,Arg-1Ser,Missense,Substitution,2,-1,PRO,Propeptide,X,X,,,Severe,Not Reported,,56,1986
+c.142A>G,6379A>G,g.138619222A>G,p.Asn48Asp,Asn2Asp,Missense,Substitution,2,2,GLA,Light Chain,,,X,,Mild,Not Reported,,232,1990
+c.142A>T,6379A>T,g.138619222A>T,p.Asn48Tyr,Asn2Tyr,Missense,Substitution,2,2,GLA,Light Chain,,X,,,Moderate,Not Reported,,43,2000
+c.143A>T,6380A>T,g.138619223A>T,p.Asn48Ile,Asn2Ile,Missense,Substitution,2,2,GLA,Light Chain,,X,,,Moderate,Not Reported,,157,1993
+c.143delA,6380delA,g.138619223delA,p.Asn48fs,Asn2fs,Frameshift,Deletion,2,2,GLA,Light Chain,X,,,,Severe,Not Reported,,65,1993
+c.145T>C,6382T>C,g.138619225T>C,p.Ser49Pro,Ser3Pro,Missense,Substitution,2,3,GLA,Light Chain,,X,,,Moderate,Not Reported,,140,1999
+c.146C>G,6383C>G,g.138619226C>G,p.Ser49*,Ser3Stop,Nonsense,Substitution,2,3,GLA,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.147delA,6384delA,g.138619227delA,p.Ser49fs,Ser3fs,Frameshift,Deletion,2,3,GLA,Light Chain,X,,,,Severe,Not Reported,,172,1994
+c.148G>A,6385G>A,g.138619228G>A,p.Gly50Ser,Gly4Ser,Missense,Substitution,2,4,GLA,Light Chain,,,X,X,Mild,Not Reported,,172,1994
+c.149G>A,6386G>A,g.138619229G>A,p.Gly50Asp,Gly4Asp,Missense,Substitution,2,4,GLA,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.151A>G,6388A>G,g.138619231A>G,p.Lys51Glu,Lys5Glu,Missense,Substitution,2,5,GLA,Light Chain,,X,X,,Moderate,Not Reported,,232,1990
+c.153A>G,6390A>G,g.138619233A>G,p.Lys51Lys,Lys5Lys,Synonymous,Substitution,2,5,GLA,Light Chain,,,X,,Mild,Not Reported,May affect splice site,232,1990
+c.155delT,6392delT,g.138619235delT,p.Leu52fs,Leu6fs,Frameshift,Deletion,2,6,GLA,Light Chain,X,,,,Severe,No,,72,1989
+c.155T>C,6392T>C,g.138619235T>C,p.Leu52Ser,Leu6Ser,Missense,Substitution,2,6,GLA,Light Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.157G>A,6394G>A,g.138619237G>A,p.Glu53Lys,Glu7Lys,Missense,Substitution,2,7,GLA,Light Chain,X,,,,Severe,Not Reported,,43,2000
+c.158_165delins12bp,6395_6402delins12bp,g.138619238_45delins12bp,p.Glu53fs,Glu7fs,Frameshift,Deletion,2,7,GLA,Light Chain,X,,,,Severe,Not Reported,,211,1998
+c.158A>C,6395A>C,g.138619238A>C,p.Glu53Ala,Glu7Ala,Missense,Substitution,2,7,GLA,Light Chain,,X,,,Moderate,Not Reported,,216,1991
+c.158A>G,6395A>G,g.138619238A>G,p.Glu53Gly,Glu7Gly,Missense,Substitution,2,7,GLA,Light Chain,,X,,,Moderate,Not Reported,,12,2005
+c.158A>T,6395A>T,g.138619238A>T,p.Glu53Val,Glu7Val,Missense,Substitution,2,7,GLA,Light Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.159_160del,6396_6397del,g.138619239_138619240del,p.Glu54fs,Glu8fs,Frameshift,Deletion,2,8,GLA,Light Chain,X,,,,Severe,Not Reported,,74,1991
+c.160G>A,6397G>A,g.138619240G>A,p.Glu54Lys,Glu8Lys,Missense,Substitution,2,8,GLA,Light Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.160G>C,6397G>C,g.138619240G>C,p.Glu54Gln,Glu8Gln,Missense,Substitution,2,8,GLA,Light Chain,X,,,,Severe,No,,162,2013
+c.161A>C,6398A>C,g.138619241A>C,p.Glu54Ala,Glu8Ala,Missense,Substitution,2,8,GLA,Light Chain,,X,,,Moderate,Not Reported,,172,1994
+c.161A>G,6398A>G,g.138619241A>G,p.Glu54Gly,Glu8Gly,Missense,Substitution,2,8,GLA,Light Chain,,X,,,Moderate,Not Reported,,23,1991
+c.162G>C,6399G>C,g.138619242G>C,p.Glu54Asp,Glu8Asp,Missense,Substitution,2,8,GLA,Light Chain,X,,,,Severe,Not Reported,,218,1999
+c.161_162del,6347_6348del,g.138619240_138619241del,p.Glu54Valfs*7,Glu8Valfs*7,Frameshift,Deletion,2,8,GLA,Light Chain,X,,,,Severe,Not Reported,,224,2013
+c.163T>A,6400T>A,g.138619243T>A,p.Phe55Ile,Phe9Ile,Missense,Substitution,2,9,GLA,Light Chain,,X,X,X,Mild,Not Reported,,172,1994
+c.164_173del,6401_6500del,g.138619244_138619253del,p.Phe55*,Phe9stop,Frameshift,Deletion,2,9,GLA,Light Chain,X,,,,Severe,Yes,,FIXMD,
+c.164T>A,6401T>A,g.138619244T>A,p.Phe55Tyr,Phe9Tyr,Missense,Substitution,2,9,GLA,Light Chain,,X,,,Not Reported,Not Reported,,FIXMD,
+c.164T>C,6401T>C,g.138619244T>C,p.Phe55Ser,Phe9Ser,Missense,Substitution,2,9,GLA,Light Chain,X,,,,Severe,Not Reported,,105,1999
+c.164T>G,6401T>G,g.138619244T>G,p.Phe55Cys,Phe9Cys,Missense,Substitution,2,9,GLA,Light Chain,X,,X,,Severe,Not Reported,,140,1999
+c.165_170del,6402_6407del,g.138619245_138619250del,p.Phe55fs*1,Phe9fs*1,Frameshift,Deletion,2,9,GLA,Light Chain,X,,,,Severe,Yes,,235,1992
+c.169C>G,6406C>G,g.138619249C>G,p.Gln57Glu,Gln11Glu,Missense,Substitution,2,11,GLA,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.169C>T,6406C>T,g.138619249C>T,p.Gln57*,Gln11Stop,Nonsense,Substitution,2,11,GLA,Light Chain,X,,,,Not Reported,Not Reported,,216,1991
+c.172G>A,6409G>A,g.138619252G>A,p.Gly58Arg,Gly12Arg,Missense,Substitution,2,12,GLA,Light Chain,X,X,X,,Severe,No,,71,1993
+c.172G>C,6409G>C,g.138619252G>C,p.Gly58Arg,Gly12Arg,Missense,Substitution,2,12,GLA,Light Chain,,,X,,Severe,Not Reported,,112,2008
+c.173G>A,6410G>A,g.138619253G>A,p.Gly58Glu,Gly12Glu,Missense,Substitution,2,12,GLA,Light Chain,X,X,X,X,Severe,Not Reported,,172,1994
+c.173G>C,6410G>C,g.138619253G>C,p.Gly58Ala,Gly12Ala,Missense,Substitution,2,12,GLA,Light Chain,,X,,X,Moderate,Not Reported,,31,1991
+c.173G>T,6410G>T,g.138619253G>T,p.Gly58Val,Gly12Val,Missense,Substitution,2,12,GLA,Light Chain,X,,,,Severe,Not Reported,,95,2005
+c.174delG,6411delG,g.138619254delG,p.Asn59fs,Asn13fs,Frameshift,Deletion,2,13,GLA,Light Chain,X,,,,Severe,Not Reported,,28,1997
+c.178C>T,6415C>T,g.138619258C>T,p.Leu60Phe,Leu14Phe,Missense,Substitution,2,14,GLA,Light Chain,,,X,,Mild,No,,CDC,
+c.179_180del,6416_6417delTT,g.138619259_138619260del,p.Leu60fs,Leu14fs,Missense,Substitution,2,14,GLA,Light Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.179T>C,6416T>C,g.138619259T>C,p.Leu60Pro,Leu14Pro,Missense,Substitution,2,14,GLA,Light Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.182_185del,6418_6421del,g.138619262_138619265del,p.Arg62fs,Arg16fs,Frameshift,Deletion,2,16,GLA,Light Chain,,X,,,Moderate,Not Reported,,198,1995
+c.184A>T,6421A>T,g.138619264A>T,p.Arg62*,Arg16Stop,Nonsense,Substitution,2,16,GLA,Light Chain,X,,,,Severe,Not Reported,,145,2006
+c.185_188del,6422_6425del,g.138619265_138619268del,p.Arg62fs,Arg16fs,Frameshift,Deletion,2,16,GLA,Light Chain,,,,X,Severe,Not Reported,,12,2005
+c.187G>A,6424G>A,g.138619267G>A,p.Glu63Lys,Glu17Lys,Missense,Substitution,2,17,GLA,Light Chain,,X,,X,Severe,Not Reported,,65,1993
+c.187G>C,6424G>C,g.138619267G>C,p.Glu63Gln,Glu17Gln,Missense,Substitution,2,17,GLA,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.188A>C,6425A>C,g.138619268A>C,p.Glu63Ala,Glu17Ala,Missense,Substitution,2,17,GLA,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.188A>G,6425A>G,g.138619268A>G,p.Glu63Gly,Glu17Gly,Missense,Substitution,2,17,GLA,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.188A>T,6425A>T,g.138619268A>T,p.Glu63Val,Glu17Val,Missense,Substitution,2,17,GLA,Light Chain,X,,,,Severe,Not Reported,,95,2005
+c.190T>C,6427T>C,g.138619270T>C,p.Cys64Arg,Cys18Arg,Missense,Substitution,2,18,GLA,Light Chain,X,X,,X,Severe,Not Reported,,235,1992
+c.191G>A,6428G>A,g.138619271G>A,p.Cys64Tyr,Cys18Tyr,Missense,Substitution,2,18,GLA,Light Chain,X,X,X,,Moderate,Not Reported,,23,1991
+c.196G>A,6433G>A,g.138619276G>A,p.Glu66Lys,Glu20Lys,Missense,Substitution,2,20,GLA,Light Chain,,,X,,Not Reported,Not Reported,,FIXMD,
+c.197A>T,6434A>T,g.138619277A>T,p.Glu66Val,Glu20Val,Missense,Substitution,2,20,GLA,Light Chain,,,,X,Moderate,Not Reported,,217,1995
+c.199G>A,6436G>A,g.138619279G>A,p.Glu67Lys,Glu21Lys,Missense,Substitution,2,21,GLA,Light Chain,X,X,,,Moderate,Not Reported,,79,1991
+c.201A>C,6387A>C,g.138619281A>C,p.Glu67Asp,Glu21Asp,Missense,Substitution,2,21,GLA,Light Chain,,,,X,Mild,Not Reported,,223,2013
+c.203delA,6440delA,g.138619283delA,p.Lys68fs,Lys22fs,Frameshift,Deletion,2,22,GLA,Light Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.204delG,6441delG,g.138619284delG,p.Lys68fs,Lys22fs,Frameshift,Deletion,2,22,GLA,Light Chain,,X,,,Moderate,Not Reported,,172,1994
+c.205T>C,6442T>C,g.138619285T>C,p.Cys69Arg,Cys23Arg,Missense,Substitution,2,23,GLA,Light Chain,X,,,,Severe,Not Reported,,116,1991
+c.205T>G,6442T>G,g.138619285T>G,p.Cys69Gly,Cys23Gly,Missense,Substitution,2,23,GlA,Light Chain,X,,,,Severe,No,,96,2009
+c.206G>A,6443G>A,g.138619286G>A,p.Cys69Tyr,Cys23Tyr,Missense,Substitution,2,23,GLA,Light Chain,X,,,X,Severe,Not Reported,"Polynorphism, dbSNPID:  rs139089559",172,1994
+c.212T>C,6449T>C,g.138619292T>C,p.Phe71Ser,Phe25Ser,Missense,Substitution,2,25,GLA,Light Chain,,X,,X,Moderate,Not Reported,,235,1992
+c.212T>G,6449T>G,g.138619292T>G,p.Phe71Cys,Phe25Cys,Missense,Substitution,2,25,GLA,Light Chain,,,X,,Mild,Not Reported,,12,2005
+c.214G>C,6451G>C,g.138619294G>C,p.Glu72Gln,Glu26Gln,Missense,Substitution,2,26,GLA,Light Chain,X,,,X,Not Reported,Not Reported,,190,1993
+c.214G>T,6451G>T,g.138619294G>T,p.Glu72*,Glu26Stop,Nonsense,Substitution,2,26,GLA,Light Chain,X,,,,Severe,Not Reported,,60,2011
+c.215A>G,6452A>G,g.138619295A>G,p.Glu72Gly,Glu26Gly,Missense,Substitution,2,26,GLA,Light Chain,,,,X,Severe,Not Reported,,119,2000
+c.217_219del,6454_6456del,g.138619297_138619299del,p.Glu73del,Glu27del,"Small structural change (in-frame, <50bp)",Deletion,2,27,GLA,Light Chain,,,,X,Severe,Not Reported,,119,2000
+c.217G>A,6454G>A,g.138619297G>A,p.Glu73Lys,Glu27Lys,Missense,Substitution,2,27,GLA,Light Chain,X,,,,Severe,Not Reported,,36,1989
+c.217G>T,6454G>T,g.138619297G>T,p.Glu73*,Glu27Stop,Nonsense,Substitution,2,27,GLA,Light Chain,,,,X,Severe,Not Reported,,119,2000
+c.218A>C,6455A>C,g.138619298A>C,p.Glu73Ala,Glu27Ala,Missense,Substitution,2,27,GLA,Light Chain,,,X,,Mild,Not Reported,,7,1999
+c.218A>T,6455A>T,g.138619298A>T,p.Glu73Val,Glu27Val,Missense,Substitution,2,27,GLA,Light Chain,X,,,X,Severe,Not Reported,,207,1990
+c.219A>C,6456A>C,g.138619299A>C,p.Glu73Asp,Glu27Asp,Missense,Substitution,2,27,GLA,Light Chain,X,X,,,Severe,Not Reported,,236,1995
+c.219A>T,6456A>T,g.138619299A>T,p.Glu73Asp,Glu27Asp,Missense,Substitution,2,27,GLA,Light Chain,X,,,,Severe,Not Reported,,43,2000
+c.219_210InsA,6456_6457insA,g.138619299_300insA,p.Ala74fs,Ala28fs,Frameshift,Insertion,2,28,GLA,Light Chain,,,,X,Not Reported,Not Reported,,140,1999
+c.223C>G,6409C>G,g.138619303C>G,p.Arg75Gly,Arg29Gly,Missense,Substitution,2,29,GLA,Light Chain,,,X,,Mild,Not Reported,,222,2014
+c.223C>T,6460C>T,g.138619303C>T,p.Arg75Stop,Arg29Stop,Nonsense,Substitution,2,29,GLA,Light Chain,X,X,,,Severe,No,CpG,72,1989
+c.224G>A,6461G>A,g.138619304G>A,p.Arg75Gln,Arg29Gln,Missense,Substitution,2,29,GLA,Light Chain,,,X,X,Mild,No,CpG,109,1989
+c.224G>C,6461G>C,g.138619304G>C,p.Arg75Pro,Arg29Pro,Missense,Substitution,2,29,GLA,Light Chain,,X,,,Moderate,Not Reported,,198,1995
+c.226G>A,6463G>A,g.138619306G>A,p.Glu76Lys,Glu30Lys,Missense,Substitution,2,30,GLA,Light Chain,X,X,,,Severe,Not Reported,,102,1993
+c.226G>C,6463G>C,g.138619306G>C,p.Glu76Gln,Glu30Gln,Missense,Substitution,2,30,GLA,Light Chain,,,,X,Moderate,No,,12,2005
+c.226G>T,6463G>T,g.138619306G>T,p.Glu76*,Glu30Stop,Nonsense,Substitution,2,30,GLA,Light Chain,X,,,,Severe,Not Reported,,217,1995
+c.227_229del,6464_6466del,g.138619307_138619309del,p.Glu76del,Glu30del,"Small structural change (in-frame, <50bp)",Deletion,2,30,GLA,Light Chain,,X,,,Moderate,No,,219,2012
+c.228A>C,6465A>C,g.138619308A>C,p.Glu76Asp,Glu30Asp,Missense,Substitution,2,30,GLA,Light Chain,X,,,,Severe,Not Reported,,112,2008
+c.227A>C,6413A>C,g.138619307A>C,p.Glu76Ala,Glu30Ala,Missense,Substitution,2,30,GLA,Light Chain,,,,X,Severe,Not Reported,,223,2013
+c.229delG,6466delG,g.138619309delG,p.Val77fs,Val31fs,Frameshift,Deletion,2,31,GLA,Light Chain,X,,,,Severe,Not Reported,,74,1991
+c.230_231del,6467_6468del,g.138619310_138619311del,p.Phe78*,Phe32Stop,Frameshift,Deletion,2,32,GLA,Light Chain,X,,,,Severe,Not Reported,,198,1995
+c.233T>C,6470T>C,g.138619313T>C,p.Phe78Ser,Phe32Ser,Missense,Substitution,2,32,GLA,Light Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.235_236insGG,6472_6473insGG,g.138619315_138619316insGG,p.Glu79fs,Glu33fs,Frameshift,Insertion,2,33,GLA,Light Chain,,,,X,Not Reported,Not Reported,,172,1994
+c.235G>A,6472G>A,g.138619315G>A,p.Glu79Lys,Glu33Lys,Missense,Substitution,2,33,GLA,Light Chain,X,,,X,Not Reported,Not Reported,,61,2004
+c.235G>C,6472G>C,g.138619315G>C,p.Glu79Gln,Glu33Gln,Missense,Substitution,2,33,GLA,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.235G>T,6472G>T,g.138619315G>T,p.Glu79*,Glu33Stop,Nonsense,Substitution,2,33,GLA,Light Chain,X,,,,Severe,Not Reported,,81,1994
+c.236A>C,6473A>C,g.138619316A>C,p.Glu79Ala,Glu33Ala,Missense,Substitution,2,33,GLA,Light Chain,,,X,,Moderate,Not Reported,,119,2000
+c.236A>G,6473A>G,g.138619316A>G,p.Glu79Glyf,Glu33Gly,Missense,Substitution,2,33,GLA,Light Chain,,X,,,Moderate,Not Reported,,FIXMD,1998
+c.237A>C,6474A>C,g.138619317A>C,p.Glu79Asp,Glu33Asp,Missense,Substitution,2,33,GLA,Light Chain,,X,,X,Moderate,Not Reported,,109,1989
+c.236A>T,6422A>T,g.138619316A>T,p.Glu79Val,Glu33Val,Missense,Substitution,2,33,GLA,Light Chain,,,,X,Severe,Not Reported,,223,2013
+c.236delA,6473delA,g.138619316delA,p.Asn80fs,Asn34fs,Frameshift,Deletion,2,34,GLA,Light Chain,X,,,,Severe,Not Reported,,113,2000
+c.240_241insTGAAAGAACTC,6477_6478ins11bp,g.138619320_138619321insTGAAAGAACTC,p.Glu81*,Glu35Stop,Frameshift,Insertion,2,35,GLA,Light Chain,,,,X,Moderate,No,,219,2012
+c.247_248InsA,6484_6485InsA,g.138619327_28insA,p.Arg83fs,Arg37fs,Frameshift,Insertion,2,37,GLA,Light Chain,X,,,,Severe,Not Reported,,59,1996
+c.248_250del,6485_6487del,g.138619328_138619330del,p.Arg83del,Arg37del,"Small structural change (in-frame, <50bp)",Deletion,2,37,GLA,Light Chain,X,,,,Severe,Not Reported,,72,1989
+c.251C>G,6488C>G,g.138619331C>G,p.Thr84Arg,Thr38Arg,Missense,Substitution,2,38,GLA,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.251C>T,6488C>T,g.138619331C>T,p.Thr84Ile,Thr38Ile,Missense,Substitution,2,38,GLA,Light Chain,,,X,,Mild,Not Reported,,172,1994
+c.255_256del,6680_6481del,g.138619523_138619524del,p.Glu86fs,Glu40fs,Frameshift,Deletion,3,40,GLA,Light Chain,X,,,,Severe,Yes,,130,1990
+c.259T>G,6684T>G,g.138619527T>G,p.Phe87Val,Phe41Val,Missense,Substitution,3,41,GLA,Light Chain,X,X,X,X,Mild,Not Reported,,7,1999
+c.260T>G,6685T>G,g.138619528T>G,p.Phe87Cys,Phe41Cys,Missense,Substitution,3,41,GLA,Light Chain,X,X,,X,Moderate,Not Reported,,12,2005
+c.259delT,6684delT,g.138619527delT,p.Trp88fs,Trp42fs,Frameshift,Deletion,3,42,GLA,Light Chain,X,,,,Severe,Yes,,43,2000
+c.262T>C,6687T>C,g.138619530T>C,p.Trp88Arg,Trp42Arg,Missense,Substitution,3,42,GLA,Light Chain,X,,,,Severe,Not Reported,,129,2007
+c.263G>A,6688G>A,g.138619531G>A,p.Trp88*,Trp42Stop,Nonsense,Substitution,3,42,GLA,Light Chain,X,X,,,Severe,Not Reported,,172,1994
+c.265A>G,6690A>G,g.138619533A>G,p.Lys89Glu,Lys43Glu,Missense,Substitution,3,43,GLA,Light Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.265A>T,6690A>T,g.138619533A>T,p.Lys89*,Lys43Stop,Nonsense,Substitution,3,43,GLA,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.268C>T,6693C>T,g.138619536C>T,p.Gln90*,Gln44Stop,Nonsense,Substitution,3,44,GLA,Light Chain,X,,,,Severe,No,,120,2001
+c.271T>A,6696T>A,g.138619539T>A,p.Tyr91Asn,Tyr45Asn,Missense,Substitution,3,45,GLA,Light Chain,,,X,,Mild,Not Reported,,172,1994
+c.271T>G,6696T>G,g.138619539T>G,p.Tyr91Asp,Tyr45Asp,Missense,Substitution,3,45,GLA,Light Chain,,,X,,Mild,Not Reported,,71,1993
+c.272A>G,6697A>G,g.138619540A>G,p.Tyr91Cys,Tyr45Cys,Missense,Substitution,3,45,GLA,Light Chain,,,,X,Moderate,Not Reported,,217,1995
+c.275T>C,6700T>C,g.138619543T>C,p.Val92Ala,Val46Ala,Missense,Substitution,3,46,GLA,Light Chain,,,,X,Not Reported,Not Reported,,119,2000
+c.277G>A,6702G>A,g.138619545G>A,p.Asp93Asn,Asp47Asn,Missense,Substitution,3,47,EGF1,Light Chain,X,,,,Moderate,Not Reported,May affect splice site,172,1994
+c.277G>C,6702G>C,g.138619545G>C,p.Asp93His,Asp47His,Missense,Substitution,3,47,EGF1,Light Chain,X,,,,Severe,Not Reported,,129,2007
+c.278A>G,10392A>G,g.138623235A>G,p.Asp93Gly,Asp47Gly,Missense,Substitution,4,47,EGF1,Light Chain,,,X,,Mild,Not Reported,,52,1987
+c.279T>A,10393T>A,g.138623236T>A,p.Asp93Glu,Asp47Glu,Missense,Substitution,4,47,EGF1,Light Chain,,X,X,,Moderate,Not Reported,,231,1990
+c.280G>A,10394G>A,g.138623237G>A,p.Gly94Arg,Gly48Arg,Missense,Substitution,4,48,EGF1,Light Chain,,,X,,Mild,Not Reported,,116,1991
+c.281G>T,10395G>T,g.138623238G>T,p.Gly94Val,Gly48Val,Missense,Substitution,4,48,EGF1,Light Chain,,,X,,Mild,Not Reported,,74,1991
+c.282_283del,10396_10397del,g.138623239_138623240del,p.Asp95fs,Asp49fs,Frameshift,Deletion,4,49,EGF1,Light Chain,X,,,,Severe,Not Reported,,12,2005
+c.283_285delinsA,10397_10399delinsA,g.138623240_138623242delinsA,p.Asp95fs,Asp49fs,Frameshift,Deletion,4,49,EGF1,Light Chain,,X,,,Moderate,Not Reported,,172,1994
+c.283G>T,10397G>T,g.138623240G>T,p.Asp95Tyr,Asp49Tyr,Missense,Substitution,4,49,EGF1,Light Chain,,,X,,Mild,Not Reported,,43,2000
+c.284A>G,10398A>G,g.138623241A>G,p.Asp95Gly,Asp49Glu,Missense,Substitution,4,49,EGF1,Light Chain,,X,,,Moderate,Not Reported,,198,1995
+c.284A>T,10398A>T,g.138623241A>T,p.Asp95Val,Asp49Val,Missense,Substitution,4,49,EGF1,Light Chain,,,,X,Not Reported,Not Reported,,119,2000
+c.284delA,10398delA,g.138623241delA,p.Asp95fs,Asp49fs,Frameshift,Deletion,4,49,EGF1,Light Chain,,X,,,Moderate,Not Reported,,7,1999
+c.286C>G,10400C>G,g.138623243C>G,p.Gln96Glu,Gln50Glu,Missense,Substitution,4,50,EGF1,Light Chain,X,,,,Severe,Not Reported,,161,2009
+c.286C>T,10400C>T,g.138623243C>T,p.Gln96*,Gln50Stop,Nonsense,Substitution,4,50,EGF1,Light Chain,X,,,,Severe,Not Reported,,65,1993
+c.287A>C,10401A>C,g.138623244A>C,p.Gln96Pro,Gln50Pro,Missense,Substitution,4,50,EGF1,Light Chain,X,,,,Severe,Not Reported,,121,1990
+c.288G>C,10402G>C,g.138623245G>C,p.Gln96His,Gln50His,Missense,Substitution,4,50,EGF1,Light Chain,,,X,,Mild,Not Reported,,172,1994
+c.288G>T,10402G>T,g.138623245G>T,p.Gln96His,Gln50His,Missense,Substitution,4,50,EGF1,Light Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.289T>A,10403T>A,g.138623246T>A,p.Cys97Ser,Cys51Ser,Missense,Substitution,4,51,EGF1,Light Chain,,,,X,Not Reported,Not Reported,,140,1999
+c.289T>C,10403T>C,g.138623246T>C,p.Cys97Arg,Cys51Arg,Missense,Substitution,4,51,EGF1,Light Chain,X,,,,Severe,Not Reported,,43,2000
+c.290G>A,10404G>A,g.138623247G>A,p.Cys97Tyr,Cys51Tyr,Missense,Substitution,4,51,EGF1,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.291T>G,10405T>G,g.138623248T>G,p.Cys97Trp,Cys51Trp,Missense,Substitution,4,51,EGF1,Light Chain,X,X,,,Severe,Not Reported,,65,1993
+c.292G>T,10406G>T,g.138623249G>T,p.Glu98*,Glu52Stop,Nonsense,Substitution,4,52,EGF1,Light Chain,X,,,,Severe,Not Reported,,23,1991
+c.301C>A,10415C>A,g.138623258C>A,p.Pro101Thr,Pro55Thr,Missense,Substitution,4,55,EGF1,Light Chain,,,X,,Mild,No,,FIXMD,
+c.301C>G,10415C>G,g.138623258C>G,p.Pro101Ala,Pro55Ala,Missense,Substitution,4,55,EGF1,Light Chain,X,X,X,,Severe/Moderate/Mild,No,,72,1989
+c.301C>T,10415C>T,g.138623258C>T,p.Pro101Ser,Pro55Ser,Missense,Substitution,4,55,EGF1,Light Chain,,,X,,Mild,Not Reported,,74,1991
+c.302C>A,10416C>A,g.138623259C>A,p.Pro101Gln,Pro55Gln,Missense,Substitution,4,55,EGF1,Light Chain,,,X,,Mild,Not Reported,,102,1993
+c.302C>G,10416C>G,g.138623259C>G,p.Pro101Arg,Pro55Arg,Missense,Substitution,4,55,EGF1,Light Chain,,,X,,Mild,Not Reported,,140,1999
+c.302C>T,10416C>T,g.138623259C>T,p.Pro101Leu,Pro55Leu,Missense,Substitution,4,55,EGF1,Light Chain,,,X,,Mild,Not Reported,,74,1991
+c.304T>A,10418T>A,g.138623261T>A,p.Cys102Ser,Cys56Ser,Missense,Substitution,4,56,EGF1,Light Chain,,X,,,Moderate,Not Reported,,190,1993
+c.304T>C,10418T>C,g.138623261T>C,p.Cys102Arg,Cys56Arg,Missense,Substitution,4,56,EGF1,Light Chain,X,X,,,Severe,No,,3,1991
+c.305G>A,10419G>A,g.138623262G>A,p.Cys102Tyr,Cys56Tyr,Missense,Substitution,4,56,EGF1,Light Chain,X,X,,X,Moderate,Not Reported,,232,1990
+c.305G>C,10419G>C,g.138623262G>C,p.Cys102Ser,Cys56Ser,Missense,Substitution,4,56,EGF1,Light Chain,X,,,,Severe,Not Reported,,124,1991
+c.305G>T,10419G>T,g.138623262G>T,p.Cys102Phe,Cys56Phe,Missense,Substitution,4,56,EGF1,Light Chain,X,,,,Severe,No,,162,2013
+c.308T>A,10422T>A,g.138623265T>A,p.Leu103*,Leu57Stop,Nonsense,Substitution,4,57,EGF1,Light Chain,,X,,,Severe,Not Reported,,12,2005
+c.311_312del,10425_10426del,g.138623268_138623269del,p.Asn104fs,Asn58fs,Frameshift,Deletion,4,58,EGF1,Light Chain,,X,,,Severe,Not Reported,,12,2005
+c.312T>G,10426T>G,g.138623269T>G,p.Asn104Lys,Asn58Lys,Missense,Substitution,4,58,EGF1,Light Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.313G>A,10427G>A,g.138623270G>A,p.Gly105Ser,Gly59Ser,Missense,Substitution,4,59,EGF1,Light Chain,,,X,,Mild,Not Reported,,172,1994
+c.314G>A,10428G>A,g.138623271G>A,p.Gly105Asp,Gly59Asp,Missense,Substitution,4,59,EGF1,Light Chain,,,X,,Mild,Not Reported,,43,2000
+c.314G>T,10428G>T,g.138623271G>T,p.Gly105Val,Gly59Val,Missense,Substitution,4,59,EGF1,Light Chain,,X,,,Moderate,Not Reported,,23,1991
+c.313G>T,10376G>T,g.138623270G>T,p.Gly105Cys,Gly59Cys,Missense,Substitution,4,59,EGF1,Light Chain,,X,,,Moderate,Not Reported,,224,2013
+c.316G>A,10430G>A,g.138623273G>A,p.Gly106Ser,Gly60Ser,Missense,Substitution,4,60,EGF1,Light Chain,X,X,X,,Mild,No,,55,1988
+c.316G>C,10430G>C,g.138623273G>C,p.Gly106Arg,Gly60Arg,Missense,Substitution,4,60,EGF1,Light Chain,X,,,,Severe,No,,23,1991
+c.316G>T,10430G>T,g.138623273G>T,p.Gly106Cys,Gly60Cys,Missense,Substitution,4,60,EGF1,Light Chain,X,,,,Severe,No,,60,2011
+c.317G>A,10431G>A,g.138623274G>A,p.Gly106Asp,Gly60Asp,Missense,Substitution,4,60,EGF1,Light Chain,,X,,,Moderate,No,,232,1990
+c.322delT,10436delT,g.138623279delT,p.Cys108fs,Cys62fs,Frameshift,Deletion,4,62,EGF1,Light Chain,,,,X,Severe,Not Reported,,113,2000
+c.323G>A,10437G>A,g.138623280G>A,p.Cys108Tyr,Cys62Tyr,Missense,Substitution,4,62,EGF1,Light Chain,,X,,X,Not Reported,Not Reported,,81,1994
+c.323G>C,10437G>C,g.138623280G>C,p.Cys108Ser,Cys62Ser,Missense,Substitution,4,62,EGF1,Light Chain,X,,,,Severe,Not Reported,,140,1999
+c.323G>T,10437G>T,g.138623280G>T,p.Cys108Phe,Cys62Phe,Missense,Substitution,4,62,EGF1,Light Chain,,X,,,Severe,Not Reported,,12,2005
+c.324C>A,10438C>A,g.138623281C>A,p.Cys108*,Cys62Stop,Nonsense,Substitution,4,62,EGF1,Light Chain,,,,X,Not Reported,Not Reported,,140,1999
+c.324C>G,10438C>G,g.138623281C>G,p.Cys108Trp,Cys62Trp,Missense,Substitution,4,62,EGF1,Light Chain,X,,,,Severe,Not Reported,,12,2005
+c.328G>A,10442G>A,g.138623285G>A,p.Asp110Asn,Asp64Asn,Missense,Substitution,4,64,EGF1,Light Chain,,X,,,Moderate,Not Reported,,216,1991
+c.328G>T,10442G>T,g.138623285G>T,p.Asp110Tyr,Asp64Tyr,Missense,Substitution,4,64,EGF1,Light Chain,,,,X,Not Reported,Not Reported,,119,2000
+c.329_330del,10443_10444del,g.138623286_138623287del,p.Asp110fs,Asp64fs,Frameshift,Deletion,4,64,EGF1,Light Chain,X,,,,Severe,Not Reported,,161,2009
+c.329A>G,10443A>G,g.138623286A>G,p.Asp110Gly,Asp64Gly,Missense,Substitution,4,64,EGF1,Light Chain,,,X,,Mild,Not Reported,,72,1989
+c.330T>G,10444T>G,g.138623287T>G,p.Asp110Glu,Asp64Glu,Missense,Substitution,4,64,EGF1,Light Chain,,,X,,Mild,Not Reported,,190,1993
+c.329A>T,10392A>T,g.138623286A>T,p.Asp110Val,Asp64Val,Missense,Substitution,4,64,EGF1,Light Chain,,,,X,Mild,Not Reported,,223,2013
+c.335T>A,10449T>A,g.138623292T>A,p.Ile112Asn,Ile66Asn,Missense,Substitution,4,66,EGF1,Light Chain,,,X,,Mild,Not Reported,,61,2004
+c.335T>C,10449T>C,g.138623292T>C,p.Ile112Thr,Ile66Thr,Missense,Substitution,4,66,EGF1,Light Chain,,X,X,,Moderate,Not Reported,,65,1993
+c.335T>G,10449T>G,g.138623292T>G,p.Ile112Ser,Ile66Ser,Missense,Substitution,4,66,EGF1,Light Chain,,,,X,Not Reported,Not Reported,,140,1999
+c.339T>A,10453T>A,g.138623296T>A,p.Asn113Lys,Asn67Lys,Missense,Substitution,4,67,EGF1,Light Chain,X,,X,,Mild,Not Reported,,28,1997
+c.340T>C,10454T>C,g.138623297T>C,p.Ser114Pro,Ser68Pro,Missense,Substitution,4,68,EGF1,Light Chain,,,,X,Moderate,No,,219,2012
+c.343T>A,10457T>A,g.138623300T>A,p.Tyr115Asn,Tyr69Asn,Missense,Substitution,4,69,EGF1,Light Chain,X,,,,Severe,No,,105,1999
+c.344A>G,10458A>G,g.138623301A>G,p.Tyr115Asn,Tyr69Cys,Missense,Substitution,4,69,EGF1,Light Chain,X,,,X,Severe,Not Reported,,107,1993
+c.349T>A,10463T>A,g.138623306T>A,p.Cys117Ser,Cys71Ser,Missense,Substitution,4,71,EGF1,Light Chain,X,,,X,Not Reported,Not Reported,,148,1995
+c.349T>C,10463T>C,g.138623306T>C,p.Cys117Arg,Cys71Arg,Missense,Substitution,4,71,EGF1,Light Chain,X,,,,Severe,Not Reported,,95,2005
+c.350G>A,10464G>A,g.138623307G>A,p.Cys117Tyr,Cys71Tyr,Missense,Substitution,4,71,EGF1,Light Chain,X,X,,,Severe,Not Reported,,7,1999
+c.350G>C,10464G>C,g.138623307G>C,p.Cys117Ser,Cys71Ser,Missense,Substitution,4,71,EGF1,Light Chain,,,,X,Not Reported,Not Reported,,172,1994
+c.350G>T,10464G>T,g.138623307G>T,p.Cys117Phe,Cys71Phe,Missense,Substitution,4,71,EGF1,Light Chain,X,,,,Severe,Not Reported,,95,2005
+c.351T>A,10465T>A,g.138623308T>A,p.Cys117*,Cys71Stop,Nonsense,Substitution,4,71,EGF1,Light Chain,,,X,,Mild,Not Reported,,172,1994
+c.351T>G,10465T>G,g.138623308T>G,p.Cys117Trp,Cys71Trp,Missense,Substitution,4,71,EGF1,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.352T>A,10466T>A,g.138623309T>A,p.Trp118Arg,Trp72Arg,Missense,Substitution,4,72,EGF1,Light Chain,,,,X,Not Reported,Not Reported,,172,1994
+c.353G>A,10467G>A,g.138623310G>A,p.Trp118*,Trp72Stop,Nonsense,Substitution,4,72,EGF1,Light Chain,X,,,,Severe,Not Reported,,113,2000
+c.354_356dup,10468_10470dup,g.138623311_138623313dup,p.Trp118dup,Trp72dup,"Small structural change (in-frame, <50bp)",Duplication,4,72,EGF1,Light Chain,X,,,,Severe,No,,CDC,
+c.354G>A,10468G>A,g.138623311G>A,p.Trp118*,Trp72Stop,Nonsense,Substitution,4,72,EGF1,Light Chain,X,,,,Severe,Not Reported,,65,1993
+c.355T>C,10469T>C,g.138623312T>C,p.Cys119Arg,Cys73Arg,Missense,Substitution,4,73,EGF1,Light Chain,,X,,,Moderate,Not Reported,,51,1998
+c.356G>A,10470G>A,g.138623313G>A,p.Cys119Tyr,Cys73Tyr,Missense,Substitution,4,73,EGF1,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.356G>T,10470G>T,g.138623313G>T,p.Cys119Phe,Cys73Phe,Missense,Substitution,4,73,EGF1,Light Chain,X,,,,Severe,Not Reported,,217,1995
+c.357T>A,10471T>A,g.138623314T>A,p.Cys119*,Cys73Stop,Nonsense,Substitution,4,73,EGF1,Light Chain,X,,,,Severe,Not Reported,,65,1993
+c.364G>A,10478G>A,g.138623321G>A,p.Gly122Arg,Gly76Arg,Missense,Substitution,4,76,EGF1,Light Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.368T>C,10482T>C,g.138623325T>C,p.Phe123Ser,Phe77Ser,Missense,Substitution,4,77,EGF1,Light Chain,,,X,,Mild,Not Reported,,32,1995
+c.368T>G,10482T>G,g.138623325T>G,p.Phe123Cys,Phe77Cys,Missense,Substitution,4,77,EGF1,Light Chain,X,,,,Not Reported,Not Reported,,172,1994
+c.369T>G,10483T>G,g.138623326T>G,p.Phe123Leu,Phe77Leu,Missense,Substitution,4,77,EGF1,Light Chain,,,X,,Mild,Not Reported,,120,2001
+c.370G>A,10484G>A,g.138623327G>A,p.Glu124Lys,Glu78Lys,Missense,Substitution,4,78,EGF1,Light Chain,X,,,X,Not Reported,Not Reported,,15,1978
+c.373G>A,10487G>A,g.138623330G>A,p.Gly125Arg,Gly79Arg,Missense,Substitution,4,79,EGF1,Light Chain,X,,,,Not Reported,Not Reported,,43,2000
+c.374G>A,10488G>A,g.138623331G>A,p.Gly125Glu,Gly79Glu,Missense,Substitution,4,79,EGF1,Light Chain,,,,X,Not Reported,Not Reported,,140,1999
+c.374G>T,10488G>T,g.138623331G>T,p.Gly125Val,Gly79Val,Missense,Substitution,4,79,EGF1,Light Chain,,,,X,Not Reported,Not Reported,,140,1999
+c.377dup,10440dup,g.138623334dup,p.Asn127Glufs*3,Asn81Glufs*3,Frameshift,Duplication,2,81,EGF1,Light Chain,X,,,,Severe,Not Reported,,222,2014
+c.382T>C,10496T>C,g.138623339T>C,p.Cys128Arg,Cys82Arg,Missense,Substitution,4,82,EGF1,Light Chain,,,,X,Not Reported,Not Reported,,234,1992
+c.383G>A,10497G>A,g.138623340G>A,p.Cys128Tyr,Cys82Tyr,Missense,Substitution,4,82,EGF1,Light Chain,X,X,,,Severe/Moderate,No,,FIXMD,1998
+c.383G>C,10497G>C,g.138623340G>C,p.Cys128Ser,Cys82Ser,Missense,Substitution,4,82,EGF1,Light Chain,X,,,,Not Reported,Not Reported,,FIXMD,
+c.385G>A,10499G>A,g.138623342G>A,p.Glu129Lys,Glu83Lys,Missense,Substitution,4,83,EGF1,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.386A>G,10449A>G,g.138623343A>G,p.Glu129Gly,Glu83Gly,Missense,Substitution,2,83,EGF1,Light Chain,,,X,,Mild,Not Reported,,222,2014
+c.388delT,10502delT,g.138623345delT,p.Leu130*,Leu84Stop,Frameshift,Deletion,4,84,EGF1,Light Chain,,X,,,Moderate,Not Reported,,61,2004
+c.391_392InsG,10505_10506InsG,g.138623348_138623349insG,p.Asp131fs,Asp85fs,Frameshift,Insertion,4,85,EGF1,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.392_398del,17669_17675del,g.138630522_138630528del,p.Asp131fs,Asp85fs,Frameshift,Deletion,5,85,EGF2,Light Chain,X,,,,Severe,Not Reported,,7,1999
+c.392delA,17669delA,g.138630522delA,p.Asp131fs,Asp85fs,Frameshift,Deletion,5,85,EGF2,Light Chain,X,X,,,Severe,Not Reported,,176,1987
+c.398C>T,17634C>T,g.138630528C>T,p.Thr133Ile,Thr87Ile,Missense,Substitution,5,87,EGF2,Light Chain,,,,X,Mild,Not Reported,,223,2013
+c.400T>C,17677T>C,g.138630530T>C,p.Cys134Arg,Cys88Arg,Missense,Substitution,5,88,EGF2,Light Chain,X,,,X,Severe,Not Reported,,172,1994
+c.400T>G,17677T>G,g.138630530T>G,p.Cys134Gly,Cys88Gly,Missense,Substitution,5,88,EGF2,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.401_407del,17678_17684del,g.138630531_138630537del,p.Cys134Leufs*67,Cys88Leufs,Frameshift,Deletion,5,88,EGF2,Light Chain,,X,,,Severe,No,,102,1993
+c.401G>A,17678G>A,g.138630531G>A,p.Cys134Tyr,Cys88Tyr,Missense,Substitution,5,88,EGF2,Light Chain,X,,,,Severe,Not Reported,,190,1993
+c.401G>C,17678G>C,g.138630531G>C,p.Cys134Ser,Cys88Ser,Missense,Substitution,5,88,EGF2,Light Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.401G>T,17678G>T,g.138630531G>T,p.Cys134Gly,Cys88Arg,Missense,Substitution,5,88,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,93,2000
+c.406delA,17683delA,g.138630536delA,p.Ile136fs,Ile90fs,Frameshift,Deletion,5,90,EGF2,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.407T>C,17684T>C,g.138630537T>C,p.Ile136Thr,Ile90Thr,Missense,Substitution,5,90,EGF2,Light Chain,,,X,X,Mild,Not Reported,,172,1994
+c.412A>C,17689A>C,g.138630542A>C,p.Asn138His,Asn92His,Missense,Substitution,5,92,EGF2,Light Chain,X,X,X,,Moderate,Not Reported,,149,1991
+c.412A>G,17689A>G,g.138630542A>G,p.Asn138Asp,Asn92Asp,Missense,Substitution,5,92,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,218,1999
+c.412delA,17689delA,g.138630542delA,p.Asn138fs,Asn92fs,Frameshift,Deletion,5,92,EGF2,Light Chain,X,,,,Severe,Not Reported,,211,1998
+c.413A>G,17690A>G,g.138630543A>G,p.Asn138Ser,Asn92Ser,Missense,Substitution,5,92,EGF2,Light Chain,,,,X,Moderate,Not Reported,,119,2000
+c.414T>A,17691T>A,g.138630544T>A,p.Asn138Lys,Asn92Lys,Missense,Substitution,5,92,EGF2,Light Chain,X,X,,,Moderate,Not Reported,,65,1993
+c.415G>A,17692G>A,g.138630545G>A,p.Gly139Ser,Gly93Ser,Missense,Substitution,5,93,EGF2,Light Chain,X,X,X,,Moderate,Not Reported,,102,1993
+c.416G>A,17693G>A,g.138630546G>A,p.Gly139Asp,Gly93Asp,Missense,Substitution,5,93,EGF2,Light Chain,,X,,X,Moderate,Not Reported,,147,1992
+c.418_419InsA,17695_17696insA,g.138630548_138630549insA,p.Arg140fs,Arg94fs,Frameshift,Insertion,5,94,EGF2,Light Chain,,X,,,Moderate,Not Reported,,200,1996
+c.420A>T,17697A>T,g.138630550A>T,p.Arg140Ser,Arg94Ser,Missense,Substitution,5,94,EGF2,Light Chain,,X,,,Moderate,No,,23,1991
+c.421T>A,17698T>A,g.138630551T>A,p.Cys141Ser,Cys95Ser,Missense,Substitution,5,95,EGF2,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.421T>C,17698T>C,g.138630551T>C,p.Cys141Arg,Cys95Arg,Missense,Substitution,5,95,EGF2,Light Chain,X,,,X,Severe,Not Reported,,12,2005
+c.422G>A,17699G>A,g.138630552G>A,p.Cys141Tyr,Cys95Tyr,Missense,Substitution,5,95,EGF2,Light Chain,X,X,,X,Moderate,Not Reported,,23,1991
+c.422G>C,17699G>C,g.138630552G>C,p.Cys141Ser,Cys95Ser,Missense,Substitution,5,95,EGF2,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.422G>T,17699G>T,g.138630552G>T,p.Cys141Phe,Cys95Phe,Missense,Substitution,5,95,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.423C>A,17700C>A,g.138630553C>A,p.Cys141*,Cys95Stop,Nonsense,Substitution,5,95,EGF2,Light Chain,X,X,,,Severe,Not Reported,,71,1993
+c.423C>G,17700C>G,g.138630553C>G,p.Cys141Trp,Cys95Trp,Missense,Substitution,5,95,EGF2,Light Chain,X,X,,,Severe,Not Reported,,147,1992
+c.424G>A,17701G>A,g.138630554G>A,p.Glu142Lys,Glu96Lys,Missense,Substitution,5,96,EGF2,Light Chain,X,,,,Severe,Not Reported,,61,2004
+c.424G>T,17701G>T,g.138630554G>T,p.Glu142*,Glu96Stop,Nonsense,Substitution,5,96,EGF2,Light Chain,,,,X,Severe,Not Reported,,12,2005
+c.427C>A,17704C>A,g.138630557C>A,p.Gln143Lys,Gln97Lys,Missense,Substitution,5,97,EGF2,Light Chain,X,,,X,Severe,Not Reported,,12,2005
+c.427C>G,17704C>G,g.138630557C>G,p.Gln143Glu,Gln97Glu,Missense,Substitution,5,97,EGF2,Light Chain,X,X,,,Severe/Moderate,Not Reported,,190,1993
+c.427C>T,17704C>T,g.138630557C>T,p.Gln143*,Gln97Stop,Nonsense,Substitution,5,97,EGF2,Light Chain,,,,X,Severe,Not Reported,,113,2000
+c.428A>C,17705A>C,g.138630558A>C,p.Gln143Pro,Gln97Pro,Missense,Substitution,5,97,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.428A>G,17705A>G,g.138630558A>G,p.Gln143Arg,Gln97Arg,Missense,Substitution,5,97,EGF2,Light Chain,X,,,,Severe,Not Reported,,161,2009
+c.429delG,17706delG,g.138630559delG,p.Gln143Hisfs,Gln97Hisfs,Frameshift,Deletion,5,97,EGF2,Light Chain,X,,,,Severe,Not Reported,,117,1993
+c.433T>C,17710T>C,g.138630563T>C,p.Cys145Arg,Cys99Arg,Missense,Substitution,5,99,EGF2,Light Chain,X,,,,Severe,Not Reported,"Polymorphism, dbSNPID:  rs104894807",232,1990
+c.434G>A,17711G>A,g.138630564G>A,p.Cys145Tyr,Cys99Tyr,Missense,Substitution,5,99,EGF2,Light Chain,X,X,,,Moderate,No,,143,2008
+c.435_439del,17712_17716del,g.138630565_138630569del,p.Cys145*,Cys99Stop,Frameshift,Deletion,5,99,EGF2,Light Chain,X,,,,Severe,Not Reported,,97,2008
+c.440_441InsA,17717_17718InsA,g.138630570_138630571insA,p.Asn147fs,Asn101fs,Frameshift,Insertion,5,101,EGF2,Light Chain,X,,,,Severe,Not Reported,,172,1994
+c.448_451del,17684_17689del,g.138630578_138630581del,p.Asp150Thrfs*52,Asp104Thrfs*52,Frameshift,Deletion,5,104,EGF1,Heavy Chain,,,,X,Severe,Not Reported,,226,2013
+c.448_451dup,17725_17729dup,g.138630578_138630581dup,p.Asn151Argfs*2,Asn105Argfs,Frameshift,Duplication,5,105,EGF2,Light Chain,X,,,,Severe,No,,CDC,
+c.449delA,17726delA,g.138630579delA,p.Asn151fs,Asn105fs,Frameshift,Deletion,5,105,EGF2,Light Chain,X,,,,Severe,Not Reported,,113,2000
+c.450_451InsTT,17727_17728InsTT,g.138630580_138630581insTT,p.Asn151fs,Asn105fs,Frameshift,Insertion,5,105,EGF2,Light Chain,X,,,,Severe,Not Reported,,172,1994
+c.453_454del,17730_17731del,g.138630583_138630584del,p.Asn151fs,Asn105fs,Frameshift,Deletion,5,105,EGF2,Light Chain,,,,X,Severe,Not Reported,,119,2000
+c.453_454InsC,17730_17731InsC,g.138630582_138630583insC,p.Lys152fs,Lys106fs,Frameshift,Insertion,5,106,EGF2,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.454A>T,17731A>T,g.138630584A>T,p.Lys152*,Lys106Stop,Nonsense,Substitution,5,106,EGF2,Light Chain,X,,,,Severe,Not Reported,,94,2003
+c.453dupC,17689dupC,g.138630583dupC,p.Lys152Glnfs*8,Lys106Glnfs*8,Frameshift,Duplication,5,106,EGF2,Light Chain,,,,X,Severe,Not Reported,,223,2013
+c.457G>A,17734G>A,g.138630587G>A,p.Val153Met,Val107Met,Missense,Substitution,5,107,EGF2,Light Chain,,,X,,Mild,Not Reported,,12,2005
+c.459G>A,17736G>A,g.138630589G>A,p.Val153Val,Val107Val,Synonymous,Substitution,5,107,EGF2,Light Chain,,,X,,Mild,Not Reported,"Polymorphism, dbSNPID:  rs144314234",194,1990
+c.461T>C,17738T>C,g.138630591T>C,p.Val154Ala,Val108Ala,Missense,Substitution,5,108,EGF2,Light Chain,,,X,,Mild,Not Reported,,31,1991
+c.464G>A,17741G>A,g.138630594G>A,p.Cys155Tyr,Cys109Tyr,Missense,Substitution,5,109,EGF2,Light Chain,X,,,,Severe,Not Reported,,7,1999
+c.464G>C,17741G>C,g.138630594G>C,p.Cys155Ser,Cys109Ser,Missense,Substitution,5,109,EGF2,Light Chain,X,,,,Severe,Not Reported,,12,2005
+c.464G>T,17741G>T,g.138630594G>T,p.Cys155Phe,Cys109Phe,Missense,Substitution,5,109,EGF2,Light Chain,X,X,,,Severe,Not Reported,,218,1999
+c.466_467insCCTGCT,17743_17744ins6bp,g.138630596_138630597insCCTGCT,p.Cys155fs,Cys109fs,Frameshift,Insertion,5,109,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,146,2009
+c.465_466insCCTGCT,17742_17743ins6bp,g.138630595_138630596insCCTGCT,p.Ser156fs,Ser110fs,Frameshift,Insertion,5,110,EGF2,Light Chain,,,,X,Severe,Not Reported,,143,2008
+c.466T>C,17743T>C,g.138630596T>C,p.Ser156Phe,Ser110Phe,Missense,Substitution,5,110,EGF2,Light Chain,X,,X,,Severe,Not Reported,,23,1991
+c.468_469Ins26bp,17745_17746Ins26bp,g.138630598_138630599ins12bp,p.Cys157fs,Cys111fs,Frameshift,Insertion,5,111,EGF2,Light Chain,X,,,,Severe,Not Reported,,190,1993
+c.469T>C,17746T>C,g.138630599T>C,p.Cys157Arg,Cys111Arg,Missense,Substitution,5,111,EGF2,Light Chain,X,,,,Severe,Not Reported,,117,1993
+c.470G>A,17747G>A,g.138630600G>A,p.Cys157Tyr,Cys111Tyr,Missense,Substitution,5,111,EGF2,Light Chain,X,X,,,Moderate,Not Reported,,119,2000
+c.470G>C,17747G>C,g.138630600G>C,p.Cys157Ser,Cys111Ser,Missense,Substitution,5,111,EGF2,Light Chain,X,X,,,Severe,Not Reported,,93,2000
+c.471T>A,17748T>A,g.138630601T>A,p.Cys157*,Cys111Stop,Nonsense,Substitution,5,111,EGF2,Light Chain,,,,X,Severe,Not Reported,,12,2005
+c.478G>A,17755G>A,g.138630608G>A,p.Gly160Arg,Gly114Arg,Missense,Substitution,5,114,EGF2,Light Chain,X,,,X,Not Reported,Not Reported,,70,1996
+c.478G>T,17755G>T,g.138630608G>T,p.Gly160*,Gly114Stop,Nonsense,Substitution,5,114,EGF2,Light Chain,X,,,,Severe,Not Reported,,12,2005
+c.479delG,17756delG,g.138630609delG,p.Gly160fs,Gly114fs,Frameshift,Deletion,5,114,EGF2,Light Chain,X,,,,Severe,Not Reported,,157,1993
+c.479G>A,17756G>A,g.138630609G>A,p.Gly160Glu,Gly114Glu,Missense,Substitution,5,114,EGF2,Light Chain,,X,X,,Mild,Not Reported,,217,1995
+c.479G>C,17756G>C,g.138630609G>C,p.Gly160Ala,Gly114Ala,Missense,Substitution,5,114,EGF2,Light Chain,,X,X,,Mild,Not Reported,,216,1991
+c.479G>T,17756G>T,g.138630609G>T,p.Gly160Val,Gly114Val,Missense,Substitution,5,114,EGF2,Light Chain,X,X,,,Severe,Not Reported,,128,2004
+c.481delT,17758delT,g.138630611delT,p.Tyr161fs,Tyr115fs,Frameshift,Deletion,5,115,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.482A>G,17759A>G,g.138630612A>G,p.Tyr161Cys,Tyr115Cys,Missense,Substitution,5,115,EGF2,Light Chain,X,X,,X,Severe,No,,172,1994
+c.483T>A,17760T>A,g.138630613T>A,p.Tyr161*,Tyr115Stop,Nonsense,Substitution,5,115,EGF2,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.483delT,17760delT,g.138630613delT,p.Arg162fs,Arg116fs,Missense,Substitution,5,116,EGF2,Light Chain,,,,X,Severe,Not Reported,,12,2005
+c.484C>A,17761C>A,g.138630614C>A,p.Arg162Arg,Arg116Arg,Synonymous,Substitution,5,116,EGF2,Light Chain,,X,X,,Moderate,No,Cryptic splice?,172,1994
+c.484C>T,17761C>T,g.138630614C>T,p.Arg162*,Arg116Stop,Nonsense,Substitution,5,116,EGF2,Light Chain,X,X,,,Severe,No,,130,1990
+c.487_488InsC,17764_17765insC,g.138630617_138630618insC,p.Leu163fs,Leu117fs,Frameshift,Insertion,5,117,EGF2,Light Chain,X,,,,Severe,Not Reported,,235,1992
+c.487C>T,17764C>T,g.138630617C>T,p.Leu163Phe,Leu117Phe,Missense,Substitution,5,117,EGF2,Light Chain,X,,,,Severe,Not Reported,,12,2005
+c.491C>T,17768C>T,g.138630621C>T,p.Ala164Val,Ala118Val,Missense,Substitution,5,118,EGF2,Light Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.496A>T,17773A>T,g.138630626A>T,p.Asn166Tyr,Asn120Tyr,Missense,Substitution,5,120,EGF2,Light Chain,X,,,,Severe,Not Reported,,72,1989
+c.496delA,17773delA,g.138630626delA,p.Asn166fs,Asn120fs,Frameshift,Deletion,5,120,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.497_498InsC,17774_17775insC,g.138630627_138630628insC,p.Asn166fs,Asn120fs,Frameshift,Insertion,5,120,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.499C>T,17776C>T,g.138630629C>T,p.Gln167*,Gln121Stop,Missense,Substitution,5,121,EGF2,Light Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.501G>T,17778G>T,g.138630631G>T,p.Gln167His,Gln121His,Missense,Substitution,5,121,EGF2,Light Chain,,,X,X,Mild,Not Reported,,217,1995
+c.501delG,17778delG,g.138630631delG,p.Lys168fs,Lys122fs,Frameshift,Deletion,5,122,EGF2,Light Chain,X,,,,Severe,Not Reported,,95,2005
+c.502_517del,17779_17794,g.138630632_138630647del,p.Lys168fs,Lys122fs,Frameshift,Deletion,5,122,EGF2,Light Chain,X,,,,Severe,Not Reported,,95,2005
+c.505T>C,17782T>C,g.138630635T>C,p.Ser169Pro,Ser123Pro,Missense,Substitution,5,123,EGF2,Light Chain,X,,,,Severe,Not Reported,,172,1994
+c.506C>G,17783C>G,g.138630636C>G,p.Ser169Cys,Ser123Cys,Missense,Substitution,5,123,EGF2,Light Chain,,,X,,Mild,Not Reported,,201,2000
+c.507_509delinsTTT,17784_17786delinsTTT,g.138630637_138630639delinsTTT,p.Ser170Phe,Cys124Phe,Missense,Substitution,5,124,EGF2,Light Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.508T>C,17785T>C,g.138630638T>C,p.Ser170Arg,Cys124Arg,Missense,Substitution,5,124,EGF2,Light Chain,X,,,X,Not Reported,Not Reported,,12,2005
+c.509G>A,17786G>A,g.138630639G>A,p.Ser170Tyr,Cys124Tyr,Missense,Substitution,5,124,EGF2,Light Chain,X,X,,X,Moderate,Not Reported,,23,1991
+c.509G>C,17786G>C,g.138630639G>C,p.Ser170Ser,Cys124Ser,Missense,Substitution,5,124,EGF2,Light Chain,X,,,,Severe,Not Reported,,113,2000
+c.509G>T,17786G>T,g.138630639G>T,p.Ser170Phe,Cys124Phe,Missense,Substitution,5,124,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.517_519del,17794_177956del,g.138630647_138630649del,p.Ala173del,Ala127del,"Small structural change (in-frame, <50bp)",Deletion,5,127,EGF2,Light Chain,X,,,,Severe,Not Reported,,60,2011
+c.517G>A,17794G>A,g.138630647G>A,p.Ala173Pro,Ala127Pro,Missense,Substitution,5,127,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.518C>T,17795C>T,g.138630648C>T,p.Ala173Val,Ala127Val,Missense,Substitution,5,127,EGF2,Light Chain,X,,,,Severe,Not Reported,,117,1993
+c.519A>C,17796A>C,g.138630649A>C,p.Ala173Ala,Ala127Ala,Synonymous,Substitution,5,127,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.519A>G,17796A>G,g.138630649A>G,p.Ala173Ala,Ala127Ala,Synonymous,Substitution,5,127,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.519A>T,17796A>T,g.138630649A>T,p.Ala173Ala,Ala127Ala,Synonymous,Substitution,5,127,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.518C>G,17755C>G,g.138630648C>G,p.Ala173Gly,Ala127Gly,Missense,Substitution,5,127,EGF2,Light Chain,,,,X,Mild,Not Reported,,223,2013
+c.520delG,17797delG,g.138630650delG,p.Val174fs,Val128fs,Frameshift,Deletion,5,128,EGF2,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.520G>A,17797G>A,g.138630650G>A,p.Val174Met,Val128Met,Missense,Substitution,5,128,EGF2,Light Chain,X,X,,,Moderate,Not Reported,,23,1991
+c.520G>T,17797G>T,g.138630650G>T,p.Val174Leu,Val128Leu,Missense,Substitution,5,128,EGF2,Light Chain,X,,,,Severe,Not Reported,,FIXMD,2004
+c.529C>T,20371C>T,g.138633229C>T,p.Pro177Ser,Pro131Ser,Missense,Substitution,6,131,Linker,Light Chain,X,,,X,Severe,Not Reported,,43,2000
+c.530C>T,20372C>T,g.138633230C>T,p.Pro177Leu,Pro131Leu,Missense,Substitution,6,131,Linker,Light Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.532T>C,20374T>C,g.138633232T>C,p.Cys178Arg,Cys132Arg,Missense,Substitution,6,132,Linker,Light Chain,X,X,,,Severe,Not Reported,,117,1993
+c.532T>G,20374T>G,g.138633232T>G,p.Cys178Gly,Cys132Gly,Missense,Substitution,6,132,Linker,Light Chain,,,,X,Not Reported,Not Reported,,172,1994
+c.533G>A,20375G>A,g.138633233G>A,p.Cys178Tyr,Cys132Tyr,Missense,Substitution,6,132,Linker,Light Chain,X,,,X,Severe,Not Reported,,23,1991
+c.533G>C,20375G>C,g.138633233G>C,p.Cys178Ser,Cys132Ser,Missense,Substitution,6,132,Linker,Light Chain,X,,,,Severe,Not Reported,,172,1994
+c.533G>T,20375G>T,g.138633233G>T,p.Cys178Phe,Cys132Phe,Missense,Substitution,6,132,Linker,Light Chain,X,,,,Severe,Not Reported,,74,1991
+c.534T>G,20376T>G,g.138633234T>G,p.Cys178Trp,Cys132Trp,Missense,Substitution,6,132,Linker,Light Chain,X,,,,Severe,Not Reported,,217,1995
+c.535G>A,20377G>A,g.138633235G>A,p.Gly179Arg,Gly133Arg,Missense,Substitution,6,133,Linker,Light Chain,X,X,,,Moderate,Not Reported,,68,1993
+c.535G>T,20377G>T,g.138633235G>T,p.Gly179*,Gly133Stop,Nonsense,Substitution,6,133,Linker,Light Chain,X,,,,Severe,No,,162,2013
+c.536G>A,20378G>A,g.138633236G>A,p.Gly179Glu,Gly133Glu,Missense,Substitution,6,133,Linker,Light Chain,X,,,,Severe,Not Reported,,190,1993
+c.538_539del,20380_20381del,g.138633238_138633239del,p.Arg180fs,Arg134fs,Frameshift,Deletion,6,134,Linker,Light Chain,X,,,,Severe,Not Reported,,61,2004
+c.538delA,20380delA,g.138633238delA,p.Arg180fs,Arg134fs,Frameshift,Deletion,6,134,Linker,Light Chain,,X,,,Moderate,Not Reported,,9,2011
+c.539_540del,20381_20382del,g.138633239_138633240del,p.Arg180fs,Arg134fs,Frameshift,Deletion,6,134,Linker,Light Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.540_541del,20382_20383del,g.138633240_138633241del,p.Arg180fs,Arg134fs,Frameshift,Deletion,6,134,Linker,Light Chain,X,,,,Severe,Not Reported,,172,1994
+c.540dupA,20382dupA,g.138633240dup,p.Val181Serfs*8,Val135fs,Frameshift,Duplication,6,135,Linker,Light Chain,,X,,,Moderate,Not Reported,,9,2011
+c.545_546del,20387_20388del,g.138633245_138633246del,p.Ser182Cysfs*6,Ser136Cysfs*6,Frameshift,Deletion,6,136,Linker,Light Chain,X,X,,,Severe,No,,103,1994
+c.547_548del,20389_20390del,g.138633247_138633248del,p.Val183fs,Val137fs,Frameshift,Deletion,6,137,Linker,Light Chain,,X,,,Moderate,Not Reported,,140,1999
+c.547delG,20389delG,g.138633247delG,p.Val183fs,Val137fs,Frameshift,Deletion,6,137,Linker,Light Chain,X,X,,,Severe,Not Reported,,7,1999
+c.551C>A,20393C>A,g.138633251C>A,p.Ser184*,Ser138Stop,Nonsense,Substitution,6,138,Linker,Light Chain,,,,X,Severe,No,,219,2012
+c.556delA,20398delA,g.138633256delA,p.Thr186fs,Thr140fs,Frameshift,Deletion,6,140,Linker,Light Chain,,,,X,Not Reported,Not Reported,,74,1991
+c.559_565del,20401_20407del,g.138633259_138633265del,p.Lys188Profs*13,Lys142fs,Frameshift,Deletion,6,142,Linker,Light Chain,,,,X,Severe,No,,219,2012
+c.567_568del,20409_20410del,g.138633267_138633268del,p.Thr190fs,Thr144fs,Frameshift,Deletion,6,144,Linker,Light Chain,,,,X,Severe,Not Reported,,119,2000
+c.571C>A,20413C>A,g.138633271C>A,p.Arg191Ser,Arg145Ser,Missense,Substitution,6,145,Linker,Light Chain,,,,X,Not Reported,Not Reported,,236,1995
+c.571C>T,20413C>T,g.138633271C>T,p.Arg191Cys,Arg145Cys,Missense,Substitution,6,145,Linker,Light Chain,X,X,X,,Severe,No,CpG,114,1989
+c.572G>A,20414G>A,g.138633272G>A,p.Arg191His,Arg145His,Missense,Substitution,6,145,Linker,Light Chain,X,X,X,,Moderate/Mild,No,,151,1983
+c.572G>C,20414G>C,g.138633272G>C,p.Arg191Pro,Arg145Pro,Missense,Substitution,6,145,Linker,Light Chain,,X,X,X,Moderate/Mild,Not Reported,,FIXMD,1998
+c.572G>T,20414G>T,g.138633272G>T,p.Arg191Leu,Arg145Leu,Missense,Substitution,6,145,Linker,Light Chain,,X,,,Moderate/Mild,Not Reported,,32,1995
+c.574G>C,20416G>C,g.138633274G>C,p.Ala192Pro,Ala146Pro,Missense,Substitution,6,146,Activation,,,X,,,Mild,Not Reported,,FIXMD,
+c.575delC,20417delC,g.138633275delC,p.Ala192fs,Ala146fs,Frameshift,Deletion,6,146,Activation,,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.582_583del,20424_20425del,g.138633282_138633283del,p.Val195fs,Val149fs,Frameshift,Deletion,6,149,Activation,,,,X,,Not Reported,Not Reported,,FIXMD,1998
+c.603T>G,20445T>G,g.138633303T>G,p.Tyr201*,Tyr155Stop,Nonsense,Substitution,6,155,Activation,,X,,,,Severe,Not Reported,,197,1992
+c.604_6405del,20446_20447del,g.138633304_138649249del,p.Val202fs,Val156fs,Frameshift,Deletion,6,156,Activation,,X,,,,Severe,Not Reported,,FIXMD,
+c.604delG,20446delG,g.138633304delG,p.Val202*,Val156Stop,Frameshift,Deletion,6,156,Activation,,X,,,,Severe,Not Reported,,128,2004
+c.604_605del,20410_20411del,g.138633304_138633305del,p.Val202Lysfs*4,Val156Lysfs*4,Frameshift,Deletion,6,156,Activation,,,,,X,Severe,Not Reported,,223,2013
+c.615_616insA,20421insA,g.138633315_138633316insA,p.Glu206Argfs*3,Glu160Argfs*3,Frameshift,Insertion,6,160,Activation,,,,,X,Severe,Not Reported,,223,2013
+c.616G>A,20422G>A,g.138633316G>A,p.Glu206Lys,Glu160Lys,Missense,Substitution,6,160,Activation,,,,,X,Mild,Not Reported,,223,2013
+c.622G>T,20464G>T,g.138633322G>T,p.Glu208*,Glu162Stop,Nonsense,Substitution,6,162,Activation,,X,,,X,Severe,Not Reported,,12,2005
+c.627_639del,20469_20481del,g.138633327_138633339del,p.Thr209fs,Thr163fs,Frameshift,Deletion,6,163,Activation,,X,,,,Severe,Not Reported,,109,1989
+c.627delC,20469delC,g.138633327delC,p.Ile210Phefs*35,Ile164Phefs*35,Frameshift,Deletion,6,164,Activation,,X,,,,Severe,No,,CDC,
+c.646C>T,20488C>T,g.138633346C>T,p.Gln216*,Gln170Stop,Nonsense,Substitution,6,170,Activation,,,,,X,Severe,No,,219,2012
+c.651delC,20493delC,g.138633351delC,p.Ser217fs,Ser171fs,Frameshift,Deletion,6,171,Activation,,,,,X,Not Reported,Not Reported,,FIXMD,
+c.655C>T,20497C>T,g.138633355C>T,p.Gln219*,Gln173Stop,Nonsense,Substitution,6,173,Activation,,X,,,,Severe,Not Reported,,109,1989
+c.659C>G,20501C>G,g.138633359C>G,p.Ser220*,Ser174Stop,Nonsense,Substitution,6,174,Activation,,X,,,,Severe,Yes,,CDC,
+c.659delC,20501delC,g.138633359delC,p.Ser220fs,Ser174fs,Frameshift,Deletion,6,174,Activation,,,X,,,Severe,Not Reported,,231,1990
+c.668delA,20510delA,g.138633368delA,p.Asp223fs,Asp177fs,Frameshift,Deletion,6,177,Activation,,X,,,,Severe,Not Reported,,74,1991
+c.670T>C,20512T>C,g.138633370T>C,p.Phe224Leu,Phe178Leu,Missense,Substitution,6,178,Activation,,X,,,,Severe,Not Reported,,65,1993
+c.676C>G,20518C>G,g.138633376C>G,p.Arg226Gly,Arg180Gly,Missense,Substitution,6,180,Activation,,X,,X,,Severe,No,,179,1991
+c.676C>T,20518C>T,g.138633376C>T,p.Arg226Trp,Arg180Trp,Missense,Substitution,6,180,Activation,,X,X,,X,Severe,No,CpG,58,1989
+c.677G>A,20519G>A,g.138633377G>A,p.Arg226Gln,Arg180Gln,Missense,Substitution,6,180,Activation,,X,X,,X,Severe,No,CpG,89,1989
+c.677G>C,20519G>C,g.138633377G>C,p.Arg226Pro,Arg180Pro,Missense,Substitution,6,180,Activation,,X,,,,Not Reported,Not Reported,,218,1999
+c.677G>T,20519G>T,g.138633377G>T,p.Arg226Leu,Arg180Leu,Missense,Substitution,6,180,Activation,,X,X,,,Moderate,Not Reported,,16,1990
+c.679G>T,20521G>T,g.138633379G>T,p.Val227Phe,Val181Phe,Missense,Substitution,6,181,Protease,Heavy Chain,X,,,,Severe,Not Reported,,16,1990
+c.680T>A,20522T>A,g.138633380T>A,p.Val227Asp,Val181Asp,Missense,Substitution,6,181,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,217,1995
+c.680T>C,20522T>C,g.138633380T>C,p.Val227Ala,Val181Ala,Missense,Substitution,6,181,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.681_682InsT,20523_20524insT,g.138633381_138633382insT,p.Val228fs,Val182fs,Frameshift,Insertion,6,182,Protease,Heavy Chain,,,,X,Severe,Not Reported,,119,2000
+c.682G>C,20524G>C,g.138633382G>C,p.Val228Leu,Val182Leu,Missense,Substitution,6,182,Protease,Heavy Chain,,,X,X,Mild,Not Reported,,192,1990
+c.682G>T,20524G>T,g.138633382G>T,p.Val228Phe,Val182Phe,Missense,Substitution,6,182,Protease,Heavy Chain,X,,,,Severe,Not Reported,,173,1989
+c.683T>C,20525T>C,g.138633383T>C,p.Val228Ala,Val182Ala,Missense,Substitution,6,182,Protease,Heavy Chain,,,X,,Mild,Not Reported,,127,1991
+c.683T>G,20525T>G,g.138633383T>G,p.Val228Gly,Val182Gly,Missense,Substitution,6,182,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,32,1995
+c.683T>A,20489T>A,g.138633383T>A,p.Val228Asp,Val182Asp,Missense,Substitution,6,182,Protease,Heavy Chain,,,,X,Moderate,Not Reported,,223,2013
+c.684_685InsT,20526_20527insT,g.138633384_138633385insT,p.Gly229fs,Gly183fs,Frameshift,Insertion,6,183,Protease,Heavy Chain,,X,,,Severe,Not Reported,,113,2000
+c.685G>A,20527G>A,g.138633385G>A,p.Gly229Ser,Gly183Ser,Missense,Substitution,6,183,Protease,Heavy Chain,X,,X,X,Mild,Not Reported,,236,1995
+c.686G>T,20492G>T,g.138633386G>T,p.Gly229Val,Gly183Val,Missense,Substitution,6,183,Protease,Heavy Chain,X,,,,Severe,Not Reported,,222,2014
+c.687_689del,20529_20531del,g.138633387_138633389del,p.Gly229del,Gly183del,"Small structural change (in-frame, <50bp)",Deletion,6,183,Protease,Heavy Chain,X,,,,Severe,Not Reported,,172,1994
+c.688_690del,20530_20532del,g.138633388_138633390del,p.Gly230del,Gly184del,"Small structural change (in-frame, <50bp)",Deletion,6,184,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,172,1994
+c.688G>A,20530G>A,g.138633388G>A,p.Gly230Arg,Gly184Arg,Missense,Substitution,6,184,Protease,Heavy Chain,X,,,,Severe,Not Reported,,197,1992
+c.689_691del,20531_29533del,g.138633389_138633391del,p.Gly230del,Gly184del,"Small structural change (in-frame, <50bp)",Deletion,6,184,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.689G>C,20531G>C,g.138633389G>C,p.Gly230Pro,Gly184Pro,Missense,Substitution,6,184,Protease,Heavy Chain,,,,X,Severe,Not Reported,,97,2008
+c.693_695del,20535_20537del,g.138633393_138633395del,p.Glu231del,Glu185del,"Small structural change (in-frame, <50bp)",Deletion,6,185,Protease,Heavy Chain,,,,X,Severe,Not Reported,,119,2000
+c.698C>A,20540C>A,g.138633398C>A,p.Ala233Asp,Ala187Asp,Missense,Substitution,6,187,Protease,Heavy Chain,X,,,,Severe,Not Reported,,200,1996
+c.707_708delinsAAGATGC,20513_20514delinsAAGATGC,g.138633407_138633408delinsAAGATGC,p.Gly236Glufs*11,Gly189Glufs*11,Frameshift,Insertion/Deletion,6,189,Protease,Heavy Chain,,,,X,Moderate,Not Reported,,223,2013
+c.706G>T,20548G>T,g.138633406G>T,p.Gly236Cys,Gly190Cys,Missense,Substitution,6,190,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,172,1994
+c.707G>A,20549G>A,g.138633407G>A,p.Gly236Asp,Gly190Asp,Missense,Substitution,6,190,Protease,Heavy Chain,X,X,,X,Severe/Moderate,Not Reported,,12,2005
+c.707G>T,20549G>T,g.138633407G>T,p.AGly236Val,Gly190Val,Missense,Substitution,6,190,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.709C>A,20551C>A,g.138633409C>A,p.Gln237Lys,Gln191Lys,Missense,Substitution,6,191,Protease,Heavy Chain,X,,,X,Severe,Yes,,31,1991
+c.709C>T,20551C>T,g.138633409C>T,p.Gln237*,Gln191Stop,Nonsense,Substitution,6,191,Protease,Heavy Chain,X,,,,Severe,Yes,,130,1990
+c.711A>G,20553A>G,g.138633411A>G,p.Gln237Gln,Gln191Gln,Synonymous,Substitution,6,191,Protease,Heavy Chain,X,X,,,Severe,Not Reported,cryptic splice,197,1992
+c.712T>G,20554T>G,g.138633412T>G,p.Phe238Val,Phe192Val,Missense,Substitution,6,192,Protease,Heavy Chain,,X,,,Moderate,Not Reported,"Polymorphism, dbSNPID:  rs143128467",117,1993
+c.715C>T,20557C>T,g.138633415C>T,p.Pro239Ser,Pro193Ser,Missense,Substitution,6,193,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,218,1999
+c.716C>G,20558C>G,g.138633416C>G,p.Pro239Arg,Pro193Arg,Missense,Substitution,6,193,Protease,Heavy Chain,X,,,,Not Reported,Not Reported,,FIXMD,1993
+c.716_717ins16bp,20558_20559ins16bp,g.138633416_138633417ins16bp,p.Trp240*,Trp194Stop,Frameshift,Insertion,6,194,Protease,Heavy Chain,,,,X,Severe,No,,219,2012
+c.718T>A,20561T>A,g.138633418T>A,p.Trp240Arg,Trp194Arg,Missense,Substitution,6,194,Protease,Heavy Chain,X,,,,Severe,Not Reported,,197,1992
+c.718T>C,20560T>C,g.138633418T>C,p.Trp240Arg,Trp194Arg,Missense,Substitution,6,194,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,197,1992
+c.719G>A,20561G>A,g.138633419G>A,p.Trp240*,Trp194Stop,Nonsense,Substitution,6,194,Protease,Heavy Chain,X,X,,X,Severe,Yes,,72,1989
+c.719G>T,20561G>T,g.138633419G>T,p.Trp240Leu,Trp194Leu,Missense,Substitution,6,194,Protease,Heavy Chain,X,X,,,Severe/Moderate,Not Reported,,FIXMD,
+c.720G>A,20562G>A,g.138633420G>A,p.Trp240*,Trp194Stop,Nonsense,Substitution,6,194,Protease,Heavy Chain,X,,,X,Severe,Yes,,172,1994
+c.720G>T,20562G>T,g.138633420G>T,p.Trp240Cys,Trp194Cys,Missense,Substitution,6,194,Protease,Heavy Chain,X,X,X,,Severe/Mild,Not Reported,,105,1999
+c.721C>A,20563C>A,g.138633421C>A,p.Gln241Lys,Gln195Lys,Missense,Substitution,6,195,Protease,Heavy Chain,,X,,X,Moderate,Not Reported,,153,2003
+c.721C>T,20563C>T,g.138633421C>T,p.Gln241*,Gln195Stop,Nonsense,Substitution,6,195,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,197,1992
+c.722A>G,20564A>G,g.138633422A>G,p.Gln241Arg,Gln195Arg,Missense,Substitution,6,195,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.722delA,20564delA,g.138633422delA,p.Gln241fs,Gln195fs,Frameshift,Deletion,6,195,Protease,Heavy Chain,,,,X,Severe,Not Reported,,119,2000
+c.723G>A,20565G>A,g.138633423G>A,p.Gln241Gln,Gln195Gln,Synonymous,Substitution,6,195,Protease,Heavy Chain,X,X,,,Severe,No,donor splice defect?,217,1995
+c.723G>C,20565G>C,g.138633423G>C,p.Gln241His,Gln195His,Missense,Substitution,6,195,Protease,Heavy Chain,X,,,,Severe,Not Reported,,140,1999
+c.724G>A,30039G>A,g.138642900G>A,p.Val242Ile,Val196Ile,Missense,Substitution,7,196,Protease,Heavy Chain,,,,X,Moderate,No,,219,2012
+c.727_728delG,30042_30043delG,g.138642903_138642904delG,p.Val243fs,Val197fs,Frameshift,Deletion,7,197,Protease,Heavy Chain,X,,,,Severe,Not Reported,,96,2009
+c.727_728delinsA,30042_30043delinsA,g.138642903_138642904delinsA,p.Val243fs,Val197fs,Frameshift,Insertion/deletion,7,197,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,113,2000
+c.731T>C,30046T>C,g.138642907T>C,p.Leu244Ser,Leu198Ser,Missense,Substitution,7,198,Protease,Heavy Chain,X,,,,Moderate/Mild,Not Reported,,102,1993
+c.731T>G,30046T>G,g.138642907T>G,p.Leu244Trp,Leu198Trp,Missense,Substitution,7,198,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,172,1994
+c.735delT,30050delT,g.138642911delT,p.Asn245fs,Asn199fs,Frameshift,Deletion,7,199,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.743_745del,30058_30060del,g.138642919_138642921del,p.Val248del,Val202del,"Small structural change (in-frame, <50bp)",Deletion,7,202,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.744_747del,30059_30062del,g.138642920_138642923del,p.Val248fs,Val202fs,Frameshift,Deletion,7,202,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,65,1993
+c.749C>T,30064C>T,g.138642925C>T,p.Ala250Val,Ala204Val,Missense,Substitution,7,204,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.752_767del,30065_30080del,g.138642928_138642944del,p.Phe251Serfs*8,Phe205Serfs*8,Frameshift,Deletion,7,205,Protease,Heavy Chain,X,,,,Severe,Not Reported,,112,2008
+c.754T>C,30069T>C,g.138642930T>C,p.Cys252Arg,Cys206Arg,Missense,Substitution,7,206,Protease,Heavy Chain,X,,,,Severe,Not Reported,,107,1993
+c.755G>A,30070G>A,g.138642931G>A,p.Cys252Tyr,Cys206Tyr,Missense,Substitution,7,206,Protease,Heavy Chain,X,X,X,X,Moderate/Mild,Not Reported,,23,1991
+c.755G>C,30070G>C,g.138642931G>C,p.Cys252Ser,Cys206Ser,Missense,Substitution,7,206,Protease,Heavy Chain,X,,,,Not Reported,Not Reported,,192,1990
+c.757G>A,30072G>A,g.138642933G>A,p.Gly253Arg,Gly207Arg,Missense,Substitution,7,207,Protease,Heavy Chain,X,X,,,Severe/Moderate,Not Reported,,50,1993
+c.757G>T,30072G>T,g.138642933G>T,p.Gly253*,Gly207Stop,Nonsense,Substitution,7,207,Protease,Heavy Chain,X,,,X,Not Reported,Not Reported,,197,1992
+c.758G>A,30073G>A,g.138642934G>A,p.Gly253Glu,Gly207Glu,Missense,Substitution,7,207,Protease,Heavy Chain,X,,,X,Not Reported,Not Reported,,117,1993
+c.758G>T,30073G>T,g.138642934G>T,p.Gly253Val,Gly207Val,Missense,Substitution,7,207,Protease,Heavy Chain,,X,,X,Moderate,Not Reported,,FIXMD,1998
+c.760G>A,30075G>A,g.138642936G>A,p.Gly254Ser,Gly208Ser,Missense,Substitution,7,208,Protease,Heavy Chain,,X,,X,Moderate,Not Reported,,172,1994
+c.760G>T,30075G>T,g.138642936G>T,p.Gly254Val,Gly208Val,Missense,Substitution,7,208,Protease,Heavy Chain,,X,,,Severe,Not Reported,,12,2005
+c.761G>A,30076G>A,g.138642937G>A,p.Gly254Asp,Gly208Asp,Missense,Substitution,7,208,Protease,Heavy Chain,,,X,,Moderate,Not Reported,,172,1994
+c.761G>T,30076G>T,g.138642937G>T,p.Gly254Val,Gly208Val,Missense,Substitution,7,208,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.767T>C,30082T>C,g.138642943T>C,p.Ile256Thr,Ile210Thr,Missense,Substitution,7,210,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,FIXMD,1998
+c.769G>A,30084G>A,g.138642945G>A,p.Val257Ile,Val211Ile,Missense,Substitution,7,211,Protease,Heavy Chain,X,,,,Severe,Not Reported,,177,2009
+c.769G>T,30084G>T,g.138642945G>T,p.Val257Phe,Val211Phe,Missense,Substitution,7,211,Protease,Heavy Chain,,,X,X,Mild,Not Reported,,31,1991
+c.770T>A,30085T>A,g.138642946T>A,p.Val257Asp,Val211Asp,Missense,Substitution,7,211,Protease,Heavy Chain,,X,,,Severe,Not Reported,,FIXMD,
+c.774T>G,30089T>G,g.138642950T>G,p.Asn258Lys,Asn212Lys,Missense,Substitution,7,212,Protease,Heavy Chain,,,X,X,Mild,Not Reported,,148,1995
+c.775G>T,30090G>T,g.138642951G>T,p.Glu259*,Glu213Stop,Nonsense,Substitution,7,213,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.781T>C,30096T>C,g.138642957T>C,p.Trp261Arg,Trp215Arg,Missense,Substitution,7,215,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,231,1990
+c.781T>G,30096T>G,g.138642957T>G,p.Trp261Gly,Trp215Gly,Missense,Substitution,7,215,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,FIXMD,
+c.782G>A,30097G>A,g.138642958G>A,p.Trp261*,Trp215Stop,Nonsense,Substitution,7,215,Protease,Heavy Chain,X,,,,Not Reported,Not Reported,,31,1991
+c.783G>T,30098G>T,g.138642959G>T,p.Trp261Cys,Trp215Cys,Missense,Substitution,7,215,Protease,Heavy Chain,X,,,X,Not Reported,Not Reported,,117,1993
+c.784A>T,30099A>T,g.138642960A>T,p.Ile262Phe,Ile216Phe,Missense,Substitution,7,216,Protease,Heavy Chain,X,,,,Severe,Not Reported,,12,2005
+c.785T>C,30100T>C,g.138642961T>C,p.Ile262Thr,Ile216Thr,Missense,Substitution,7,216,Protease,Heavy Chain,,X,X,,Mild,Not Reported,,232,1990
+c.786T>G,30101T>G,g.138642962T>G,p.Ile262Met,Ile216Met,Missense,Substitution,7,216,Protease,Heavy Chain,,X,X,,Mild,No,,23,1991
+c.788T>A,30103T>A,g.138642964T>A,p.Val263Glu,Val217Glu,Missense,Substitution,7,217,Protease,Heavy Chain,,,,X,Severe,Not Reported,,119,2000
+c.789_790InsT,30104_30105InsT,g.138642965_138642966insT,p.Thr264fs,Thr218fs,Frameshift,Insertion,7,218,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,153,2003
+c.790A>C,30105A>C,g.138642966A>C,p.Thr264Pro,Thr218Pro,Missense,Substitution,7,218,Protease,Heavy Chain,X,,,,Severe,Not Reported,,128,2004
+c.791C>T,30106C>T,g.138642967C>T,p.Thr264Ile,Thr218Ile,Missense,Substitution,7,218,Protease,Heavy Chain,,X,,,Not Reported,Not Reported,,FIXMD,
+c.793G>A,30108G>A,g.138642969G>A,p.Ala265Thr,Ala219Thr,Missense,Substitution,7,219,Protease,Heavy Chain,,,,X,Severe,Not Reported,,217,1995
+c.793G>C,30108G>C,g.138642969G>C,p.Ala265Pro,Ala219Pro,Missense,Substitution,7,219,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.794C>A,30109C>A,g.138642970C>A,p.Ala265Asp,Ala219Asp,Missense,Substitution,7,219,Protease,Heavy Chain,X,,,,Severe,Not Reported,,94,2003
+c.796G>A,30111G>A,g.138642972G>A,p.Ala266Thr,Ala220Thr,Missense,Substitution,7,220,Protease,Heavy Chain,X,,,,Severe,Not Reported,,12,2005
+c.797C>T,30112C>T,g.138642973C>T,p.Ala266Val,Ala220Val,Missense,Substitution,7,220,Protease,Heavy Chain,X,X,X,,Moderate,Not Reported,,232,1990
+c.799C>T,30114C>T,g.138642975C>T,p.His267Tyr,His221Tyr,Missense,Substitution,7,221,Protease,Heavy Chain,X,X,,,Severe,No,,120,2001
+c.799delC,30114delC,g.138642975delC,p.His267fs,His221fs,Frameshift,Deletion,7,221,Protease,Heavy Chain,X,,,,Severe,Not Reported,,119,2000
+c.800A>G,30115A>G,g.138642976A>G,p.His267Arg,His221Arg,Missense,Substitution,7,221,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,7,1999
+c.801C>A,30116C>A,g.138642977C>A,p.His267Gln,His221Gln,Missense,Substitution,7,221,Protease,Heavy Chain,X,,,,Severe,Not Reported,,211,1998
+c.802T>A,30117T>A,g.138642978T>A,p.Cys268Ser,Cys222Ser,Missense,Substitution,7,222,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,172,1994
+c.802T>C,30117T>C,g.138642978T>C,p.Cys268Arg,Cys222Arg,Missense,Substitution,7,222,Protease,Heavy Chain,X,,,,Severe,Not Reported,,12,2005
+c.802T>G,30117T>G,g.138642978T>G,p.Cys268Gly,Cys222Gly,Missense,Substitution,7,222,Protease,Heavy Chain,X,,,,Severe,Not Reported,,105,1999
+c.803G>T,30118G>T,g.138642979G>T,p.Cys268Phe,Cys222Phe,Missense,Substitution,7,222,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.804T>G,30119T>G,g.138642980T>G,p.Cys268Trp,Cys222Trp,Missense,Substitution,7,222,Protease,Heavy Chain,,X,,X,Not Reported,Not Reported,,109,1989
+c.808G>T,30123G>T,g.138642984G>T,p.Glu270*,Glu224Stop,Nonsense,Substitution,7,224,Protease,Heavy Chain,X,,,,Severe,Not Reported,,9,2011
+c.808G>A,30090G>A,g.138642984G>A,p.Glu270Lys,Glu224Lys,Missense,Substitution,7,224,Protease,Heavy Chain,,,,X,Mild,Not Reported,,223,2013
+c.813delT,30128delT,g.138642989delT,p.Thr271Thrfs,Thr225Thrfs,Frameshift,Deletion,7,225,Protease,Heavy Chain,,,,X,Severe,Not Reported,,119,2000
+c.819T>C,30134T>C,g.138642995T>C,p.Val273Val,Val227Val,Synonymous,Substitution,7,227,Protease,Heavy Chain,,,X,,Mild,Not Reported,"polymorphism, dbSNPID:  rs1800455",109,1989
+c.825delT,30140delT,g.138643001delT,p.Thr276fs,Thr230fs,Frameshift,Deletion,7,230,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.827delT,30142delT,g.138643003delT,p.Thr276fs,Thr230fs,Frameshift,Deletion,7,230,Protease,Heavy Chain,X,,,,Severe,Not Reported,,94,2003
+c.829G>T,30144G>T,g.138643005G>T,p.Val277Phe,Val231Phe,Missense,Substitution,7,231,Protease,Heavy Chain,X,,,,Severe,Not Reported,,12,2005
+c.830T>A,30145T>A,g.138643006T>A,p.Val277Asp,Val231Asp,Missense,Substitution,7,231,Protease,Heavy Chain,,,,X,Severe,No,,219,2012
+c.835G>A,30150G>A,g.138643011G>A,p.Ala279Thr,Ala233Thr,Missense,Substitution,7,233,Protease,Heavy Chain,X,X,X,,Mild,Not Reported,,109,1989
+c.836_837del,30151_30152del,g.138643012_138643013del,p.Ala279Glyfs,Ala233Glyfs,Frameshift,Deletion,7,233,Protease,Heavy Chain,X,,,,Severe,No,Donor site defect,CDC,
+c.835G>T,30117G>T,g.138643011G>T,p.Ala279Ser,Ala233Ser,Missense,Substitution,7,233,Protease,Heavy Chain,,,,X,Mild,Not Reported,,223,2013
+c.837_838InsA,30152_30153insA,g.138643013_138643014insA,p.Gly280fs,Gly234fs,Frameshift,Insertion,7,234,Protease,Heavy Chain,X,,,,Severe,Not Reported,,65,1993
+c.838G>A,30153G>A,g.138643014G>A,p.Gly280Ser,Gly234Ser,Missense,Substitution,7,234,Protease,Heavy Chain,,X,,,Severe,Not Reported,,12,2005
+c.838G>C,30153G>C,g.138643014G>C,p.Gly280Arg,Gly234Arg,Missense,Substitution,7,234,Protease,Heavy Chain,X,X,X,,Severe,Not Reported,,FIXMD,
+c.838G>T,30153G>C,g.138643014G>T,p.Gly280Cys,Gly234Cys,Missense,Substitution,7,234,Protease,Heavy Chain,,,,X,Severe,No,,219,2012
+c.839G>A,30822G>A,g.138643683G>A,p.Gly280Asp,Gly234Asp,Missense,Substitution,8,234,Protease,Heavy Chain,,X,,X,Moderate,No,,97,2008
+c.839G>C,30822G>C,g.138643683G>C,p.Gly280Ala,Gly234Ala,Missense,Substitution,8,234,Protease,Heavy Chain,,X,X,,Not Reported,Not Reported,,FIXMD,
+c.839G>T,30822G>T,g.138643683G>T,p.Gly280Val,Gly234Val,Missense,Substitution,8,234,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,211,1998
+c.844T>A,30827T>A,g.138643688T>A,p.His282Gln,His236Gln,Missense,Substitution,8,236,Protease,Heavy Chain,X,,,,Severe,Not Reported,,128,2004
+c.845A>G,30828A>G,g.138643689A>G,p.His282Arg,His236Arg,Missense,Substitution,8,236,Protease,Heavy Chain,,,X,X,Mild,Not Reported,,217,1995
+c.847A>G,30830A>G,g.138643691A>G,p.Asn283Asp,Asn237Asp,Missense,Substitution,8,237,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,217,1995
+c.851T>A,30834T>A,g.138643695T>A,p.Ile284Asn,Ile238Asn,Missense,Substitution,8,238,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.853G>T,30836G>T,g.138643697G>T,p.Glu285*,Glu239Stop,Nonsense,Substitution,8,239,Protease,Heavy Chain,X,,,,Severe,No,,CDC,
+c.856_858del,30839_30841del,g.138643700_138643702del,p.Glu286del,Glu240del,"Small structural change (in-frame, <50bp)",Deletion,8,240,Protease,Heavy Chain,X,,,,Severe,Not Reported,,217,1995
+c.862_863del,30845_30846del,g.138643706_138643707del,p.Glu288fs,Glu242fs,Frameshift,Deletion,8,242,Protease,Heavy Chain,X,,,,Severe,No,,162,2013
+c.862delG,30845delG,g.138643706delG,p.Glu288fs,Glu242fs,Frameshift,Deletion,8,242,Protease,Heavy Chain,X,,,,Severe,Not Reported,,190,1993
+c.862G>T,30845G>T,g.138643706G>T,p.Glu288*,Glu242Stop,Nonsense,Substitution,8,242,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,153,2003
+c.863_865delinsCA,30846_30848delinsCA,g.138643707_138643709delinsCA,p.Glu288fs,Glu242fs,Frameshift,Insertion/deletion,8,242,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.865C>T,30848C>T,g.138643709C>T,p.His289Tyr,His243Tyr,Missense,Substitution,8,243,Protease,Heavy Chain,X,,,,Severe,Not Reported,,161,2009
+c.869delC,30852delC,g.138643713delC,p.Thr290fs,Thr244fs,Missense,Substitution,8,244,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,12,2005
+c.870dupA,30853dupA,g.138643714dup,p.Glu291Argfs*20,Glu245fs,Frameshift,Duplication,8,245,Protease,Heavy Chain,X,,,,Severe,Not Reported,,9,2011
+c.871G>A,30854G>A,g.138643715G>A,p.Glu291Lys,Glu245Lys,Missense,Substitution,8,245,Protease,Heavy Chain,X,X,,X,Not Reported,Not Reported,,12,2005
+c.871G>T,30854G>T,g.138643715G>T,p.Glu291*,Glu245Stop,Nonsense,Substitution,8,245,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.872A>G,30855A>G,g.138643716A>G,p.Glu291Gly,Glu245Gly,Missense,Substitution,8,245,Protease,Heavy Chain,,X,X,X,Mild,Not Reported,,88,1997
+c.872A>T,30855A>T,g.138643716A>T,p.Glu291Val,Glu245Val,Missense,Substitution,8,245,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,235,1992
+c.873G>T,30856G>T,g.138643717G>T,p.Glu291Asp,Glu245Asp,Missense,Substitution,8,245,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,1998
+c.874C>A,30857C>A,g.138643718C>A,p.Gln292Lys,Gln246Lys,Missense,Substitution,8,246,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.874delC,30857delC,g.138643718delC,p.Gln292fs,Gln246fs,Frameshift,Deletion,8,246,Protease,Heavy Chain,X,,,,Severe,Not Reported,,172,1994
+c.878delA,30861delA,g.138643722delA,p.Lys293Serfs*4,Lys247Serfs*4,Frameshift,Deletion,8,247,Protease,Heavy Chain,X,,,,Severe,No,,CDC,
+c.880C>G,30863C>G,g.138643724C>G,p.Arg294Gly,Arg248Gly,Missense,Substitution,8,248,Protease,Heavy Chain,X,,,,Severe,Not Reported,,217,1995
+c.880C>T,30863C>T,g.138643724C>T,p.Arg294*,Arg248Stop,Nonsense,Substitution,8,248,Protease,Heavy Chain,X,X,,X,Severe,Yes,CpGY,72,1989
+c.881G>A,30864G>A,g.138643725G>A,p.Arg294Gln,Arg248Gln,Missense,Substitution,8,248,Protease,Heavy Chain,X,X,X,,Moderate,No,CpGY,36,1989
+c.881G>T,30864G>T,g.138643725G>T,p.Arg294Leu,Arg248Leu,Missense,Substitution,8,248,Protease,Heavy Chain,X,X,,,Severe/Moderate,No,,CDC,
+c.884dup,30834dup,g.138643728dup,p.Asn295Lysfs*16,Asn249Lysfs*16,Frameshift,Duplication,7,249,Protease,Heavy Chain,X,,,,Severe,Not Reported,,222,2014
+c.886G>A,30869G>A,g.138643730G>A,p.Val296Met,Val250Met,Missense,Substitution,8,250,Protease,Heavy Chain,,X,,X,Not Reported,Not Reported,,FIXMD,
+c.887T>A,30870T>A,g.138643731T>A,p.Val296Glu,Val250Glu,Missense,Substitution,8,250,Protease,Heavy Chain,X,,,,Severe,Not Reported,,172,1994
+c.890T>A,30873T>A,g.138643734T>A,p.Ile297Asn,Ile251Asn,Missense,Substitution,8,251,Protease,Heavy Chain,X,,,,Severe,Not Reported,,172,1994
+c.892C>T,30875C>T,g.138643736C>T,p.Arg298*,Arg252Stop,Nonsense,Substitution,8,252,Protease,Heavy Chain,X,X,,,Severe,No,CpGY,178,1988
+c.893G>T,30876G>T,g.138643737G>T,p.Arg298Leu,Arg252Leu,Missense,Substitution,8,252,Protease,Heavy Chain,,,X,,Mild,Not Reported,,172,1994
+c.905A>G,30888A>G,g.138643749A>G,p.His302Arg,His256Arg,Missense,Substitution,8,256,Protease,Heavy Chain,,,X,,Mild,Not Reported,,140,1999
+c.904_906del,30887_30889del,g.138643748_138643750del,p.His303del,His257del,"Small structural change (in-frame, <50bp)",Deletion,8,257,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.907C>T,30890C>T,g.138643751C>T,p.His303Tyr,His257Tyr,Missense,Substitution,8,257,Protease,Heavy Chain,X,,X,,Mild,Not Reported,"Polymorphsim, dbSNPID:  rs1801202",130,1990
+c.907delC,30890delC,g.138643751delC,p.His303fs,His257fs,Frameshift,Deletion,8,257,Protease,Heavy Chain,X,,,,Severe,Not Reported,,147,1992
+c.909delC,30892delC,g.138643753delC,p.His303fs,His257fs,Frameshift,Deletion,8,257,Protease,Heavy Chain,X,,,,Severe,Not Reported,,217,1995
+c.913T>A,30896T>A,g.138643757T>A,p.Tyr305Asn,Tyr259Asn,Missense,Substitution,8,259,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,119,2000
+c.914A>G,30897A>G,g.138643758A>G,p.Tyr305Cys,Tyr259Cys,Missense,Substitution,8,259,Protease,Heavy Chain,X,X,X,X,Moderate,Not Reported,,23,1991
+c.917A>G,30900A>G,g.138643761A>G,p.Asn306Ser,Asn260Ser,Missense,Substitution,8,260,Protease,Heavy Chain,,,X,,Mild,Not Reported,,109,1989
+c.917dup,30867dup,g.138643761dup,p.Asn306Lysfs*5,Asn260Lysfs*5,Frameshift,Duplication,7,260,Protease,Heavy Chain,X,,,,Severe,Not Reported,,222,2014
+c.922delG,30905delG,g.138643766delG,p.Ala308fs,Ala262fs,Frameshift,Deletion,8,262,Protease,Heavy Chain,,,,X,Severe,Not Reported,,119,2000
+c.928A>T,30911A>T,g.138643772A>T,p.Asn310Tyr,Asn264Tyr,Missense,Substitution,8,264,Protease,Heavy Chain,,,X,,Mild,Not Reported,,211,1998
+c.931delA,30914delA,g.138643775delA,p.Lys311fs,Lys265fs,Frameshift,Deletion,8,265,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,119,2000
+c.934T>G,30917T>G,g.138643778T>G,p.Tyr312Asp,Tyr266Asp,Missense,Substitution,8,266,Protease,Heavy Chain,X,,,,Severe,No,,CDC,
+c.936C>A,30919C>A,g.138643780C>A,p.Tyr312*,Tyr266stop,Nonsense,Substitution,8,266,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.936C>G,30919C>G,g.138643780C>G,p.Tyr312*,Tyr266stop,Nonsense,Substitution,8,266,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,12,2005
+c.936delC,30919delC,g.138643780delC,p.Tyr312*fs,Tyr266stopfs,Frameshift,Deletion,8,266,Protease,Heavy Chain,X,,,,Severe,Not Reported,,88,1997
+c.938delA,30921delA,g.138643782delA,p.Asn267Thrfs*13,Asn267Thrfs*13,Frameshift,Deletion,8,267,Protease,Heavy Chain,,,,X,Severe,No,,219,2012
+c.941A>G,30924A>G,g.138643785A>G,p.His314Arg,His268Arg,Missense,Substitution,8,268,Protease,Heavy Chain,,,X,X,Mild,Not Reported,,172,1994
+c.942T>G,30925T>G,g.138643786T>G,p.His314Gln,His268Gln,Missense,Substitution,8,268,Protease,Heavy Chain,X,,X,,Mild,Not Reported,,190,1993
+c.940delC,30890delC,g.138643784delC,p.His314Metfs*12,His268Metfs*12,Frameshift,Deletion,8,268,Protease,Heavy Chain,,,,X,Severe,Not Reported,,223,2013
+c.943G>A,30926G>A,g.138643787G>A,p.Asp315Asn,Asp269Asn,Missense,Substitution,8,269,Protease,Heavy Chain,,X,,X,Not Reported,Not Reported,,107,1993
+c.944A>G,30927A>G,g.138643788A>G,p.Asp315Gly,Asp269Gly,Missense,Substitution,8,269,Protease,Heavy Chain,X,,,,Severe,Not Reported,,65,1993
+c.944A>T,30927A>T,g.138643788A>T,p.Asp315Val,Asp269Val,Missense,Substitution,8,269,Protease,Heavy Chain,X,,,,Severe,Not Reported,,218,1999
+c.945C>A,30928C>A,g.138643789C>A,p.Asp315Glu,Asp269Glu,Missense,Substitution,8,269,Protease,Heavy Chain,X,,,,Moderate,Not Reported,,102,1993
+c.946A>T,30929A>T,g.138643790A>T,p.Ile316Phe,Ile270Phe,Missense,Substitution,8,270,Protease,Heavy Chain,X,X,,X,Not Reported,No,,71,1993
+c.947T>C,30930T>C,g.138643791T>C,p.Ile316Thr,Ile270Thr,Missense,Substitution,8,270,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,23,1991
+c.947_948InsT,30930_30931insT,g.138643791_138643792insT,p.Ala317fs,Ala271fs,Frameshift,Insertion,8,271,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.949G>A,30932G>A,g.138643793G>A,p.Ala317Thr,Ala271Thr,Missense,Substitution,8,271,Protease,Heavy Chain,,,X,,Mild,Not Reported,,60,2011
+c.950C>A,30933C>A,g.138643794C>A,p.Ala317Asp,Ala271Asp,Missense,Substitution,8,271,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.950C>T,30933C>T,g.138643794C>T,p.Ala317Val,Ala271Val,Missense,Substitution,8,271,Protease,Heavy Chain,,X,X,,Mild,Not Reported,,232,1990
+c.952C>T,30935C>T,g.138643796C>T,p.Leu318Phe,Leu272Phe,Missense,Substitution,8,272,Protease,Heavy Chain,X,,,,Severe,Not Reported,,59,1996
+c.953_954insATTGCCT,30936_30937ins7bp,g.138643797_138643798insATTGCCT,p.Leu318fs,Leu272fs,Frameshift,Insertion,8,272,Protease,Heavy Chain,X,,,,Severe,Not Reported,,95,2005
+c.953T>A,30936T>A,g.138643797T>A,p.Leu318His,Leu272His,Missense,Substitution,8,272,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,170,1995
+c.953T>G,30936T>G,g.138643797T>G,p.Leu318Arg,Leu272Arg,Missense,Substitution,8,272,Protease,Heavy Chain,X,,,,Severe,Not Reported,,23,1991
+c.956T>A,30939T>A,g.138643800T>A,p.Leu319Gln,Leu273Gln,Missense,Substitution,8,273,Protease,Heavy Chain,,,,X,Moderate,No,,219,2012
+c.956T>C,30939T>C,g.138643800T>C,p.Leu319Pro,Leu273Pro,Missense,Substitution,8,273,Protease,Heavy Chain,X,,,,Severe,Not Reported,,237,1994
+c.956T>G,30939T>G,g.138643800T>G,p.Leu319Arg,Leu273Arg,Missense,Substitution,8,273,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.957_958delinsC,30940_30941delinsC,g.138643801_138643802delinsC,p.Glu320fs,Glu274fs,Frameshift,Insertion/deletion,8,274,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,170,1995
+c.958G>T,30941G>T,g.138643802G>T,p.Glu320*,Glu274Stop,Nonsense,Substitution,8,274,Protease,Heavy Chain,X,,,,Severe,Not Reported,,170,1995
+c.959A>G,30942A>G,g.138643803A>G,p.Glu320Gly,Glu274Gly,Missense,Substitution,8,274,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.960delA,30943delA,g.138643804delA,p.Glu320fs,Glu274fs,Frameshift,Deletion,8,274,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,172,1994
+c.962T>A,30945T>A,g.138643806T>A,p.Leu321Gln,Leu275Gln,Missense,Substitution,8,275,Protease,Heavy Chain,X,,,,Severe,Not Reported,,217,1995
+c.962T>C,30945T>C,g.138643806T>C,p.Leu321Pro,Leu275Pro,Missense,Substitution,8,275,Protease,Heavy Chain,X,,,,Severe,Not Reported,,23,1991
+c.962T>G,30945T>G,g.138643806T>G,p.Leu321Arg,Leu275Arg,Missense,Substitution,8,275,Protease,Heavy Chain,X,,,,Severe,Not Reported,,88,1997
+c.964G>T,30947G>T,g.138643808G>T,p.Asp322Tyr,Asp276Tyr,Missense,Substitution,8,276,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,194,1990
+c.967G>A,30950G>A,g.138643811G>A,p.Glu323Lys,Glu277Lys,Missense,Substitution,8,277,Protease,Heavy Chain,,,X,,Mild,Not Reported,"Polymorphism, dbSNPID:  rs150351950",FIXMD,
+c.967G>T,30950G>T,g.138643811G>T,p.Glu323*,Glu277Stop,Nonsense,Substitution,8,277,Protease,Heavy Chain,,,,X,Severe,No,,219,2012
+c.970C>A,30953C>A,g.138643814C>A,p.Pro324Thr,Pro278Thr,Missense,Substitution,8,278,Protease,Heavy Chain,,,,X,Mild,Not Reported,,30,2008
+c.971C>A,30954C>A,g.138643815C>A,p.Pro324His,Pro278His,Missense,Substitution,8,278,Protease,Heavy Chain,,,X,,Mild,Not Reported,,170,1995
+c.969_975delACCCTTA,30919_30925delACCCTTA,g.138643813_138643819delACCCTTA,p.Pro324Cysfs*2,Pro278Cysfs*2,Frameshift,Deletion,8,278,Protease,Heavy Chain,X,,,,Severe,Not Reported,,224,2013
+c.973T>A,30956T>A,g.138643817T>A,p.Leu325Ile,Leu279Ile,Missense,Substitution,8,279,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.973T>G,30956T>G,g.138643817T>G,p.Leu325Val,Leu279Val,Missense,Substitution,8,279,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.974T>C,30957T>C,g.138643818T>C,p.Leu325Ser,Leu279Ser,Missense,Substitution,8,279,Protease,Heavy Chain,X,,,,Severe,Not Reported,,65,1993
+c.974T>G,30957T>G,g.138643818T>G,p.Leu325*,Leu279Stop,Nonsense,Substitution,8,279,Protease,Heavy Chain,X,,,,Severe,Not Reported,,128,2004
+c.982A>T,30965A>T,g.138643826A>T,p.Asn328Tyr,Asn282Tyr,Missense,Substitution,8,282,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,17,2006
+c.983A>T,30966A>T,g.138643827A>T,p.Asn328Ile,Asn282Ile,Missense,Substitution,8,282,Protease,Heavy Chain,,,,X,Mild,Not Reported,,FIXMD,
+c.984C>G,30967C>G,g.138643828C>G,p.Asn328Arg,Asn282Arg,Missense,Substitution,8,282,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,88,1997
+c.985delA,30968delA,g.138643829delA,p.Ser329fs,Ser283fs,Frameshift,Deletion,8,283,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,217,1995
+c.987C>G,30970C>G,g.138643831C>G,p.Ser329Arg,Ser283Arg,Missense,Substitution,8,283,Protease,Heavy Chain,X,X,X,,Moderate,Not Reported,,FIXMD,1998
+c.989A>G,30972A>G,g.138643833A>G,p.Tyr330Cys,Tyr284Cys,Missense,Substitution,8,284,Protease,Heavy Chain,,X,,,Not Reported,Not Reported,,105,1999
+c.990C>A,30973C>A,g.138643834C>A,p.Tyr330*,Tyr284Stop,Nonsense,Substitution,8,284,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,190,1993
+c.991G>T,30974G>T,g.138643835G>T,p.Val331Phe,Val285Phe,Missense,Substitution,8,285,Protease,Heavy Chain,X,,,,Severe,Not Reported,,161,2009
+c.997C>A,30980C>A,g.138643841C>A,p.Pro333Thr,Pro287Thr,Missense,Substitution,8,287,Protease,Heavy Chain,,X,X,X,Mild,Not Reported,,217,1995
+c.998C>A,30981C>A,g.138643842C>A,p.Pro333His,Pro287His,Missense,Substitution,8,287,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,217,1995
+c.998C>T,30981C>T,g.138643842C>T,p.Pro333Leu,Pro287Leu,Missense,Substitution,8,287,Protease,Heavy Chain,X,,,,Severe,Not Reported,,31,1991
+c.1001T>C,30984T>C,g.138643845T>C,p.Ile334Thr,Ile288Thr,Missense,Substitution,8,288,Protease,Heavy Chain,,,X,,Mild,No,,FIXMD,
+c.1002T>G,30985T>G,g.138643846T>G,p.Ile334Met,Ile288Met,Missense,Substitution,8,288,Protease,Heavy Chain,X,,,,Severe/Moderate,No,,23,1991
+c.1003T>A,30986T>A,g.138643847T>A,p.Cys335Ser,Cys289Ser,Missense,Substitution,8,289,Protease,Heavy Chain,X,,,,Severe,Not Reported,,95,2005
+c.1003T>C,30986T>C,g.138643847T>C,p.Cys335Arg,Cys289Arg,Missense,Substitution,8,289,Protease,Heavy Chain,,,X,,Not Reported,Not Reported,,218,1999
+c.1004G>A,30987G>A,g.138643848G>A,p.Cys335Tyr,Cys289Tyr,Missense,Substitution,8,289,Protease,Heavy Chain,X,,,,Severe,Not Reported,,12,2005
+c.1004G>C,30987G>C,g.138643848G>C,p.Cys335Ser,Cys289Ser,Missense,Substitution,8,289,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.1004G>T,30987G>T,g.138643848G>T,p.Cys335Tyr,Cys289Tyr,Missense,Substitution,8,289,Protease,Heavy Chain,X,X,,X,Not Reported,Not Reported,,172,1994
+c.1006_1007delinsCA,30989_30990delinsCA,g.138643850_138643851delinsCA,p.Ile336His,Ile290His,Missense,Insertion/deletion,8,290,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.1009G>A,30992G>A,g.138643853G>A,p.Ala337Thr,Ala291Thr,Missense,Substitution,8,291,Protease,Heavy Chain,X,X,X,,Mild,Not Reported,,138,1989
+c.1009G>C,30992G>C,g.138643853G>C,p.Ala337Pro,Ala291Pro,Missense,Substitution,8,291,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,216,1991
+c.1010C>T,30993C>T,g.138643854C>T,p.Ala337Val,Ala291Val,Missense,Substitution,8,291,Protease,Heavy Chain,,,X,,Mild,Not Reported,,211,1998
+c.1015A>G,30998A>G,g.138643859A>G,p.Lys339Glu,Lys293Glu,Missense,Substitution,8,293,Protease,Heavy Chain,,,X,,Mild,Not Reported,,7,1999
+c.1018G>T,31001G>T,g.138643862G>T,p.Glu340*,Glu294Stop,Nonsense,Substitution,8,294,Protease,Heavy Chain,X,,,,Severe,Not Reported,,23,1991
+c.1020_1021InsCA,31003_31004InsCA,g.138643864_138643865insCA,p.Glu340fs,Glu294fs,Frameshift,Insertion,8,294,Protease,Heavy Chain,X,,,,Severe,Not Reported,,172,1994
+c.1022A>G,31005A>G,g.138643866A>G,p.Tyr341Cys,Tyr295Cys,Missense,Substitution,8,295,Protease,Heavy Chain,X,,,,Severe,Not Reported,,65,1993
+c.1023C>A,31006C>A,g.138643867C>A,p.Tyr341*,Tyr295Stop,Nonsense,Substitution,8,295,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.1023C>G,31006C>G,g.138643867C>G,p.Tyr341*,Tyr295Stop,Nonsense,Substitution,8,295,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,218,1999
+c.1022dupA,30972dupA,g.138643866dupA,p.Tyr341*,Tyr295*,Frameshift,Duplication,8,295,Protease,Heavy Chain,,,,X,Moderate,Not Reported,,223,2013
+c.1024A>C,31007A>C,g.138643868A>C,p.Thr342Arg,Thr296Argfs,Missense,Substitution,8,296,Protease,Heavy Chain,X,,,,Severe,Not Reported,,94,2003
+c.1024A>G,31007A>G,g.138643868A>G,p.Thr342Ala,Thr296Ala,Missense,Substitution,8,296,Protease,Heavy Chain,,,X,X,Mild,Not Reported,,12,2005
+c.1024delA,31007delA,g.138643868delA,p.Thr342fs,Thr296fs,Frameshift,Deletion,8,296,Protease,Heavy Chain,,,,X,Moderate,Not Reported,,217,1995
+c.1025C>A,31008C>A,g.138643869C>A,p.Thr342Lys,Thr296Lys,Missense,Substitution,8,296,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,217,1995
+c.1025C>T,31008C>T,g.138643869C>T,p.Thr342Met,Thr296Met,Missense,Substitution,8,296,Protease,Heavy Chain,X,X,X,X,Moderate,No,CpGY,73,1990
+c.1031T>A,31014T>A,g.138643875T>A,p.Ile344Asn,Ile298Asn,Missense,Substitution,8,298,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.1033T>G,31016T>G,g.138643877T>G,p.Phe345Val,Phe299Val,Missense,Substitution,8,299,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.1034T>C,31017T>C,g.138643878T>C,p.Phe345Ser,Phe299Ser,Missense,Substitution,8,299,Protease,Heavy Chain,,,,X,Moderate,No,,219,2012
+c.1036C>T,31019C>T,g.138643880C>T,p.Leu346Phe,Leu300Phe,Missense,Substitution,8,300,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.1040A>T,31023A>T,g.138643884A>T,p.Lys347Ile,Lys301Ile,Missense,Substitution,8,301,Protease,Heavy Chain,,,,X,Mild,Not Reported,,12,2005
+c.1045G>T,31028G>T,g.138643889G>T,p.Gly349*,Gly303Stop,Nonsense,Substitution,8,303,Protease,Heavy Chain,X,,X,,Severe,Not Reported,,12,2005
+c.1046G>A,31029G>A,g.138643890G>A,p.Gly349Glu,Gly303Glu,Missense,Substitution,8,303,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.1046G>T,31029G>T,g.138643890G>T,p.Gly349Val,Gly303Val,Missense,Substitution,8,303,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,170,1995
+c.1048T>G,30998T>G,g.138643892T>G,p.Ser350Ala,Ser304Ala,Missense,Substitution,8,304,Protease,Heavy Chain,,,X,,Mild,Not Reported,,225,2013
+c.1052G>A,31035G>A,g.138643896G>A,p.Gly351Asp,Gly305Asp,Missense,Substitution,8,305,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,74,1991
+c.1052G>T,31035G>T,g.138643896G>T,p.Gly351Val,Gly305Val,Missense,Substitution,8,305,Protease,Heavy Chain,X,,,,Severe,Not Reported,,12,2005
+c.1056T>A,31039T>A,g.138643900T>A,p.Tyr352*,Tyr306Stop,Nonsense,Substitution,8,306,Protease,Heavy Chain,X,,,,Severe,Not Reported,,233,1991
+c.1056T>G,31039T>G,g.138643900T>G,p.Tyr352*,Tyr306Stop,Nonsense,Substitution,8,306,Protease,Heavy Chain,X,,,,Severe,Not Reported,,170,1995
+c.1057G>C,31040G>C,g.138643901G>C,p.Val353Leu,Val307Leu,Missense,Substitution,8,307,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.1058T>A,31041T>A,g.138643902T>A,p.Val353Glu,Val307Glu,Missense,Substitution,8,307,Protease,Heavy Chain,X,,,,Severe,Not Reported,,161,2009
+c.1058T>C,31041T>C,g.138643902T>C,p.Val353Ala,Val307Ala,Missense,Substitution,8,307,Protease,Heavy Chain,,,X,X,Mild,Not Reported,,229,1989
+c.1058T>G,31041T>G,g.138643902T>G,p.Val353Gly,Val307Gly,Missense,Substitution,8,307,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,74,1991
+c.1059_1068del,31042_31051del,g.138643903_138643912del,p.Val353fs,Val307fs,Frameshift,Deletion,8,307,Protease,Heavy Chain,X,,,,Severe,Not Reported,,128,2004
+c.1060A>C,31043A>C,g.138643904A>C,p.Ser354Arg,Ser308Arg,Missense,Substitution,8,308,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.1061G>A,31044G>A,g.138643905G>A,p.Ser354Asn,Ser308Asn,Missense,Substitution,8,308,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,190,1993
+c.1062T>G,31045T>G,g.138643906T>G,p.Ser354Arg,Ser308Arg,Missense,Substitution,8,308,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.1064G>A,31047G>A,g.138643908G>A,p.Gly355Asp,Gly309Asp,Missense,Substitution,8,309,Protease,Heavy Chain,X,,,,Severe,Not Reported,,216,1991
+c.1064G>T,31047G>T,g.138643908G>T,p.Gly355Val,Gly309Val,Missense,Substitution,8,309,Protease,Heavy Chain,X,,,,Severe,Not Reported,,230,1989
+c.1066T>A,31049T>A,g.138643910T>A,p.Trp356Arg,Trp310Arg,Missense,Substitution,8,310,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,218,1999
+c.1066T>C,31049T>C,g.138643910T>C,p.Trp356Arg,Trp310Arg,Missense,Substitution,8,310,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.1066T>G,31049T>G,g.138643910T>G,p.Trp356Gly,Trp310Gly,Missense,Substitution,8,310,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,12,2005
+c.1067G>A,31050G>A,g.138643911G>A,p.Trp356*,Trp310Stop,Nonsense,Substitution,8,310,Protease,Heavy Chain,X,,,X,Severe,No,,140,1999
+c.1067G>C,31050G>C,g.138643911G>C,p.Trp356Ser,Trp310Ser,Missense,Substitution,8,310,Protease,Heavy Chain,X,,,,Severe,Not Reported,,161,2009
+c.1067G>T,31050G>T,g.138643911G>T,p.Trp356Leu,Trp310Leu,Missense,Substitution,8,310,Protease,Heavy Chain,,X,X,X,Mild,Not Reported,,88,1997
+c.1068G>A,31051G>A,g.138643912G>A,p.Trp356*,Trp310Stop,Nonsense,Substitution,8,310,Protease,Heavy Chain,X,,,,Severe,Not Reported,,207,1990
+c.1068G>C,31051G>C,g.138643912G>C,p.Trp356Cys,Trp310Cys,Missense,Substitution,8,310,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,102,1993
+c.1068G>T,31051G>T,g.138643912G>T,p.Trp356Cys,Trp310Cys,Missense,Substitution,8,310,Protease,Heavy Chain,X,,,,Severe,Not Reported,,217,1995
+c.1067delG,31050delG,g.138643911delG,p.Gly357fs,Gly311fs,Frameshift,Deletion,8,311,Protease,Heavy Chain,,X,,,Severe,Not Reported,,113,2000
+c.1069G>A,31052G>A,g.138643913G>A,p.Gly357Arg,Gly311Arg,Missense,Substitution,8,311,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,109,1989
+c.1069G>T,31052G>T,g.138643913G>T,p.Gly357*,Gly311Stop,Nonsense,Substitution,8,311,Protease,Heavy Chain,X,,,,Severe,Not Reported,,218,1999
+c.1070G>A,31053G>A,g.138643914G>A,p.Gly357Glu,Gly311Glu,Missense,Substitution,8,311,Protease,Heavy Chain,X,X,,X,Severe,Not Reported,,135,1991
+c.1070G>T,31053G>T,g.138643914G>T,p.Gly357Val,Gly311Val,Missense,Substitution,8,311,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,172,1994
+c.1072_1073del,31055_31056del,g.138643916_138643917del,p.Arg358fs,Arg312fs,Frameshift,Deletion,8,312,Protease,Heavy Chain,X,,,,Severe,Not Reported,,43,2000
+c.1072A>G,31055A>G,g.138643916A>G,p.Arg358Gly,Arg312Gly,Missense,Substitution,8,312,Protease,Heavy Chain,X,,X,,Severe/Mild,No,,12,2005
+c.1073G>T,31023G>T,g.138643917G>T,p.Arg358Ile,Arg312Ile,Missense,Substitution,8,312,Protease,Heavy Chain,,,,X,Mild,Not Reported,,223,2013
+c.1076T>G,31059T>G,g.138643920T>G,p.Val359Gly,Val313Gly,Missense,Substitution,8,313,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,135,1991
+c.1077_1078del,31060_31061del,g.138643921_138643922del,p.Val359fs,Val313fs,Frameshift,Deletion,8,313,Protease,Heavy Chain,X,,,,Severe,Not Reported,,72,1989
+c.1078T>A,31061T>A,g.138643922T>A,p.Phe360Ile,Phe314Ile,Missense,Substitution,8,314,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,194,1990
+c.1079T>C,31062T>C,g.138643923T>C,p.Phe360Ser,Phe314Ser,Missense,Substitution,8,314,Protease,Heavy Chain,X,,X,,Severe,Not Reported,,170,1995
+c.1082_1089delinsCCA,31032_31039delinsCCA,g.138643926_138643933delinsCCA,p.His361Profs*11,His315Profs*11,Frameshift,Insertion/Deletion,8,315,Protease,Heavy Chain,,,,X,Severe,Not Reported,,223,2013
+c.1084A>G,31067A>G,g.138643928A>G,p.Lys362Glu,Lys316Glu,Missense,Substitution,8,316,Protease,Heavy Chain,,,,X,Moderate,Not Reported,,217,1995
+c.1087G>A,31070G>A,g.138643931G>A,p.Gly363Arg,Gly317Arg,Missense,Substitution,8,317,Protease,Heavy Chain,,,,X,Severe,No,,219,2012
+c.1087G>C,31070G>C,g.138643931G>C,p.Gly363Arg,Gly317Arg,Missense,Substitution,8,317,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.1087G>T,31070G>T,g.138643931G>T,p.Gly363Trp,Gly317Trp,Missense,Substitution,8,317,Protease,Heavy Chain,X,,,,Severe,Not Reported,,140,1999
+c.1088_1095delinsA,31071_31078delinsA,g.138643932_138643939delinsA,p.Gly363fs,Gly317fs,Frameshift,Insertion/deletion,8,317,Protease,Heavy Chain,,,,X,Severe,Not Reported,,12,2005
+c.1088G>A,31071G>A,g.138643932G>A,p.Gly363Glu,Gly317Glu,Missense,Substitution,8,317,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,172,1994
+c.1084delA,31067delA,g.138643928delA,p.Arg364fs,Arg318fs,Frameshift,Deletion,8,318,Protease,Heavy Chain,,,,X,Severe,Not Reported,,143,2008
+c.1086delA,31069delA,g.138643930delA,p.Arg364fs,Arg318fs,Frameshift,Deletion,8,318,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.1095delA,31078delA,g.138643939delA,p.Ala366fs,Ala320fs,Frameshift,Deletion,8,320,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.1096G>C,31079G>C,g.138643940G>C,p.Ala366Pro,Ala320Pro,Missense,Substitution,8,320,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.1097C>A,31080C>A,g.138643941C>A,p.Ala366Asp,Ala320Asp,Missense,Substitution,8,320,Protease,Heavy Chain,X,X,,X,Severe/Moderate,Not Reported,,232,1990
+c.1097C>G,31080C>G,g.138643941C>G,p.Ala366Gly,Ala320Gly,Missense,Substitution,8,320,Protease,Heavy Chain,,,X,X,Mild,Not Reported,,12,2005
+c.1097C>T,31080C>T,g.138643941C>T,p.Ala366Val,Ala320Val,Missense,Substitution,8,320,Protease,Heavy Chain,,X,X,X,Not Reported,Not Reported,,65,1993
+c.1100_1107del,31083_31091del,g.138643944_138643951del,p.Leu367fs,Leu321fs,Frameshift,Deletion,8,321,Protease,Heavy Chain,X,,,,Severe,Not Reported,,235,1992
+c.1100_1107del,31084_31090del,g.138643944_138643951del,p.Leu367fs,Leu321fs,Frameshift,Deletion,8,321,Protease,Heavy Chain,X,,,,Not Reported,Not Reported,,FIXMD,
+c.1100delT,31083delT,g.138643944delT,p.Leu367*,Leu321Stop,Nonsense,Substitution,8,321,Protease,Heavy Chain,X,,,,Severe,Not Reported,,112,2008
+c.1105C>T,31088C>T,g.138643949C>T,p.Leu369Phe,Leu323Phe,Missense,Substitution,8,323,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,12,2005
+c.1106T>C,31089T>C,g.138643950T>C,p.Leu369Pro,Leu323Pro,Missense,Substitution,8,323,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.1108C>G,31091C>G,g.138643952C>G,p.Gln370Glu,Gln324Glu,Missense,Substitution,8,324,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.1108C>T,31091C>T,g.138643952C>T,p.Gln370*,Gln324Stop,Nonsense,Substitution,8,324,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,23,1991
+c.1109A>C,31092A>C,g.138643953A>C,p.Gln370Pro,Gln324Pro,Missense,Substitution,8,324,Protease,Heavy Chain,X,,X,X,Severe,Not Reported,,117,1993
+c.1112A>C,31095A>C,g.138643956A>C,p.Tyr371Ser,Tyr325Ser,Missense,Substitution,8,325,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.1113C>A,31096C>A,g.138643957C>A,p.Tyr371*,Tyr325Stop,Nonsense,Substitution,8,325,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,71,1993
+c.1113C>G,31096C>G,g.138643957C>G,p.Tyr371*,Tyr325Stop,Nonsense,Substitution,8,325,Protease,Heavy Chain,,X,,X,Not Reported,Not Reported,,23,1991
+c.1114_1115InsC,31097_31098InsC,g.138643958_138643959insC,P.leu372Profs,Leu326Profs,Frameshift,Insertion,8,326,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,1996
+c.1115T>C,31098T>C,g.138643959T>C,p.Leu372Pro,Leu326Pro,Missense,Substitution,8,326,Protease,Heavy Chain,X,,,,Severe,No,,CDC,
+c.1120G>A,31103G>A,g.138643964G>A,p.Val374Ile,Val328Ile,Missense,Substitution,8,328,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,160,1990
+c.1120G>T,31103G>T,g.138643964G>T,p.Val374Glu,Val328Glu,Missense,Substitution,8,328,Protease,Heavy Chain,X,X,,X,Moderate,Not Reported,"polymorphsim, dbSNPID:  rs137852271",214,1990
+c.1123C>A,31106C>A,g.138643967C>A,p.Pro375The,Pro329Thr,Missense,Substitution,8,329,Protease,Heavy Chain,,,X,,Mild,Not Reported,,194,1990
+c.1127T>C,31110T>C,g.138643971T>C,p.Leu376Pro,Leu330Pro,Missense,Substitution,8,330,Protease,Heavy Chain,,X,X,,Moderate,Not Reported,,172,1994
+c.1129G>T,31112G>T,g.138643973G>T,p.Val377Phe,Val331Phe,Missense,Substitution,8,331,Protease,Heavy Chain,X,,,,Severe,Not Reported,,7,1999
+c.1130_1132del,31113_31115del,g.138643974_138643976del,p.Val377del,Val331del,"Small structural change (in-frame, <50bp)",Deletion,8,331,Protease,Heavy Chain,X,,,,Severe,Not Reported,,107,1993
+c.1130T>A,31113T>A,g.138643974T>A,p.Val377Asp,Val331Asp,Missense,Substitution,8,331,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.1130T>C,31113T>C,g.138643974T>C,p.Val377Asp,Val331Asp,Missense,Substitution,8,331,Protease,Heavy Chain,,,X,,Mild,Not Reported,,216,1991
+c.1132G>T,31115G>T,g.138643976G>T,p.Asp378Tyr,Asp332Tyr,Missense,Substitution,8,332,Protease,Heavy Chain,,X,,X,Moderate,Not Reported,,107,1993
+c.1135C>A,31118C>A,g.138643979C>A,p.Arg379Gly,Arg333Gly,Missense,Substitution,8,333,Protease,Heavy Chain,X,,,,Severe,Not Reported,,95,2005
+c.1135C>G,31118C>G,g.138643979C>G,p.Arg379Gly,Arg333Gly,Missense,Substitution,8,333,Protease,Heavy Chain,X,X,,X,Severe,Not Reported,,23,1991
+c.1135C>T,31118C>T,g.138643979C>T,p.Arg379*,Arg333Stop,Nonsense,Substitution,8,333,Protease,Heavy Chain,X,X,X,X,Moderate,Not Reported,CpGY,232,1990
+c.1136G>A,31119G>A,g.138643980G>A,p.Arg379Gln,Arg333Gln,Missense,Substitution,8,333,Protease,Heavy Chain,X,X,X,,Moderate,No,CpGY,199,1988
+c.1136G>C,31119G>C,g.138643980G>C,p.Arg379Pro,Arg333Pro,Missense,Substitution,8,333,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,12,2005
+c.1136G>T,31119G>T,g.138643980G>T,p.Arg379Leu,Arg333Leu,Missense,Substitution,8,333,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,23,1991
+c.1138G>A,31121G>A,g.138643982G>A,p.Ala380Thr,Ala334Thr,Missense,Substitution,8,334,Protease,Heavy Chain,,,X,,Mild,Not Reported,,170,1995
+c.1139C>A,31122C>A,g.138643983C>A,p.Ala380Asp,Ala334Asp,Missense,Substitution,8,334,Protease,Heavy Chain,,,X,X,Mild,Not Reported,,31,1991
+c.1141A>G,31124A>G,g.138643985A>G,p.Thr381Ala,Thr335Ala,Missense,Substitution,8,335,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,161,2009
+c.1144_1145del,31127_31128del,g.138643988_138643989del,p.Cys382fs,Cys336fs,Frameshift,Deletion,8,336,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.1144T>C,31127T>C,g.138643988T>C,p.Cys382Arg,Cys336Arg,Missense,Substitution,8,336,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,72,1989
+c.1144T>G,31127T>G,g.138643988T>G,p.Cys382Gly,Cys336Gly,Missense,Substitution,8,336,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,FIXMD,
+c.1145G>A,31128G>A,g.138643989G>A,p.Cys382Tyr,Cys336Tyr,Missense,Substitution,8,336,Protease,Heavy Chain,X,,,,Severe,Not Reported,,74,1991
+c.1146T>A,31129T>A,g.138643990T>A,p.Cys382*,Cys336Stop,Nonsense,Substitution,8,336,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.1147C>A,31130C>A,g.138643991C>A,p.Leu383Ile,Leu337Ile,Missense,Substitution,8,337,Protease,Heavy Chain,,X,,,Moderate/Mild,Not Reported,,63,1992
+c.1147C>T,31130C>T,g.138643991C>T,p.Leu383Phe,Leu337Phe,Missense,Substitution,8,337,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,71,1993
+c.1148T>C,31131T>C,g.138643992T>C,p.Leu383Pro,Leu337Pro,Missense,Substitution,8,337,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,170,1995
+c.1148T>A,31098T>A,g.138643992T>A,p.Leu383His,Leu337His,Missense,Substitution,8,337,Protease,Heavy Chain,,,,X,Moderate/Severe,Not Reported,,223,2013
+c.1150C>T,31133C>T,g.138643994C>T,p.Arg384*,Arg338Stop,Nonsense,Substitution,8,338,Protease,Heavy Chain,X,X,,,Severe,No,,123,1989
+c.1151_1154del,31134_31137del,g.138643995_138643998del,p.Arg384fs,Arg338fs,Frameshift,Deletion,8,338,Protease,Heavy Chain,X,,,,Severe,Not Reported,,95,2005
+c.1151G>C,31134G>C,g.138643995G>C,p.Arg384Pro,Arg338Pro,Missense,Substitution,8,338,Protease,Heavy Chain,,,X,X,Mild,Not Reported,,71,1993
+c.1153T>C,31136T>C,g.138643997T>C,p.Ser385Pro,Ser339Pro,Missense,Substitution,8,339,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,218,1999
+c.1157C>G,31140C>G,g.138644001C>G,p.Thr386Arg,Thr340Arg,Missense,Substitution,8,340,Protease,Heavy Chain,X,,,,Severe,Not Reported,,102,1993
+c.1157C>T,31140C>T,g.138644001C>T,p.Thr386Ile,Thr340Ile,Missense,Substitution,8,340,Protease,Heavy Chain,,X,,X,Not Reported,No,,FIXMD,
+c.1159A>G,31142A>G,g.138644003A>G,p.Lys387Glu,Lys341Glu,Missense,Substitution,8,341,Protease,Heavy Chain,,,X,X,Moderate,Not Reported,,85,1998
+c.1161G>T,31144G>T,g.138644005G>T,p.Lys387Asn,Lys341Asn,Missense,Substitution,8,341,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.1166_1168del,31149_31151del,g.138644010_138644012del,p.Thr389del,Thr343del,Missense,Substitution,8,343,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.1168A>T,31151A>T,g.138644012A>T,p.Ile390Phe,Ile344Phe,Missense,Substitution,8,344,Protease,Heavy Chain,X,X,,,Moderate,No,,217,1995
+c.1169T>A,31152T>A,g.138644013T>A,p.Ile390Asn,Ile344Asn,Missense,Substitution,8,344,Protease,Heavy Chain,,,,X,Severe,Not Reported,,12,2005
+c.1169T>C,31152T>C,g.138644013T>C,p.Ile390Thr,Ile344Thr,Missense,Substitution,8,344,Protease,Heavy Chain,,X,,,Moderate,No,,33,2000
+c.1169T>G,31152T>G,g.138644013T>G,p.Ile390Ser,Ile344Ser,Missense,Substitution,8,344,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,88,1997
+c.1172A>G,31155A>G,g.138644016A>G,p.Tyr391Cys,Tyr345Cys,Missense,Substitution,8,345,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.1173T>A,31156T>A,g.138644017T>A,p.Tyr391*,Tyr345Stop,Nonsense,Substitution,8,345,Protease,Heavy Chain,X,,,,Severe,Not Reported,,217,1995
+c.1174_1176del,31157delAAC,g.138644018_138644020del,p.Asn392del,Asn346del,"Small structural change (in-frame, <50bp)",Deletion,8,346,Protease,Heavy Chain,,X,,X,Mild,Not Reported,,194,1990
+c.1174A>G,31157A>G,g.138644018A>G,p.Asn392Asp,Asn346Asp,Missense,Substitution,8,346,Protease,Heavy Chain,X,,X,,Mild,Not Reported,,211,1998
+c.1175_1176InsAA,31158_31159InsAA,g.138644019_138644020insAA,p.Asn392Lysfs*35,Asn346Lysfs,Frameshift,Insertion,8,346,Protease,Heavy Chain,X,,,,Severe,No,,32,1995
+c.1175_1179delinsG,31158_31162delinsG,g.138644019_138644023delinsG,p.Asn392Argfs*33,Asn346Argfs*33,Frameshift,Insertion/deletion,8,346,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.1177A>C,31160A>C,g.138644021A>C,p.Asn393Thr,Asn347Thr,Missense,Substitution,8,347,Protease,Heavy Chain,X,,,,Severe,Not Reported,,161,2009
+c.1178_1180del,31161_31163del,g.138644022_138644024del,p.Asn393del,Asn347del,"Small structural change (in-frame, <50bp)",Deletion,8,347,Protease,Heavy Chain,X,,,X,Severe,No,,172,1994
+c.1178A>T,31161A>T,g.138644022A>T,p.Asn93Ile,Asn347Ile,Missense,Substitution,8,347,Protease,Heavy Chain,X,,,,Severe,Not Reported,,23,1991
+c.1180A>G,31163A>G,g.138644024A>G,p.Met394Val,Met348Val,Missense,Substitution,8,348,Protease,Heavy Chain,,X,X,,Moderate,Not Reported,,31,1991
+c.1180delA,31163delA,g.138644024delA,p.Met394Cysfs*32,Met348fs,Frameshift,Deletion,8,348,Protease,Heavy Chain,,,,X,Severe,No,,219,2012
+c.1181T>A,31164T>A,g.138644025T>A,p.Met394Lys,Met348Lys,Missense,Substitution,8,348,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,148,1995
+c.1181T>G,31164T>G,g.138644025T>G,p.Met394Arg,Met348Arg,Missense,Substitution,8,348,Protease,Heavy Chain,X,,,,Severe,Not Reported,,12,2005
+c.1182G>A,31165G>A,g.138644026G>A,p.Met394Ile,Met348Ile,Missense,Substitution,8,348,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,23,1991
+c.1183delT,31166delT,g.138644027delT,p.Phe395fs,Phe349fs,Frameshift,Deletion,8,349,Protease,Heavy Chain,X,,,,Severe,Not Reported,,235,1992
+c.1183T>A,31166T>A,g.138644027T>A,p.Phe395Ile,Phe349Ile,Missense,Substitution,8,349,Protease,Heavy Chain,X,,,X,Severe,No,,153,2003
+c.1183T>C,31166T>C,g.138644027T>C,p.Phe395Leu,Phe349Leu,Missense,Substitution,8,349,Protease,Heavy Chain,X,,,,Severe,Not Reported,,44,2000
+c.1183T>G,31166T>G,g.138644027T>G,p.Phe395Val,Phe349Val,Missense,Substitution,8,349,Protease,Heavy Chain,X,,,,Severe,Not Reported,,95,2005
+c.1184T>A,31167T>A,g.138644028T>A,p.Phe395Tyr,Phe349Tyr,Missense,Substitution,8,349,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.1185C>G,31168C>G,g.138644029C>G,p.Phe395Leu,Phe349Leu,Missense,Substitution,8,349,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,113,2000
+c.1186T>C,31169T>C,g.138644030T>C,p.Cys396Arg,Cys350Arg,Missense,Substitution,8,350,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.1187G>A,31170G>A,g.138644031G>A,p.Cys396Tyr,Cys350Tyr,Missense,Substitution,8,350,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,172,1994
+c.1187G>C,31170G>C,g.138644031G>C,p.Cys396Ser,Cys350Ser,Missense,Substitution,8,350,Protease,Heavy Chain,X,X,X,,Severe,Not Reported,,217,1995
+c.1187G>T,31170G>T,g.138644031G>T,p.Cys396Phe,Cys350Phe,Missense,Substitution,8,350,Protease,Heavy Chain,,X,X,X,Mild,Not Reported,,190,1993
+c.1188T>A,31171T>A,g.138644032T>A,p.Cys396*,Cys350Stop,Missense,Substitution,8,350,Protease,Heavy Chain,X,,,,Severe,Not Reported,,153,2003
+c.1188T>G,31171T>G,g.138644032T>G,p.Cys396Trp,Cys350Trp,Missense,Substitution,8,350,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.1189G>A,31172G>A,g.138644033G>A,p.Ala397Thr,Ala351Thr,Missense,Substitution,8,351,Protease,Heavy Chain,X,,,,Severe,Not Reported,,161,2009
+c.1189G>C,31172G>C,g.138644033G>C,p.Ala397Pro,Ala351Pro,Missense,Substitution,8,351,Protease,Heavy Chain,,,X,X,Not Reported,Not Reported,,119,2000
+c.1190C>T,31173C>T,g.138644034C>T,p.Ala397Val,Ala351Val,Missense,Substitution,8,351,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,112,2008
+c.1192G>A,31175G>A,g.138644036G>A,p.Gly398Ser,Gly352Ser,Missense,Substitution,8,352,Protease,Heavy Chain,X,,,X,Not Reported,Not Reported,,170,1995
+c.1193G>A,31176G>A,g.138644037G>A,p.Gly398Asp,Gly352Asp,Missense,Substitution,8,352,Protease,Heavy Chain,X,,,,Severe,Not Reported,,7,1999
+c.1193G>C,31176G>C,g.138644037G>C,p.Gly398Ala,Gly352Ala,Missense,Substitution,8,352,Protease,Heavy Chain,,X,X,X,Not Reported,Not Reported,,7,1999
+c.1204G>A,31187G>A,g.138644048G>A,p.Gly402Arg,Gly356Arg,Missense,Substitution,8,356,Protease,Heavy Chain,X,X,,X,Severe,Not Reported,,172,1994
+c.1205G>A,31155G>A,g.138644049G>A,p.Gly402Glu,Gly356Glu,Missense,Substitution,8,356,Protease,Heavy Chain,,,X,,Mild,Not Reported,,224,2013
+c.1207G>T,31190G>T,g.138644051G>T,p.Gly403Cys,Gly357Cys,Missense,Substitution,8,357,Protease,Heavy Chain,,,X,,Moderate,Not Reported,,112,2008
+c.1208G>A,31191G>A,g.138644052G>A,p.Gly403Asp,Gly357Asp,Missense,Substitution,8,357,Protease,Heavy Chain,,,X,,Mild,Not Reported,,161,2009
+c.1211G>C,31194G>C,g.138644055G>C,p.Arg404Thr,Arg358Thr,Missense,Substitution,8,358,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,140,1999
+c.1213_1214del,31196_31197del,g.138644057_138644058del,p.Asp405fs,Asp359fs,Frameshift,Deletion,8,359,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,107,1993
+c.1213G>A,31196G>A,g.138644057G>A,p.Asp405Asn,Asp359Asn,Missense,Substitution,8,359,Protease,Heavy Chain,X,,,X,Not Reported,Not Reported,,119,2000
+c.1214A>G,31197A>G,g.138644058A>G,p.Asp405Gly,Asp359Gly,Missense,Substitution,8,359,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.1217C>G,31200C>G,g.138644061C>G,p.Ser406*,Ser360Stop,Nonsense,Substitution,8,360,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,190,1993
+c.1217C>T,31200C>T,g.138644061C>T,p.Ser406Leu,Ser360Leu,Missense,Substitution,8,360,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,31,1991
+c.1219T>A,31202T>A,g.138644063T>A,p.Cys407Ser,Cys361Ser,Missense,Substitution,8,361,Protease,Heavy Chain,X,,,,Severe,Not Reported,,217,1995
+c.1219T>C,31202T>C,g.138644063T>C,p.Cys407Arg,Cys361Arg,Missense,Substitution,8,361,Protease,Heavy Chain,X,X,,X,Severe,No,,153,2003
+c.1219T>G,31202T>G,g.138644063T>G,p.Cys407Gly,Cys361Gly,Missense,Substitution,8,361,Protease,Heavy Chain,X,,,,Severe,Not Reported,,218,1999
+c.1220G>A,31203G>A,g.138644064G>A,p.Cys407Tyr,Cys361Tyr,Missense,Substitution,8,361,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,170,1995
+c.1220G>T,31203G>T,g.138644064G>T,p.Cys407Phe,Cys361Phe,Missense,Substitution,8,361,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,119,2000
+c.1222C>T,31172C>T,g.138644066C>T,p.Gln408*,Gln362*,Nonsense,Substitution,8,362,Protease,Heavy Chain,,,,X,Severe,Not Reported,,223,2013
+c.1225G>A,31208G>A,g.138644069G>A,p.Gly409Arg,Gly363Arg,Missense,Substitution,8,363,Protease,Heavy Chain,X,,,,Severe,Not Reported,,68,1993
+c.1225G>T,31208G>T,g.138644069G>T,p.Gly409*,Gly363Stop,Nonsense,Substitution,8,363,Protease,Heavy Chain,X,,,,Severe,Not Reported,,172,1994
+c.1226G>A,31209G>A,g.138644070G>A,p.Gly409Glu,Gly363Glu,Missense,Substitution,8,363,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,172,1994
+c.1226G>C,31209G>C,g.138644070G>C,p.Gly409Ala,Gly363Ala,Missense,Substitution,8,363,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,197,1992
+c.1226G>T,31209G>T,g.138644070G>T,p.Gly409Val,Gly363Val,Missense,Substitution,8,363,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,10,1990
+c.1228G>A,31211G>A,g.138644072G>A,p.Asp410Asn,Asp364Asn,Missense,Substitution,8,364,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,172,1994
+c.1228G>C,31211G>C,g.138644072G>C,p.Asp410His,Asp364His,Missense,Substitution,8,364,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,231,1990
+c.1228G>T,31211G>T,g.138644072G>T,p.Asp410Tyr,Asp364Tyr,Missense,Substitution,8,364,Protease,Heavy Chain,X,,,,Severe,No,,113,2000
+c.1229_1230insATAG,31212_31213InsATAG,g.138644073_138644074insATAG,p.Asp410fs,Asp364fs,Frameshift,Insertion,8,364,Protease,Heavy Chain,X,,,,Severe,Not Reported,,32,1995
+c.1229A>G,31212A>G,g.138644073A>G,p.Asp410Gly,Asp364Gly,Missense,Substitution,8,364,Protease,Heavy Chain,,X,,X,Not Reported,Not Reported,,119,2000
+c.1229A>T,31212A>T,g.138644073A>T,p.Asp410Val,Asp364Val,Missense,Substitution,8,364,Protease,Heavy Chain,X,,,,Severe,Not Reported,,31,1991
+c.1230T>G,31213T>G,g.138644074T>G,p.Asp410Glu,Asp364Glu,Missense,Substitution,8,364,Protease,Heavy Chain,X,,,,Severe,Not Reported,,12,2005
+c.1230_1231delinsCG,31213_31214delinsCG,g.138644074_138644075delinsCG,p.Ser411Gly,Ser365Gly,Missense,Insertion/deletion,8,365,Protease,Heavy Chain,X,,,,Severe,Yes,,122,1988
+c.1231A>G,31214A>G,g.138644075A>G,p.Ser411Gly,Ser365Gly,Missense,Substitution,8,365,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,FIXMD,
+c.1232_1134delinsTT,31215_31217delinsTT,g.138644076_138644078delinsTT,p.Ser411Ilefs*15,Ser365Ilefs*15,Frameshift,Insertion/deletion,8,365,Protease,Heavy Chain,X,,,,Severe,Not Reported,,113,2000
+c.1232_1233insATAG,31182_31183insATAG,g.138644076_138644077insATAG,p.Ser411Argfs*2,Ser365Argfs*2,Frameshift,Insertion,8,365,Protease,Heavy Chain,X,,,,Severe,Not Reported,,222,2014
+c.1232G>A,31215G>A,g.138644076G>A,p.Ser411Asn,Ser365Asn,Missense,Substitution,8,365,Protease,Heavy Chain,X,X,,,Severe,Not Reported,,148,1995
+c.1232G>T,31215G>T,g.138644076G>T,p.Ser411Ile,Ser365Ile,Missense,Substitution,8,365,Protease,Heavy Chain,X,,,,Severe,Not Reported,,235,1992
+c.1233T>A,31216T>A,g.138644077T>A,p.Ser411Arg,Ser365Arg,Missense,Substitution,8,365,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,232,1990
+c.1233T>G,31216T>G,g.138644077T>G,p.Ser411Arg,Ser365Arg,Missense,Substitution,8,365,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.1234G>T,31217G>T,g.138644078G>T,p.Gly412Trp,Gly366Trp,Missense,Substitution,8,366,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,FIXMD,1998
+c.1235G>A,31218G>A,g.138644079G>A,p.Gly412Glu,Gly366Glu,Missense,Substitution,8,366,Protease,Heavy Chain,X,X,X,,Mild,Not Reported,,23,1991
+c.1235G>C,31218G>C,g.138644079G>C,p.Gly412Ala,Gly366Ala,Missense,Substitution,8,366,Protease,Heavy Chain,,,X,,Severe,Not Reported,,113,2000
+c.1237G>A,31220G>A,g.138644081G>A,p.Gly413Arg,Gly367Arg,Missense,Substitution,8,367,Protease,Heavy Chain,X,X,,X,Moderate,Not Reported,,31,1991
+c.1237G>C,31187G>C,g.138644081G>C,p.Gly413Arg,Gly367Arg,Missense,Substitution,8,367,Protease,Heavy Chain,X,,,,Severe,Not Reported,,222,2014
+c.1237G>T,31220G>T,g.138644081G>T,p.Gly413*,Gly367Stop,Nonsense,Substitution,8,367,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.1238G>A,31221G>A,g.138644082G>A,p.Gly413Glu,Gly367Glu,Missense,Substitution,8,367,Protease,Heavy Chain,X,,X,,Mild,Not Reported,,170,1995
+c.1238G>C,31221G>C,g.138644082G>C,p.Gly413Ala,Gly367Ala,Missense,Substitution,8,367,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,88,1997
+c.1240C>A,31223C>A,g.138644084C>A,p.Pro414Thr,Pro368Thr,Missense,Substitution,8,368,Protease,Heavy Chain,X,X,X,X,Severe,No,,16,1990
+c.1240C>T,31223C>T,g.138644084C>T,p.Pro414Ser,Pro368Ser,Missense,Substitution,8,368,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.1241C>A,31224C>A,g.138644085C>A,p.Pro414His,Pro368His,Missense,Substitution,8,368,Protease,Heavy Chain,X,,,,Severe,Not Reported,,218,1999
+c.1241C>G,31224C>G,g.138644085C>G,p.Pro414Arg,Pro368Arg,Missense,Substitution,8,368,Protease,Heavy Chain,X,,,,Severe,Not Reported,,129,2007
+c.1241C>T,31224C>T,g.138644085C>T,p.Pro414Leu,Pro368Leu,Missense,Substitution,8,368,Protease,Heavy Chain,X,X,,X,Not Reported,Not Reported,,23,1991
+c.1242_1244delinsAAT,31225_31227delinsAAT,g.138644086_138644088delinsAAT,p.His415Ile,His369Ile,Missense,Insertion/deletion,8,369,Protease,Heavy Chain,X,,,,Severe,No,,105,1999
+c.1243C>A,31226C>A,g.138644087C>A,p.His415Asn,His369Asn,Missense,Substitution,8,369,Protease,Heavy Chain,X,,,,Severe,Not Reported,,237,1994
+c.1244A>G,31227A>G,g.138644088A>G,p.His415Arg,His369Arg,Missense,Substitution,8,369,Protease,Heavy Chain,X,,,,Severe,Not Reported,,231,1990
+c.1245T>A,31228T>A,g.138644089T>A,p.His415Gln,His369Gln,Missense,Substitution,8,369,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,4,1994
+c.1254delA,31237delA,g.138644098delA,p.Val419Trpfs*32,Val373Trpfs,Frameshift,Deletion,8,373,Protease,Heavy Chain,,,,X,Severe,No,,219,2012
+c.1256T>A,31239T>A,g.138644100T>A,p.Val419Glu,Val373Glu,Missense,Substitution,8,373,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,4,1994
+c.1256T>G,31239T>G,g.138644100T>G,p.Val419Gly,Val373Gly,Missense,Substitution,8,373,Protease,Heavy Chain,,X,,,Moderate,No,,CDC,
+c.1258G>A,31241G>A,g.138644102G>A,p.Glu420Lys,Glu374Lys,Missense,Substitution,8,374,Protease,Heavy Chain,,,X,,Mild,Not Reported,,161,2009
+c.1258G>T,31241G>T,g.138644102G>T,p.Glu420*,Glu374Stop,Nonsense,Substitution,8,374,Protease,Heavy Chain,X,X,,X,Moderate,Not Reported,,172,1994
+c.1265C>A,31248C>A,g.138644109C>A,p.Thr422Asn,Thr376Asn,Missense,Substitution,8,376,Protease,Heavy Chain,,,X,,Mild,Not Reported,,74,1991
+c.1267_1268insA,31250_31251insA,g.138644111_138644112insA,p.Ser423fs,Ser377fs,Frameshift,Insertion,8,377,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.1270T>C,31253T>C,g.138644114T>C,p.Phe424Leu,Phe378Leu,Missense,Substitution,8,378,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,31,1991
+c.1270T>G,31253T>G,g.138644114T>G,p.Phe424Val,Phe378Val,Missense,Substitution,8,378,Protease,Heavy Chain,X,,,,Severe,Not Reported,,28,1997
+c.1271T>C,31254T>C,g.138644115T>C,p.Phe424Ser,Phe378Ser,Missense,Substitution,8,378,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,119,2000
+c.1274T>C,31257T>C,g.138644118T>C,p.Leu425Ser,Leu379Ser,Missense,Substitution,8,379,Protease,Heavy Chain,X,,,,Severe,No,,162,2013
+c.1274T>G,31257T>G,g.138644118T>G,p.Leu425*,Leu379Stop,Nonsense,Substitution,8,379,Protease,Heavy Chain,X,,,X,Not Reported,Not Reported,,107,1993
+c.1275A>C,31258A>C,g.138644119A>C,p.Leu425Phe,Leu379Phe,Missense,Substitution,8,379,Protease,Heavy Chain,X,X,X,,Moderate,Not Reported,,50,1993
+c.1276A>C,31259A>C,g.138644120A>C,p.Thr426Pro,Thr380Pro,Missense,Substitution,8,380,Protease,Heavy Chain,X,,,,Severe,Not Reported,,50,1993
+c.1276A>G,31259A>G,g.138644120A>G,p.Thr426Ala,Thr380Ala,Missense,Substitution,8,380,Protease,Heavy Chain,X,,,,Mild,Not Reported,,113,2000
+c.1277C>A,31260C>A,g.138644121C>A,p.Thr426Asn,Thr380Asn,Missense,Substitution,8,380,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.1277C>G,31260C>G,g.138644121C>G,p.Thr426Ser,Thr380Ser,Missense,Substitution,8,380,Protease,Heavy Chain,,,X,,Mild,Not Reported,,31,1991
+c.1277C>T,31260C>T,g.138644121C>T,p.Thr426Ile,Thr380Ile,Missense,Substitution,8,380,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,172,1994
+c.1278delT,31261delT,g.138644122delT,p.Gly427Glufs,Gly381Glufs,Frameshift,Deletion,8,381,Protease,Heavy Chain,X,,,,Severe,Not Reported,,31,1991
+c.1279delG,31262delG,g.138644123delG,p.Gly427Glufs,Gly381Glufs,Frameshift,Deletion,8,381,Protease,Heavy Chain,,,X,X,Mild,Not Reported,,FIXMD,1998
+c.1279G>A,31262G>A,g.138644123G>A,p.Gly427Arg,Gly381Arg,Missense,Substitution,8,381,Protease,Heavy Chain,,X,,X,Moderate,No,,12,2005
+c.1280G>A,31263G>A,g.138644124G>A,p.Gly427Glu,Gly381Glu,Missense,Substitution,8,381,Protease,Heavy Chain,X,,,,Severe,Not Reported,,12,2005
+c.1280G>C,31263G>C,g.138644124G>C,p.Gly427Ala,Gly381Ala,Missense,Substitution,8,381,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.1280G>T,31230G>T,g.138644124G>T,p.Gly427Val,Gly381Val,Missense,Substitution,8,381,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,222,2014
+c.1282A>T,31265A>T,g.138644126A>T,p.Ile428Phe,Ile382Phe,Missense,Substitution,8,382,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,218,1999
+c.1287_1288insT,31270_31271insT,g.138644131_138644132insT,p.Ser430*,Ser384Stop,Frameshift,Insertion,8,384,Protease,Heavy Chain,X,,,,Severe,Not Reported,,FIXMD,
+c.1288A>T,31271A>T,g.138644132A>T,p.Ser430Cys,Ser384Cys,Missense,Substitution,8,384,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,218,1999
+c.1289G>A,31272G>A,g.138644133G>A,p.Ser430Asn,Ser384Asn,Missense,Substitution,8,384,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.1289G>C,31272G>C,g.138644133G>C,p.Ser430Thr,Ser384Thr,Missense,Substitution,8,384,Protease,Heavy Chain,,,X,,Mild,Not Reported,,140,1999
+c.1289G>T,31272G>T,g.138644133G>T,p.Ser430Ile,Ser384Ile,Missense,Substitution,8,384,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,FIXMD,
+c.1290C>G,31273C>G,g.138644134C>G,p.Ser430Arg,Ser384Arg,Missense,Substitution,8,384,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.1291T>A,31274T>A,g.138644135T>A,p.Trp431Arg,Trp385Arg,Missense,Substitution,8,385,Protease,Heavy Chain,,,,X,Moderate,Not Reported,,217,1995
+c.1291T>C,31274T>C,g.138644135T>C,p.Trp431Arg,Trp385Arg,Missense,Substitution,8,385,Protease,Heavy Chain,X,X,,X,Severe,Not Reported,,88,1997
+c.1291T>G,31274T>G,g.138644135T>G,p.Trp431Gly,Trp385Gly,Missense,Substitution,8,385,Protease,Heavy Chain,,,X,,Mild,Not Reported,,140,1999
+c.1293G>A,31276G>A,g.138644137G>A,p.Trp431*,Trp385Stop,Nonsense,Substitution,8,385,Protease,Heavy Chain,X,,,X,Severe,Not Reported,,118,1997
+c.1293G>C,31276G>C,g.138644137G>C,p.Trp431Cys,Trp385Cys,Missense,Substitution,8,385,Protease,Heavy Chain,,,X,,Mild,Not Reported,,61,2004
+c.1293G>T,31276G>T,g.138644137G>T,p.Trp431Cys,Trp385Cys,Missense,Substitution,8,385,Protease,Heavy Chain,X,X,,X,Moderate,Not Reported,,172,1994
+c.1294G>A,31277G>A,g.138644138G>A,p.Gly432Ser,Gly386Ser,Missense,Substitution,8,386,Protease,Heavy Chain,X,X,,,Severe,No,,217,1995
+c.1295G>A,31278G>A,g.138644139G>A,p.Gly432Asp,Gly386Asp,Missense,Substitution,8,386,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,135,1991
+c.1295G>C,31278G>C,g.138644139G>C,p.Gly432Ala,Gly386Ala,Missense,Substitution,8,386,Protease,Heavy Chain,X,X,,X,Not Reported,Not Reported,,172,1994
+c.1295G>T,31278G>T,g.138644139G>T,p.Gly432Val,Gly386Val,Missense,Substitution,8,386,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,85,1998
+c.1297G>A,31280G>A,g.138644141G>A,p.Glu433Lys,Glu387Lys,Missense,Substitution,8,387,Protease,Heavy Chain,X,X,,X,Moderate,Not Reported,,218,1999
+c.1297G>C,31247G>C,g.138644141G>C,p.Glu433Gln,Glu387Gln,Missense,Substitution,8,387,Protease,Heavy Chain,,,X,,Mild,Not Reported,,222,2014
+c.1298A>C,31281A>C,g.138644142A>C,p.Glu433Ala,Glu387Ala,Missense,Substitution,8,387,Protease,Heavy Chain,X,X,,X,Moderate,Not Reported,,88,1997
+c.1298A>G,31281A>G,g.138644142A>G,p.Glu433Gly,Glu387Gly,Missense,Substitution,8,387,Protease,Heavy Chain,,X,,X,Moderate,Not Reported,,23,1991
+c.1300G>A,31283G>A,g.138644144G>A,p.Glu434Lys,Glu388Lys,Missense,Substitution,8,388,Protease,Heavy Chain,,,X,,Mild,Not Reported,,17,2006
+c.1300G>T,31283G>T,g.138644144G>T,p.Glu434*,Glu388Stop,Nonsense,Substitution,8,388,Protease,Heavy Chain,X,,,,Severe,Not Reported,,113,2000
+c.1301_1302del,31284_31285del,g.138644145_138644146del,p.Glu434fs,Glu388fs,Frameshift,Deletion,8,388,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,93,2000
+c.1301A>G,31284A>G,g.138644145A>G,p.Glu434Gly,Glu388Gly,Missense,Substitution,8,388,Protease,Heavy Chain,,,X,,Mild,Not Reported,,170,1995
+c.1303_1304insGA,31286_31287insGA,g.138644147_138644148insGA,p.Cys435fs,Cys389fs,Frameshift,Insertion,8,389,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,7,1999
+c.1303T>A,31286T>A,g.138644147T>A,p.Cys435Ser,Cys389Ser,Missense,Substitution,8,389,Protease,Heavy Chain,X,,,,Severe,Not Reported,,60,2011
+c.1303T>C,31286T>C,g.138644147T>C,p.Cys435Arg,Cys389Arg,Missense,Substitution,8,389,Protease,Heavy Chain,,,,X,Severe,No,,219,2012
+c.1303T>G,31286T>G,g.138644147T>G,p.Cys435Gly,Cys389Gly,Missense,Substitution,8,389,Protease,Heavy Chain,X,,,,Severe,Not Reported,,170,1995
+c.1304G>A,31287G>A,g.138644148G>A,p.Cys435Tyr,Cys389Tyr,Missense,Substitution,8,389,Protease,Heavy Chain,X,X,X,X,Severe,No,,190,1993
+c.1304G>T,31287G>T,g.138644148G>T,p.Cys435Tyr,Cys389Tyr,Missense,Substitution,8,390,Protease,Heavy Chain,X,,,,Severe,No,,96,2009
+c.1305_1306del,31288_31289del,g.138644149_138644150del,p.Ala436fs,Ala390fs,Frameshift,Deletion,8,390,Protease,Heavy Chain,X,,,,Severe,Not Reported,,107,1993
+c.1306G>A,31289G>A,g.138644150G>A,p.Ala436Thr,Ala390Thr,Missense,Substitution,8,390,Protease,Heavy Chain,X,X,X,,Severe/Moderate/Mild,Not Reported,,190,1993
+c.1306G>T,31289G>T,g.138644150G>T,p.Ala436Ser,Ala390Ser,Missense,Substitution,8,390,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,170,1995
+c.1307C>A,31290C>A,g.138644151C>A,p.Ala436Glu,Ala390Glu,Missense,Substitution,8,390,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,207,1990
+c.1307C>T,31290C>T,g.138644151C>T,p.Ala436Val,Ala390Val,Missense,Substitution,8,390,Protease,Heavy Chain,X,X,,X,Severe,Not Reported,,185,1988
+c.1318A>G,31301A>G,g.138644162A>G,p.Lys440Glu,Lys394Glu,Missense,Substitution,8,394,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,170,1995
+c.1320A>C,31303A>C,g.138644164A>C,p.Lys440Asn,Lys394Asn,Missense,Substitution,8,394,Protease,Heavy Chain,,,X,X,Not Reported,Not Reported,,211,1998
+c.1321T>C,31304T>C,g.138644165T>C,p.Tyr441His,Tyr395His,Missense,Substitution,8,395,Protease,Heavy Chain,,X,,X,Moderate,Not Reported,,198,1995
+c.1322A>G,31305A>G,g.138644166A>G,p.Tyr441Cys,Tyr395Cys,Missense,Substitution,8,395,Protease,Heavy Chain,X,,,,Severe,Not Reported,,172,1994
+c.1323T>G,31306T>G,g.138644167T>G,p.Tyr441*,Tyr395Stop,Nonsense,Substitution,8,395,Protease,Heavy Chain,X,,,,Severe,Not Reported,,120,2001
+c.1324G>A,31307G>A,g.138644168G>A,p.Gly442Arg,Gly396Arg,Missense,Substitution,8,396,Protease,Heavy Chain,X,X,,,Severe/Moderate,Not Reported,,65,1993
+c.1325G>A,31308G>A,g.138644169G>A,p.Gly442Gu,Gly396Glu,Missense,Substitution,8,396,Protease,Heavy Chain,X,,,,Severe,Not Reported,,112,2008
+c.1325G>C,31308G>C,g.138644169G>C,p.Gly442Ala,Gly396Ala,Missense,Substitution,8,396,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,68,1993
+c.1325G>T,31308G>T,g.138644169G>T,p.Gly442Val,Gly396Val,Missense,Substitution,8,396,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,172,1994
+c.1326_1339del,31309_31342del,g.138644170_138644183del,p.Gly442fs,Gly396fs,Frameshift,Deletion,8,396,Protease,Heavy Chain,X,,,,Severe,Not Reported,,172,1994
+c.1327A>C,31310A>C,g.138644171A>C,p.Ile443Leu,Ile397Leu,Missense,Substitution,8,397,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.1328T>C,31311T>C,g.138644172T>C,p.Ile443Thr,Ile397Thr,Missense,Substitution,8,397,Protease,Heavy Chain,X,X,X,X,Moderate,No,,209,1988
+c.1330T>C,31313T>C,g.138644174T>C,p.Tyr444His,Tyr398His,Missense,Substitution,8,398,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,161,2009
+c.1331A>C,31314A>C,g.138644175A>C,p.Tyr444Ser,Tyr398Ser,Missense,Substitution,8,398,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,172,1994
+c.1331A>G,31281A>G,g.138644175A>G,p.Tyr444Cys,Tyr398Cys,Missense,Substitution,8,398,Protease,Heavy Chain,,,,X,Severe,Not Reported,,223,2013
+c.1334_1135insATATATACC,31317_31318Ins9bp,g.138644178_138644179ins9bp,p.Thr445ins3AA,Thr399Ins3AA,"Small structural change (in-frame, <50bp)",Insertion,8,399,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,50,1993
+c.1334C>A,31317C>A,g.138644178C>A,p.Thr445Asn,Thr399Asn,Missense,Substitution,8,399,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,118,1997
+c.1334C>T,31317C>T,g.138644178C>T,p.Thr445Ile,Thr399Ile,Missense,Substitution,8,399,Protease,Heavy Chain,,,X,,Mild,Not Reported,,170,1995
+c.1338G>C,31321G>C,g.138644182G>C,p.Lys446Asn,Lys400Asn,Missense,Substitution,8,400,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,
+c.1340T>A,31323T>A,g.138644184T>A,p.Val447GLu,Val401Glu,Missense,Substitution,8,401,Protease,Heavy Chain,X,,,,Severe,Not Reported,,94,2003
+c.1342delT,31325delT,g.138644186delT,p.Ser448fs,Ser402fs,Frameshift,Deletion,8,402,Protease,Heavy Chain,,,X,,Mild,Not Reported,,90,2001
+c.1343_1350del,31326_31333del,g.138644187_138644194del,p.Ser448fs,Ser402fs,Frameshift,Deletion,8,402,Protease,Heavy Chain,X,,,,Severe,Not Reported,,107,1993
+c.1343C>A,31326C>A,g.138644187C>A,p.Ser448Tyr,Ser402Tyr,Missense,Substitution,8,402,Protease,Heavy Chain,,,X,,Mild,Not Reported,,61,2004
+c.1343C>T,31326C>T,g.138644187C>T,p.Ser448Phe,Ser402Phe,Missense,Substitution,8,402,Protease,Heavy Chain,,,X,,Mild,Not Reported,,232,1990
+c.1344_1345delins10bp,31327_31328delins10bp,g.138644188_138644189delins10bp,p.Ser448fs,Ser402fs,Frameshift,Insertion/deletion,8,402,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,164,1990
+c.1345C>T,31328C>T,g.138644189C>T,p.Arg449Trp,Arg403Trp,Missense,Substitution,8,403,Protease,Heavy Chain,,,X,X,Not Reported,Not Reported,CpGY,217,1995
+c.1346G>A,31329G>A,g.138644190G>A,p.Arg449Gln,Arg403Gln,Missense,Substitution,8,403,Protease,Heavy Chain,,,X,,Mild,Not Reported,"CpGY; polymorphism, dbSNPID:  rs143018900",15,1978
+c.1347delG,31330delG,g.138644191delG,p.Tyr450fs,Tyr404fs,Frameshift,Deletion,8,404,Protease,Heavy Chain,X,,,,Severe,Not Reported,,65,1993
+c.1348T>A,31298T>A,g.138644192T>A,p.Tyr450Asn,Tyr404Asn,Missense,Substitution,8,404,Protease,Heavy Chain,X,,,,Severe,Not Reported,,222,2014
+c.1348T>C,31331T>C,g.138644192T>C,p.Tyr450His,Tyr404His,Missense,Substitution,8,404,Protease,Heavy Chain,,X,X,,Moderate,Not Reported,,88,1997
+c.1349A>G,31332A>G,g.138644193A>G,p.Tyr450Cys,Tyr404Cys,Missense,Substitution,8,404,Protease,Heavy Chain,X,,,X,Not Reported,Not Reported,,85,1998
+c.1350T>G,31333T>G,g.138644194T>G,p.Tyr450*,Tyr404Stop,Nonsense,Substitution,8,404,Protease,Heavy Chain,,,,X,Not Reported,No,,219,2012
+c.1351G>T,31334G>T,g.138644195G>T,p.Val451Phe,Val405Phe,Missense,Substitution,8,405,Protease,Heavy Chain,,,X,,Mild,Not Reported,,197,1992
+c.1357T>A,31340T>A,g.138644201T>A,p.Trp453Arg,Trp407Arg,Missense,Substitution,8,407,Protease,Heavy Chain,X,,,,Severe,Not Reported,,43,2000
+c.1357T>C,31340T>C,g.138644201T>C,p.Trp453Arg,Trp407Arg,Missense,Substitution,8,407,Protease,Heavy Chain,X,X,,X,Moderate,Not Reported,,109,1989
+c.1358G>A,31341G>A,g.138644202G>A,p.Trp453*,Trp407Stop,Nonsense,Substitution,8,407,Protease,Heavy Chain,X,,,,Severe,No,,CDC and FIXMD,
+c.1358G>T,31341G>T,g.138644202G>T,p.Trp453Leu,Trp407Leu,Missense,Substitution,8,407,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,
+c.1359G>A,31342G>A,g.138644203G>A,p.Trp453*,Trp407Stop,Nonsense,Substitution,8,407,Protease,Heavy Chain,X,,,,Severe,Not Reported,,172,1994
+c.1359G>C,31342G>C,g.138644203G>C,p.Trp453Cys,Trp407Cys,Missense,Substitution,8,407,Protease,Heavy Chain,,,X,,Mild,Not Reported,,FIXMD,1998
+c.1361T>A,31344T>A,g.138644205T>A,p.Ile454Asn,Ile408Asn,Missense,Substitution,8,408,Protease,Heavy Chain,,X,,,Severe,Not Reported,,12,2005
+c.1361T>C,31344T>C,g.138644205T>C,p.Ile454Thr,Ile408Thr,Missense,Substitution,8,408,Protease,Heavy Chain,X,X,,,Moderate,Not Reported,,51,1998
+c.1362_1363insGATT,31345_31346insGATT,g.138644206_138644207insGATT,p.Ile454fs,Ile408fs,Frameshift,Insertion,8,408,Protease,Heavy Chain,X,,,,Severe,Not Reported,,228,1989
+c.1372dup,31322dup,g.138644216dup,p.Thr458Asnfs*18,Thr408Asnfs*18,Frameshift,Duplication,8,408,Protease,Heavy Chain,X,,,,Severe,Not Reported,,222,2014
+c.1360A>T,31310A>T,g.138644204A>T,p.Ile454Phe,Ile408Phe,Missense,Substitution,8,408,Protease,Heavy Chain,,,,X,Severe,Not Reported,,223,2013
+c.1362delT,31345delT,g.138644206delT,p.Lys455fs,Lys409fs,Frameshift,Deletion,8,409,Protease,Heavy Chain,X,,,,Severe,Not Reported,,216,1991
+c.1364G>T,31347G>T,g.138644208G>T,p.Glu456*,Glu410Stop,Nonsense,Substitution,8,410,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.1369A>T,31352A>T,g.138644213A>T,p.Lys457*,Lys411Stop,Nonsense,Substitution,8,411,Protease,Heavy Chain,X,,,,Severe,Not Reported,,8,1989
+c.1372_1374del,31355_31357del,g.138644216_138644218del,p.Thr458del,Thr412del,"Small structural change (in-frame, <50bp)",Deletion,8,412,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,118,1997
+c.1372delA,31355delA,g.138644216delA,p.Thr458fs,Thr412fs,Frameshift,Deletion,8,412,Protease,Heavy Chain,X,,,,Severe,Not Reported,,197,1992
+c.1373_1374insA,31356_31357insA,g.138644217_138644218insA,p.Thr458fs,Thr412fs,Frameshift,Deletion,8,412,Protease,Heavy Chain,X,,,,Severe,Not Reported,,7,1999
+c.1373C>A,31356C>A,g.138644217C>A,p.Thr458Lys,Thr412Lys,Missense,Substitution,8,412,Protease,Heavy Chain,,X,,X,Moderate,Not Reported,,23,1991
+c.183_188del,6420delGAGAGA,g.138619263_138619268del,p.Arg62_Glu63del,Arg16_Glu17del,"Small structural change (in-frame, <50bp)",Deletion,2,16-17,GLA,Light Chain,X,,,,Severe,Not Reported,,FIXMD,1998
+c.956_958deinsAGA,30939_31941delinsAGA,g.138643800_138643802delinsAGA,"p.Leu319_Glu320delinsGln,Lys",Leu273_Glu274delinsGlnLys,"Small structural change (in-frame, <50bp)",Insertion/deletion,8,273-274,Protease,Heavy Chain,,,,X,Not Reported,Not Reported,,88,1997
+c.967_974del,30950_30957del,g.138643811_138643818del,p.Glu323Serfs*13,Glu277serfs*13,Frameshift,Deletion,8,277-279,Protease,Heavy Chain,X,,,,Severe,Not Reported,,72,1989
+c.1134_1135delinsAACTCTAA,31117_31118delins8bp,g.138643978_138643979delins8bp,p.Asp378_Arg379delinsGluThrLeuArg,Asp332Arg333delinsGluThr,"Small structural change (in-frame, <50bp)",Insertion/deletion,8,332-333,Protease,Heavy Chain,,,X,,Moderate,No,,FIXMD,
+c.1223_1225del,31173_31175del,g.138644067_138644069del,p.Gln408_Gly409delinsArg,Gln362_Gly363delinsArg,"Small structural change (in-frame, <50bp)",Deletion,8,362-363,Protease,Heavy Chain,,X,,,Moderate,Not Reported,,222,2014
+c.353_358dup,10416_10421dup,g.138623314_138623315dup,p.Cys119_Pro120insArgCys,Cys73_Pro74insArgCys,"Small structural change (in-frame, <50bp)",Duplication,4,73-74,EGF1,Light Chain,X,,,,Severe,Not Reported,,224,2013
+c.385_390del,10499delGAATTA,g.138623342_138623347del,p.Glu129_Leu130del,Glu83_Leu84del,"Small structural change (in-frame, <50bp)",Deletion,4,83-84,EGF1,Light Chain,X,,,,Severe,Not Reported,,140,1999
+c.*1157A>G,32528A>G,g.138645387A>G,,,3'UTR,Substitution,3'UTR,,,3'UTR,X,X,,,Severe/Moderate,Not Reported,,204,1993
+c.*1368A>G,32739A>G,g.138645598A>G,,,3'UTR,Substitution,3'UTR,,,3'UTR,,,X,,Mild,Not Reported,,113,2000
+c.*2545A>G,33916A>G,g.138646775A>G,,,3'UTR,Substitution,3'UTR,,,3'UTR,X,X,X,X,Severe,Not Reported,,204,1993
+c.*2864T>C,34235T>C,g.138647094T>C,,,3'UTR,Substitution,3'UTR,,,3'UTR,,X,,,Moderate,Not Reported,,FIXMD,
+c..567_839-35del,29409-30787del,g.138633267_138643648del,,del Exon 7,Large Structure Change (>50bp),Deletion,7,,,,,,,X,Not Reported,Not Reported,,FIXMD,
+c.[788_789ins290bp;774_788dup14],30103_30104ins290bp;30089_30103dup,g.138642964_65ins290bp;g.138642950_964dup,,Ins and dup in Exon7,Large Structure Change (>50bp),Insertion/Duplication,7,,,,,X,,,Severe,Not Reported,,128,2004
+c.-17A>C,13A>C,g.138612907A>C,,,Promoter,Substitution,1,,,Promoter,X,,,,Severe,Not Reported,,FIXMD,
+c.-17A>G,13A>G,g.138612907A>G,,,Promoter,Substitution,1,,,Promoter,X,X,X,,Mild,Not Reported,,168,1989
+c.-17delA,13delA,g.138612907delA,,,Promoter,Deletion,1,,,Promoter,,,X,,Mild,Not Reported,,168,1989
+c.-18A>G,12A>G,g.138612906A>G,,,Promoter,Substitution,1,,,Promoter,,X,,,Moderate,Not Reported,,FIXMD,
+c.-21C>G,9C>G,g.138612903C>G,,,Promoter,Substitution,1,,,Promoter,,,,X,Not Reported,Not Reported,,218,1999
+c.-22delT,8delT,g.138612902delT,,,Promoter,Deletion,1,,,Promoter,,X,,,Moderate,Not Reported,,78,1992
+c.-22T>C,8T>C,g.138612902T>C,,,Promoter,Substitution,1,,,Promoter,,,X,,Mild,Not Reported,,171,1991
+c.-23T>C,7T>C,g.138612901T>C,,,Promoter,Substitution,1,,,Promoter,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.-24T>A,6T>A,g.138612900T>A,,,Promoter,Substitution,1,,,Promoter,,,X,,Mild,Not Reported,,148,1995
+c.252+1_252+4del,6490_6493del,g.138619333_138619336del,,,Splice site change,Deletion,Intron 2,,,,X,,,,Severe,Not Reported,,32,1995
+c.252+1delG,6490delG,g.138619333delG,,,Splice site change,Deletion,Intron 2,,,,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.252+1G>A,6490G>A,g.138619333G>A,,,Splice site change,Substitution,Intron 2,,,,X,,,,Severe,Not Reported,,105,1999
+c.252+1G>C,6490G>C,g.138619333G>C,,,Splice site change,Substitution,Intron 2,,,,X,,,,Severe,Not Reported,,140,1999
+c.252+2T>C,6491T>C,g.138619334T>C,,,Splice site change,Substitution,Intron 2,,,,X,,,,Severe,No,,162,2013
+c.252+2T>G,6491T>G,g.138619334T>G,,,Splice site change,Substitution,Intron 2,,,,X,,,,Severe,No,,162,2013
+c.252+3_252+6del,6492_6495del,g.138619335_138619338del,,,Splice site change,Deletion,Intron 2,,,,X,X,,,Moderate,Not Reported,,160,1990
+c.252+3G>C,6492G>C,g.138619335G>C,,,Splice site change,Substitution,Intron 2,,,,,X,,X,Moderate,Not Reported,,148,1995
+c.252+4A>G,6493A>G,g.138619336A>G,,,Splice site change,Substitution,Intron 2,,,,X,,,,Severe,Not Reported,,95,2005
+c.252+5G>A,6494G>A,g.138619337G>A,,,Splice site change,Substitution,Intron 2,,,,X,,X,X,Severe,Not Reported,,194,1990
+c.252+5G>C,6494G>C,g.138619337G>C,,,Splice site change,Substitution,Intron 2,,,,,X,,,Moderate,Not Reported,,194,1990
+c.252+5G>T,6494G>T,g.138619337G>T,,,Splice site change,Substitution,Intron 2,,,,X,,,,Severe,Not Reported,,12,2005
+c.252+6T>C,6495T>C,g.138619338T>C,,,Splice site change,Substitution,Intron 2,,,,X,X,,,Severe,Not Reported,,231,1990
+c.252+86C>G,6575C>G,g.138619418C>G,,,Splice site change,Substitution,Intron 2,,,,X,,,,Severe,Not Reported,,23,1991
+c.252-2A>G,6676A>G,g.138619330A>G,,,Splice site change,Substitution,Intron 2,,,,X,,,,Severe,Not Reported,,FIXMD,
+c.253-10T>G,6668T>G,g.138619511T>G,,,Splice site change,Substitution,Intron 2,,,,X,,,,Severe,Not Reported,,95,2005
+c.253-12_253-3del,6666_6675del,g.138619509_138619518del,,,Splice site change,Deletion,Intron 2,,,,X,,,,Severe,Not Reported,,74,1991
+c.253-13_-4del,6614_6623del,g.138619508-138619517del,,,Splice site change,Deletion,Intron 2,,,,X,,,,Severe,Not Reported,,224,2013
+c.253-18_253-14del,6660_6662del,g.138619503_138619505del,,,Splice site change,Deletion,Intron 2,,,,,X,,,Moderate,No,,11,2012
+c.253-18_253-15del,6660_6663del,g.138619503_138619506del,,,Splice site change,Deletion,Intron 2,,,,,X,,,Moderate,Not Reported,,200,1996
+c.253-1G>A,6677G>A,g.138619520G>A,,,Splice site change,Substitution,Intron 2,,,,X,,,,Severe,Not Reported,,172,1994
+c.253-1G>C,6677G>C,g.138619520G>C,,,Splice site change,Substitution,Intron 2,,,,,X,,,Not Reported,Not Reported,,102,1993
+c.253-25A>G,6653A>G,g.138619496A>G,,,Splice site change,Substitution,Intron 2,,,,X,X,,X,Moderate,No,,51,1998
+c.253-25A>T,6653A>T,g.138619496A>T,,,Splice site change,Substitution,Intron 2,,,,,,,X,Not Reported,Not Reported,,FIXMD,
+c.253-2A>G,6625A>G,g.138619519A>G,,,Splice site change,Substitution,Intron 2,,,,X,,,,Severe,Not Reported,,162,2013
+c.253-3T>G,6675T>G,g.138619518T>G,,,Splice site change,Substitution,Intron 2,,,,,X,,,Moderate,Not Reported,,113,2000
+c.277+1G>A,6703G>A,g.138619546G>A,,,Splice site change,Substitution,Intron 3,,,,X,,,X,Not Reported,Not Reported,,FIXMD,
+c.277+1G>C,6703G>C,g.138619546G>C,,,Splice site change,Substitution,Intron 3,,,,X,,,,Severe,No,,CDC,
+c.277+1G>T,6703G>T,g.138619546G>T,,,Splice site change,Substitution,Intron 3,,,,,,,X,Not Reported,Not Reported,,232,1990
+c.277+2T>C,6704T>C,g.138619547T>C,,,Splice site change,Substitution,Intron 3,,,,X,X,,,Moderate,Not Reported,,65,1993
+c.277+2T>G,6704T>G,g.138619547T>G,,,Splice site change,Substitution,Intron 3,,,,X,,,,Severe,Not Reported,,215,1986
+c.277+4A>G,6706A>G,g.138619549A>G,,,Splice site change,Substitution,Intron 3,,,,X,,,,Severe,Not Reported,,FIXMD,1998
+c.277+5G>A,6707G>A,g.138619550G>A,,,Splice site change,Substitution,Intron 3,,,,X,X,,,Moderate,Not Reported,,172,1994
+c.277+5G>C,6707G>C,g.138619550G>C,,,Splice site change,Substitution,Intron 3,,,,,X,,,Moderate,Not Reported,,28,1997
+c.278-?_391+?del,10392-?_10595+?del,g.138623235-?_138623348+?del,,del Exon 4,Large Structure Change (>50bp),Deletion,4,,,,,,,X,Not Reported,Not Reported,,202,1986
+c.278-?_520+?del,10392-?_17797+?del,g.138623235-?_138630650+?del,,del Exon 4-5,Large Structure Change (>50bp),Deletion,4-5,,,,,,,X,Not Reported,Not Reported,,123,1989
+c.278+?ins6kb,10392+?Ins6kb,g.138623235+?ins6kb,,InsinExon4,Large Structure Change (>50bp),Insertion,4,,,,,,,X,Not Reported,Not Reported,,35,1988
+c.278-12C>G,10380C>G,g.138623223C>G,,,Splice site change,Substitution,Intron 3,,,,X,,,,Severe,Not Reported,,12,2005
+c.278-13A>G,10379A>G,g.138623222A>G,,,Splice site change,Substitution,Intron 3,,,,,X,,,Severe,Not Reported,,97,2008
+c.278-1G>A,10391G>A,g.138623234G>A,,,Splice site change,Substitution,Intron 3,,,,,X,,,Not Reported,Not Reported,,232,1990
+c.278-1G>C,10391G>C,g.138623234G>C,,,Splice site change,Substitution,Intron 3,,,,X,,,,Severe,Not Reported,,120,2001
+c.278-1G>T,10391G>T,g.138623234G>T,,,Splice site change,Substitution,Intron 3,,,,X,,,X,Severe,Not Reported,,105,1999
+c.278-2A>T,10390A>T,g.138623233A>T,,,Splice site change,Substitution,Intron 3,,,,X,,,,Severe,Not Reported,,FIXMD,
+c.278-3A>G,10389A>G,g.138623232A>G,,,Splice site change,Substitution,Intron 3,,,,X,,,,Severe,No,,102,1993
+c.-29-?_1386+?del,1-?_31369+?del,g.138612895-?_138644230+?del,,del Exon 1-8,Large Structure Change (>50bp),Deletion,1-8,,,,X,,,X,Severe,Yes,,83,1985
+c.-29-?_277+?del,1-?_6702+?del,g.138612895-?_138619545+?del,,del Exon 1-3,Large Structure Change (>50bp),Deletion,1-3,,,,,,,X,Not Reported,Yes,,123,1989
+c.-29-?_391+?;521-?_1386+?del,1-?_10505+?;20363-?_31369+?del,g.138612895-?_138623348+?del;g.138633221-?_138644230+?del,,del Exons 1-4;6-8,Large Structure Change (>50bp),Deletion,"1-4, 6-8",,,,,,,X,Not Reported,Not Reported,,120,2001
+c.-29-?_520+?del,1-?_17797+?del,g.138612895-?_138630650+?del,,del Exon 1-5,Large Structure Change (>50bp),Deletion,1-5,,,,,,,,Severe,Yes,,CDC,
+c.-29-?_723+?del,1-?_20565+?del,g.138612895-?_138633423+?del,,del Exons 1-6,Large Structure Change (>50bp),Deletion,1-6,,,,,,,X,Not Reported,Not Reported,,120,2001
+c.-29-?_838+?del,1-?_30153+?del,g.138612895-?_138643014+?del,,del Exon 1-7,Large Structure Change (>50bp),Deletion,1-7,,,,X,,,,Severe,Not Reported,,60,2011
+c.-29-?_88+?del,1-?_117+?del,g.138612895_138613011del,,del Exon 1,Large Structure Change (>50bp),Deletion,1,,,,X,,,X,Not Reported,Yes,,103,1994
+c.-34A>G,-5A>G,g.138612890A>G,,,Promoter,Substitution,5'UTR,,,Promoter,,,X,,Mild,Not Reported,,172,1994
+c.-34A>T,-5A>T,g.138612890A>T,,,Promoter,Substitution,5'UTR,,,Promoter,,X,,,Moderate,Not Reported,,155,1993
+c.-35G>A,-6G>A,g.138612889G>A,,,Promoter,Substitution,5'UTR,,,Promoter,X,X,X,,Mild,Not Reported,CpGY,194,1990
+c.-35G>C,-6G>C,g.138612889G>C,,,Promoter,Substitution,5'UTR,,,Promoter,X,X,X,,Mild,Not Reported,CpGY,120,2001
+c.-38A>G,-9A>G,g.138612886A>G,,,Promoter,Substitution,Promoter,,,,,,,X,Mild,Not Reported,,223,2013
+c.391+1G>A,10506G>A,g.138623349G>A,,,Splice site change,Substitution,Intron 4,,,,,X,,,Moderate,Not Reported,,FIXMD,
+c.391+1G>C,10506G>C,g.138623349G>C,,,Splice site change,Substitution,Intron 4,,,,,,,X,Not Reported,Not Reported,,105,1999
+c.391+1G>T,10506G>T,g.138623349G>T,,,Splice site change,Substitution,Intron 4,,,,X,,,,Severe,Not Reported,,FIXMD,
+c.391+1insT,10506_10507insT,g.138623349_138623350insT,,,Splice site change,Insertion,Intron 4,,,,X,,,,Severe,No,,162,2013
+c.391+2T>A,10507T>A,g.138623350T>A,,,Splice site change,Substitution,Intron 4,,,,,,,X,Not Reported,Not Reported,,172,1994
+c.391+2T>C,10507T>C,g.138623350T>C,,,Splice site change,Substitution,Intron 4,,,,,,X,,Mild,Not Reported,,60,2011
+c.391+5_391+10del,10510delGTAA,g.138623353_138623358del,,,Splice site change,Deletion,Intron 4,,,,,X,,,Mild,Not Reported,,172,1994
+c.391+5G>A,10510G>A,g.138623353G>A,,,Splice site change,Substitution,Intron 4,,,,,X,,X,Moderate,Not Reported,,105,1999
+c.392-?_1386+?del,17769-?_31369+?del,g.138630522-?_138644230+?del,,del Exon 5-8,Large Structure Change (>50bp),Deletion,5-8,,,,,,,X,Not Reported,Not Reported,,FIXMD,
+"c.392-?_520+?,724-?_1386+?del","17769-?_17797+?,30039-?_31369+?del",g.138630522-?_138630650+?del;138633424-?_138644230+?del,,"del Exon 5,7-8",Large Structure Change (>50bp),Deletion,"5,7-8",,,,,,,X,Not Reported,Yes,,131,1987
+c.392-?_723+?del,17769-?_20565+?del,g.138630522-?_138633423+?del,,del Exon 5-6,Large Structure Change (>50bp),Deletion,5-6,,,,,,,X,Not Reported,Not Reported,,38,1990
+c.392-177_520+796del,17496_18592del,g.138630345_138631446del,,del Exon 5,Large Structure Change (>50bp),Deletion,5,,,,,,,X,Not Reported,Not Reported,,103,1994
+c.392-1G>C,17668G>C,g.138630521G>C,,,Splice site change,Substitution,Intron 4,,,,X,X,,,Severe,No,,74,1991
+c.392-22_392-21del,17648_17649del,g.138630500_01del,,,Splice site change,Deletion,Intron 4,,,,X,,,,Severe,No,,CDC,
+c.392-22C>G,17647C>G,g.138630500C>G,,,Splice site change,Substitution,Intron 4,,,,,,X,,Mild,Not Reported,,FIXMD,
+c.392-2A>C,17667A>C,g.138630520A>C,,,Splice site change,Substitution,Intron 4,,,,,X,,,Moderate,Not Reported,,26,1993
+c.392-2A>G,17667A>G,g.138630520A>G,,,Splice site change,Substitution,Intron 4,,,,X,X,,,Severe/Moderate,Not Reported,,110,1990
+c.392-2A>T,17667A>T,g.138630520A>T,,,Splice site change,Substitution,Intron 4,,,,X,,,,Severe,Not Reported,,105,1999
+c.392-2delA,17667delA,g.138630520delA,,,Splice site change,Deletion,Intron 4,,,,,,,X,Severe,Not Reported,,105,1999
+c.392-4T>C,17665T>C,g.138630518T>C,,,Splice site change,Substitution,Intron 4,,,,X,,,,Severe,Not Reported,,FIXMD,1998
+c.392-7_392-4del,17662_17665del,g.138630515_138630518del,,,Splice site change,Deletion,Intron 4,,,,,,X,,Mild,Not Reported,,109,1989
+c.392-8T>G,17661T>G,g.138630514T>G,,,Splice site change,Substitution,Intron 4,,,,,,X,,Moderate,Not Reported,,FIXMD,
+c.392-9T>G,17660T>G,g.138630513T>G,,,Splice site change,Substitution,Intron 4,,,,,,,X,Not Reported,Not Reported,,140,1999
+c.411_412ins322bp,17688_17689Ins322bp,g.138630541_138630542ins322bp,,Ins and dup in Exon5,Large Structure Change (>50bp),Insertion,5,,,,,,,X,Not Reported,Not Reported,,203,1993
+"c.423_424Ins276bp,409_423dup","17700_17701Ins276bp,17686_17700dup","g.138630553_54ins276bp,g.138630539_53dup",,Ins and dup in Exon5,Large Structure Change (>50bp),Insertion,5,,,,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.-48G>C,-19G>C,g.138612876G>C,,,Promoter,Substitution,5'UTR,,,Promoter,,X,X,,Moderate/Mild,Not Reported,,106,1995
+c.-49T>A,-20T>A,g.138612875T>A,,,Promoter,Substitution,5'UTR,,,Promoter,,X,X,,Moderate/Mild,Not Reported,,167,1988
+c.-49T>C,-20T>C,g.138612875T>C,,,Promoter,Substitution,5'UTR,,,Promoter,,,X,,Mild,Not Reported,,65,1993
+c.-50T>G,-21T>G,g.138612874T>G,,,Promoter,Substitution,5'UTR,,,Promoter,,,,X,Not Reported,Not Reported,,166,1993
+c.520_723del,17797_20565,g.138630650_138630853del,,del Exon 7,Large Structure Change (>50bp),Deletion,6,,,,X,,,,Severe,No,,162,2013
+c.520+102_520+103del,17899_17900del,g.138630752_138630753del,,,Splice site change,Deletion,Intron 5,,,,,,X,,Mild,No,,CDC,
+c.520+13A>G,17810A>G,g.138630663A>G,,,Splice site change,Substitution,Intron 5,,,,,X,X,X,Moderate/Mild,Not Reported,,232,1990
+c.520+1G>A,17798G>A,g.138630651G>A,,,Splice site change,Substitution,Intron 5,,,,,X,,X,Moderate,Not Reported,,128,2004
+c.520+1G>T,17798G>T,g.138630651G>T,,,Splice site change,Substitution,Intron 5,,,,X,,,,Severe,Not Reported,,235,1992
+c.520+2T>A,17799T>A,g.138630652T>A,,,Splice site change,Substitution,Intron 5,,,,,,,X,Not Reported,Not Reported,,71,1993
+c.520+2T>C,17799T>C,g.138630652T>C,,,Splice site change,Substitution,Intron 5,,,,X,,,,Severe,Not Reported,,65,1993
+c.520+2T>G,17799T>G,g.138630652T>G,,,Splice site change,Substitution,Intron 5,,,,X,,,,Severe,Not Reported,,172,1994
+c.520+4A>G,17801A>G,g.138630654A>G,,,Splice site change,Substitution,Intron 5,,,,,X,,,Moderate,Not Reported,,FIXMD,2004
+c.520+890_724-454del;Inv95bp,18684_29584del;95bpinv,g.138631540_138642446del;inv95,,del Exon 6,Large Structure Change (>50bp),Deletion,6,,,,,,,X,Severe,Not Reported,,102,1993
+c.521-?_1386+?del,20363-?_31369+?del,g.138633221-?_138644230del,,del Exon 6-8,Large Structure Change (>50bp),Deletion,6-8,,,,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.521-?_1386+?delins16bp,20363-?_31369+?delins16bp,g.138632935-?_138644230+?delins16bp,,del Exon 6-8,Large Structure Change (>50bp),Deletion,6-8,,,,,,,X,Not Reported,Yes,,227,1988
+c.521-?_723+?del,20363-?_20565+?del,g.138633221-?_138633423+?del,,del Exon 6,Large Structure Change (>50bp),Deletion,6,,,,X,,,,Severe,Not Reported,,95,2005
+c.521-1G>C,20362G>C,g.138633220G>C,,,Splice site change,Substitution,Intron 5,,,,X,,,,Severe,Not Reported,,FIXMD,2004
+c.521-286_724-3495del,20078_26544del,g.138632935_138639405del,,del Exon 5-6,Large Structure Change (>50bp),Deletion,5-6,,,,,,,X,Severe,Not Reported,,113,2000
+c.521-2A>G,20361A>G,g.138633219A>G,,,Splice site change,Substitution,Intron 5,,,,,X,,,Moderate,Not Reported,,105,1999
+c.521-3T>G,20360T>G,g.138633218T>G,,,Splice site change,Substitution,Intron 5,,,,X,X,,X,Severe,Not Reported,,148,1995
+c.-52C>G,-23C>G,g.138612872C>G,,,Promoter,Substitution,5'UTR,,,Promoter,,,,X,Not Reported,Not Reported,,218,1999
+c.-52C>T,-23C>T,g.138612872C>T,,,Promoter,Substitution,5'UTR,,,Promoter,,X,,,Moderate,Not Reported,,106,1995
+c.-53A>G,-24A>G,g.138612871A>G,,,Promoter,Substitution,5'UTR,,,Promoter,,,,X,Not Reported,Not Reported,,218,1999
+c.-55G>A,-26G>A,g.138612869G>A,,,Promoter,Substitution,5'UTR,,,Promoter,X,X,,,Moderate,Not Reported,,141,1995
+c.-55G>C,-26G>C,g.138612869G>C,,,Promoter,Substitution,5'UTR,,,Promoter,X,,,,Severe,Not Reported,,47,1992
+c.-55G>T,-26G>T,g.138612869G>T,,,Promoter,Substitution,5'UTR,,,Promoter,X,,,,Severe,Not Reported,,FIXMD,2012
+c.723+18T>A,20583T>A,g.138633441T>A,,,Splice site change,Substitution,Intron 6,,,,,X,,,Moderate,Not Reported,,88,1997
+c.723+1G>A,20566G>A,g.138633424G>A,,,Splice site change,Substitution,Intron 6,,,,X,X,,,Severe,Not Reported,,236,1995
+c.723+1G>T,20566G>T,g.138633424G>T,,,Splice site change,Substitution,Intron 6,,,,X,,,,Severe,Not Reported,,165,1985
+c.723+2T>C,20567T>C,g.138633425T>C,,,Splice site change,Substitution,Intron 6,,,,X,,,,Severe,Not Reported,,43,2000
+c.723+3402_*1386del,23964_32758del,g.138636825_138645616del,,del Exon 7-8,Large Structure Change (>50bp),Deletion,7-8,,,,,,,X,Not Reported,Not Reported,,103,1994
+c.723+3A>T,20568A>T,g.138633426A>T,,,Splice site change,Substitution,Intron 6,,,,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.724-?_1386+?del,30039-?_31369+?del,g.138642900-?_138644230+?del,,del Exon 7-8,Large Structure Change (>50bp),Deletion,7-8,,,,X,,,X,Not Reported,Not Reported,,132,1985
+c.724-1G>A,30038G>A,g.138642899G>A,,,Splice site change,Substitution,Intron 6,,,,X,,,,Severe,Not Reported,,172,1994
+c.724-1G>C,30038G>C,g.138642899G>C,,,Splice site change,Substitution,Intron 6,,,,X,,,,Mild,Not Reported,,23,1991
+c.724-1G>T,30038G>T,g.138642899G>T,,,Splice site change,Substitution,Intron 6,,,,,,,X,Severe,Not Reported,,97,2008
+c.724-2A>C,30037A>C,g.138642898A>C,,,Splice site change,Substitution,Intron 6,,,,,,,X,Severe,Not Reported,,105,1999
+c.724-2A>G,30037A>G,g.138642898A>G,,,Splice site change,Substitution,Intron 6,,,,,X,,X,Moderate,Not Reported,,105,1999
+c.724-3C>G,30036C>G,g.138642897C>G,,,Splice site change,Substitution,Intron 6,,,,,,,X,Severe,No,,219,2012
+c.838+1G>A,30154G>A,g.138643015G>A,,,Splice site change,Substitution,Intron 7,,,,,,,X,Not Reported,Not Reported,,190,1993
+c.838+1G>C,30154G>C,g.138643015G>C,,,Splice site change,Substitution,Intron 7,,,,X,,,,Severe,Not Reported,,105,1999
+c.838+245_1283del,30398_31266del,g.138643259_138644127del,p.Gly280_Ile428del,del Partial Exon 8,Large Structure Change (>50bp),Deletion,8,,Protease,Heavy Chain,X,,,,Severe,No,,CDC,
+c.838+2T>G,30155T>G,g.138643016T>G,,,Splice site change,Substitution,Intron 7,,,,,,,X,Not Reported,Not Reported,,105,1999
+c.839-?_1386+?del,30822-?_31369+?del,g.138643683-?_138644230+?del,,del Exon 8,Large Structure Change (>50bp),Deletion,8,,,,,,,X,Not Reported,Not Reported,,119,2000
+c.839-10T>G,30779T>G,g.138643673T>G,,,Splice site change,Substitution,Intron 7,,,,,X,,,Moderate,Not Reported,,224,2013
+c.839-14_839-9del,30808_30813del,g.138643669_138643674del,,,Splice site change,Deletion,Intron 7,,,,,,X,,Mild,Not Reported,,FIXMD,
+c.839-1G>A,30821G>A,g.138643682G>A,,,Splice site change,Substitution,Intron 7,,,,X,,X,,Severe,Yes,,130,1990
+c.839-20_839-19insA,30802_30803insA,g.138643663_138643664insA,,,Splice site change,Insertion,Intron 7,,,,,,,X,Not Reported,Not Reported,,65,1993
+c.839-2A>C,30820A>C,g.138643681A>C,,,Splice site change,Substitution,Intron 7,,,,X,,,,Severe,Not Reported,,FIXMD,
+c.839-4A>G,30818A>G,g.138643679A>G,,,Splice site change,Substitution,Intron 7,,,,X,X,,X,Severe,Not Reported,,FIXMD,
+c.88+1_88+4del,118_121del,g.138613012_138613015del,,,Splice site change,Deletion,Intron 1,,,,X,X,,X,Not Reported,Not Reported,,12,2005
+c.88+1G>A,118G>A,g.138613012G>A,,,Splice site change,Substitution,Intron 1,,,,X,,,,Severe,Not Reported,,194,1990
+c.88+1G>T,118G>T,g.138613012G>T,,,Splice site change,Substitution,Intron 1,,,,X,X,,,Moderate,Not Reported,,172,1994
+c.88+2T>C,119T>C,g.138613013T>C,,,Splice site change,Substitution,Intron 1,,,,,,,X,Not Reported,Not Reported,,140,1999
+c.88+2T>G,119T>G,g.138613013T>G,,,Splice site change,Substitution,Intron 1,,,,X,,,,Severe,Not Reported,,105,1999
+c.88+3_88+4del,120_121del,g.138613014_138613015del,,,Splice site change,Deletion,Intron 1,,,,X,,,,Severe,Not Reported,,222,2014
+c.88+5_88+8del,122_125del,g.138613016_138613019del,,,Splice site change,Deletion,Intron 1,,,,,,,X,Not Reported,Not Reported,,FIXMD,1998
+c.88+5G>A,122G>A,g.138613016G>A,,,Splice site change,Substitution,Intron 1,,,,,X,X,X,Moderate,Not Reported,,74,1991
+c.88+5G>C,122G>C,g.138613016G>C,,,Splice site change,Substitution,Intron 1,,,,X,X,,,Severe,Not Reported,,105,1999
+c.88+5G>T,122G>T,g.138613016G>T,,,Splice site change,Substitution,Intron 1,,,,X,X,,,Moderate,Not Reported,,51,1998
+c.89-?_1386+?del,6326-?_31369+?del,g.138619169-?_138644230+?del,,del Exon 2-8,Large Structure Change (>50bp),Deletion,2-8,,,,,,,X,Not Reported,Not Reported,,233,1991
+c.89-?_520+?del,6326-?_17797+?del,g.138619169-?_138630650+?del,,del Exon 2-5,Large Structure Change (>50bp),Deletion,2-8,,,,,,,X,Not Reported,Yes,,FIXMD,1998
+c.89-?_723+?del,6326-?_20565+?del,g.138619169-?_138633423+?del,,del Exon 2-6,Large Structure Change (>50bp),Deletion,2-6,,,,X,,,,Severe,Yes,,CDC,
+c.89-?_838+?del,6326-?_30153+?del,g.138619169-?_138643014+?del,,del Exon 2-7,Large Structure Change (>50bp),Deletion,2-7,,,,X,,,,Severe,Yes,,218,1999
+c.89-1_89delinsA,6325_6326delinsA,g.138619168_138619169delinsA,,,Splice site change,Substitution,Intron 1,,,,X,,,,Severe,Not Reported,,FIXMD,
+c.89-1G>A,6325G>A,g.138619168G>A,,,Splice site change,Substitution,Intron 1,,,,X,,,,Severe,Not Reported,,172,1994
+c.89-1G>C,6325G>C,g.138619168G>C,,,Splice site change,Substitution,Intron 1,,,,,,,X,Not Reported,Not Reported,,FIXMD,
+c.89-1G>T,6325G>T,g.138619168G>T,,,Splice site change,Substitution,Intron 1,,,,X,,,,Severe,Not Reported,,65,1993
+c.89-6T>G,6320T>G,g.138619163T>G,,,Splice site change,Substitution,Intron 1,,,,,,,X,Severe,Not Reported,,23,1991
+c.89-839_*847del/ins2290bp,5435-32245delins2290bp,g.138618330_138643691delins2290bp,,del Exon 2-6,Large Structure Change (>50bp),Deletion,2-6,,,,,,,X,Not Reported,Not Reported,,103,1994

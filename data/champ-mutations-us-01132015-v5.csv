@@ -1,0 +1,1028 @@
+HGV cDNA Name,HGV Protein Name,Mutation Type,Mechanism,Exon,Codon,Nucleotide Change,Predicted AA Change,Domain,Subtype,FVIII:C,FVIII:Ag,Severity from Factor Level,Reported Severity,History of Inhibitor,RACE,Ethnicity,Country of Origin,Country of Report,Source,Source ID
+c.2188T>G,p.Cys730Gly,Missense,Substitution,14,711,TGT GGT,Cys Gly,a2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0293
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0498
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0455
+c.143+?_144-?inv,,Large structural change (>50 bp),Inversion,Intron 1,,Inversion,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0386
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0499
+c.5878C>T,p.Arg1960*,Nonsense,Substitution,18,1941,CGA TGA,Arg Stop,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0234
+c.6533G>A,p.Arg2178His,Missense,Substitution,23,2159,CGC CAC,Arg His,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0189
+c.601+5G>A,,Splice site change,Substitution,Intron 4,IVS 4 +5,g>a,,,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1524
+c.6967C>T,p.Arg2323Cys,Missense,Substitution,26,2304,CGC TGC,Arg Cys,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0237
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0389
+c.6316C>G,p.Gln2106Glu,Missense,Substitution,22,2087,CAG GAG,Gln Glu,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0519
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0645
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0955
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0694
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0190
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0353
+c.5219+2T>C,,Splice site change,Substitution,Intron 14,IVS 14 +2,t>c,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0535
+c.5219+2T>C,,Splice site change,Substitution,Intron 14,IVS 14 +2,t>c,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0486
+c.6046C>T,p.Arg2016Trp,Missense,Substitution,19,1997,CGG TGG,Arg Trp,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0971
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0238
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0538
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0537
+c.3302_3303del,p.Glu1101Glyfs*16,Frameshift,Deletion,14,1082,del AG,frameshift,B,,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0391
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0452
+c.1421G>A,p.Gly474Glu,Missense,Substitution,9,455,GGG GAG,Gly Glu,A2,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1858
+c.6429+?_6430-?inv,,Large structural change (>50 bp),Inversion,Intron 22,,Inversion,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0407
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0646
+c.2553_2554ins13,p.Glu852*,Frameshift,Insertion,14,833,ins TGAAATGACACTC,frameshift,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1322
+c.144-?_5219+?dup,,Large structural change (>50 bp),Duplication,2-14,,duplication exons 2-14,,,multiple domains,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0356
+c.5392G>A,p.Ala1798Thr,Missense,Substitution,16,1779,GCC ACC,Ala Thr,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0294
+c.1648C>T,p.Arg550Cys,Missense,Substitution,11,531,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0296
+c.6611T>A,p.Ile2204Lys,Missense,Substitution,24,2185,ATA AAA,Ile Lys,C2,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0696
+c.1569G>T,p.=,Synonymous,Substitution,11,504,CTG CTT,Leu Leu,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0457
+c.6666G>A,p.Trp2222*,Nonsense,Substitution,24,2203,TGG TGA,Trp Stop,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0297
+c.1941_1944del,p.Leu650Metfs*9,Frameshift,Deletion,13,631,del AGTT 628-629,frameshift,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0355
+c.5954G>A,p.Arg1985Gln,Missense,Substitution,18,1966,CGA CAA,Arg Gln,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1278
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS1168
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0233
+c.6544C>T,p.Arg2182Cys,Missense,Substitution,23,2163,CGC TGC,Arg Cys,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0415
+c.4825dupA,p.Thr1609Asnfs*4,Frameshift,Duplication,14,1590,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0477
+c.6715A>G,p.Arg2239Gly,Missense,Substitution,24,2220,AGA GGA,Arg Gly,C2,Light Chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0723
+c.1649G>A,p.Arg550His,Missense,Substitution,11,531,CGC CAC,Arg His,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0235
+c.655G>A,p.Ala219Thr,Missense,Substitution,5,200,GCT ACT,Ala Thr,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0390
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS0476
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0487
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1260
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0892
+c.6316C>G,p.Gln2106Glu,Missense,Substitution,22,2087,CAG GAG,Gln Glu,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0826
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0456
+c.935T>C,p.Phe312Ser,Missense,Substitution,7,293,TTC TCC,Phe Ser,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0550
+c.143+1400A>G,,Splice site change,Substitution,Intron 1,IVS 1 +1400,a>g,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0534
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0553
+c.5586+5G>A,,Splice site change,Substitution,Intron 16,IVS 16 +5,g>a,,,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1311
+c.4918G>T,p.Glu1640*,Nonsense,Substitution,14,1621,GAA TAA,Glu Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0354
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0236
+c.1798G>C,p.Glu600Gln,Missense,Substitution,12,581,GAG CAG,Glu Gln,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0453
+c.902G>T,p.Arg301Leu,Missense,Substitution,7,282,CGC CTC,Arg Leu,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0451
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0552
+c.4379delA,p.Asn1460Ilefs*5,Frameshift,Deletion,14,1441,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0342
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0138
+c.233delT,p.Phe78Serfs*14,Frameshift,Deletion,2,59,del T,frameshift,A1,Heavy chain,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0277
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0071
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0284
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0530
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0278
+c.5219+2T>C,,Splice site change,Substitution,Intron 14,IVS 14 +2,t>c,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS2067
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0073
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0280
+c.1474T>C,p.Tyr492His,Missense,Substitution,10,473,TAT CAT,Tyr His,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0134
+c.6932C>A,p.Pro2311His,Missense,Substitution,26,2292,CCT CAT,Pro His,C2,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0381
+c.5936G>A,p.Gly1979Glu,Missense,Substitution,18,1960,GGA GAA,Gly Glu,A3,Light chain,>5,,Mild,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0076
+c.[6429+?_6430-?inv];[c.5587-?_6429+?del],,Large structural change (>50 bp),Deletion/Inversion,Intron 22,,I22 Inversion+Deletion (c.5587-?_6429+?del),,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0585
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0394
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0004
+c.1312A>T,p.Ile438Phe,Missense,Substitution,9,419,ATT TTT,Ile Phe,A2,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0136
+c.1726G>T,p.Glu576*,Nonsense,Substitution,11,557,GAA TAA,Glu Stop,A2,Heavy chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0002
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1006
+c.4379delA,p.Asn1460Ilefs*5,Frameshift,Deletion,14,1441,del A,frameshift,B,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1213
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,,,,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1995
+c.3292C>T,p.Gln1098*,Nonsense,Substitution,14,1079,CAG TAG,Gln Stop,B,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0001
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1008
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1628
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0363
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0393
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0074
+c.6989A>C,p.Gln2330Pro,Missense,Substitution,26,2311,CAG CCG,Gln Pro,C2,Light chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1432
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0271
+c.902G>A,p.Arg301His,Missense,Substitution,7,282,CGC CAC,Arg His,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0872
+None,,,,,,None,,,,<1,,Severe,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS0282
+c.2660dupC,p.Thr888Asnfs*7,Frameshift,Duplication,14,869,dup C,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0847
+c.791T>C,p.Leu264Pro,Missense,Substitution,7,245,CTG CCG,Leu Pro,A1,Heavy chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0077
+c.791T>C,p.Leu264Pro,Missense,Substitution,7,245,CTG CCG,Leu Pro,A1,Heavy chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0357
+c.1636C>T,p.Arg546Trp,Missense,Substitution,11,527,CGG TGG,Arg Trp,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0274
+c.1636C>T,p.Arg546Trp,Missense,Substitution,11,527,CGG TGG,Arg Trp,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0275
+c.144-?_787+?dup,,Large structural change (>50 bp),Duplication,2-6,,duplication exons 2-6,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0072
+c.[143+1_144-?del];[6683G>A],,Large structural change (>50 bp),Deletion; Substitution,Intron 1; 24,,del Intron 1; CGA CCA,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1214
+c.6355C>G,p.Gln2119Glu,Missense,Substitution,22,2100,CAG GAG,Gln Glu,C1,Light chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0392
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0279
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0587
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS2017
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0137
+c.143+?_144-?inv,,Large structural change (>50 bp),Inversion,Intron 1,,Inversion,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0135
+c.901C>T,p.Arg301Cys,Missense,Substitution,7,282,CGC TGC,Arg Cys,A1,Heavy chain,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0142
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0141
+c.5399G>A,p.Arg1800His,Missense,Substitution,16,1781,CGT CAT,Arg His,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0139
+c.791T>C,p.Leu264Pro,Missense,Substitution,7,245,CTG CCG,Leu Pro,A1,Heavy chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1658
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0358
+c.5824G>A,p.Gly1942Ser,Missense,Substitution,18,1923,GGC AGC,Gly Ser,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1723
+c.6496C>T,p.Arg2166*,Nonsense,Substitution,23,2147,CGA TGA,Arg Stop,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1851
+c.1312A>T,p.Ile438Phe,Missense,Substitution,9,419,ATT TTT,Ile Phe,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1722
+c.6206T>C,p.Leu2069Pro,Missense,Substitution,21,2050,CTG CCG,Leu Pro,C1,Light Chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1752
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1852
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1913
+c.5815+1G>T,,Splice site change,Substitution,Intron 17,IVS 17 +1,g>t,,,,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1952
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2045
+c.-171-?_787+?del,,Large structural change (>50 bp),Deletion,1-6,,del exons 1-6,,,single domain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1971
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2046
+c.5643_5644del,p.Leu1882Glufs*21,Frameshift,Deletion,17,1863,del AC,frameshift,A3,Light Chain,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1898
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1862
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1967
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1720
+c.902G>A,p.Arg301His,Missense,Substitution,7,282,CGC CAC,Arg His,A1,Heavy chain,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1638
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1642
+c.6116-?_6429+?del,,Large structural change (>50 bp),Deletion,20-22,,del exons 20-22,,,Single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1880
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1665
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2047
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1904
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1729
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1693
+c.[6113A>G];[6864_6900+?del],,Large structural change (>50 bp),Substitution/Deletion,19;25,,AAT AGT; del TCAGTGGACTCTCTTTTTTCAGAATGGCAAAGTAAAG,,,,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2087
+c.2615C>G,p.Ser872*,Nonsense,Substitution,14,853,TCA TGA,Ser Stop,B,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1678
+None,,,,,,None,,,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1643
+c.96_107del,p.Trp33_Met36del,"Small structural change (in-frame, <50 bp)",Deletion,1,14-17,del ATGGGACTATAT,del Trp Asp Tyr Met,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1879
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2048
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2049
+c.5696T>C,p.Phe1899Ser,Missense,Substitution,17,1880,TTC TCC,Phe Ser,A3,Light Chain,<1,,Severe,,No,BH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1681
+c.5143C>T,p.Arg1715*,Nonsense,Substitution,14,1696,CGA TGA,Arg Stop,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1803
+c.6719C>T,p.Pro2240Leu,Missense,Substitution,24,2221,CCT CTT,Pro Leu,C2,Light Chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1754
+c.3889_3890insT,p.Glu1297Valfs*23,Frameshift,Insertion,14,1278,ins T,frameshift,B,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1782
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2050
+c.3091_3094del,p.Lys1031Leufs*9,Frameshift,Deletion,14,1012,del AAGA,frameshift,B,,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2051
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1801
+c.5824G>A,p.Gly1942Ser,Missense,Substitution,18,1923,GGC AGC,Gly Ser,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1707
+c.902G>T,p.Arg301Leu,Missense,Substitution,7,282,CGC CTC,Arg Leu,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1802
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1755
+None,,,,,,None,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1713
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1924
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS1697
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2038
+c.3385C>T,p.Gln1129*,Nonsense,Substitution,14,1110,CAA TAA,Gln Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1654
+c.4379dupA,p.Asn1460Lysfs*2,Frameshift,Duplication,14,1441,dup A,frameshift,B,,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2059
+c.1619C>T,p.Pro540Leu,Missense,Substitution,11,521,CCA CTA,Pro Leu,A2,Heavy Chain,1-5,,Moderate,,No,BH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1692
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1639
+c.5815+1G>T,,Splice site change,Substitution,Intron 17,IVS 17 +1,g>t,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1950
+c.1063C>T,p.Arg355*,Nonsense,Substitution,8,336,CGA TGA,Arg Stop,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1670
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1825
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1826
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3020
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1781
+c.6262dupT,p.Ser2088Phefs*38,Frameshift,Duplication,21,2069,dup T,frameshift,C1,Light chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2052
+c.1474T>C,p.Tyr492His,Missense,Substitution,10,473,TAT CAT,Tyr His,A2,Heavy chain,>5,,Mild,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS1648
+c.1474T>C,p.Tyr492His,Missense,Substitution,10,473,TAT CAT,Tyr His,A2,Heavy chain,>5,,Mild,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS1649
+c.292G>A,p.Glu98Lys,Missense,Substitution,3,79,GAG AAG,Glu Lys,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1743
+c.1336C>T,p.Arg446*,Nonsense,Substitution,9,427,CGA TGA,Arg Stop,A2,Heavy chain,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1708
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2053
+c.3175A>T,p.Lys1059*,Nonsense,Substitution,14,1040,AAA TAA,Lys Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1873
+c.6804_6900+?del,,Large structural change (>50 bp),Deletion,25,,del portion exon 25,,,Single domain,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2055
+c.494C>T,p.Pro165Leu,Missense,Substitution,4,146,CCA CTA,Pro Leu,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1791
+c.6682C>T,p.Arg2228*,Nonsense,Substitution,24,2209,CGA TGA,Arg Stop,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1853
+c.5177G>T,p.Trp1726Leu,Missense,Substitution,14,1707,TGG TTG,Trp Leu,A3,Light chain,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2056
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1888
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2008
+c.6429+?_6430-?dup/inv,,Large structural change (>50 bp),Duplication/Inversion,Intron 22,,I22 Inversion+Duplication,,,,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1903
+c.6545G>A,p.Arg2182His,Missense,Substitution,23,2163,CGC CAC,Arg His,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1742
+None,,,,,,None,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3090
+c.6901-?_7056+?del,,Large structural change (>50 bp),Deletion,26,,del exon 26,,C2,single domain,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1956
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1902
+c.738_739insCCTTGCACACAGTGTGTGTGCACACTGTG ,p.Trp247Profs*21,Frameshift,Insertion,6,228,ins CCTTGCACACAGTGTGTGTGCACACTGTG ,frameshift,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1653
+c.1646C>A,p.Thr549Asn,Missense,Substitution,11,530,ACC AAC,Thr Asn,A2,Heavy Chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1706
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1730
+c.5320C>T,p.His1774Tyr,Missense,Substitution,15,1755,CAT TAT,His Tyr,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1721
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1666
+c.901C>T,p.Arg301Cys,Missense,Substitution,7,282,CGC TGC,Arg Cys,A1,Heavy chain,1-5,,Moderate,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1714
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1854
+c.2215G>A,p.Glu739Lys,Missense,Substitution,14,720,GAG AAG,Glu Lys,a2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1715
+c.2114-?_6900+?del,,Large structural change (>50 bp),Deletion,14-25,,del exons 14-25,,,multiple domains,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1914
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1817
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0460
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0035
+c.625C>T,p.Gln209*,Nonsense,Substitution,5,190,CAG TAG,Gln Stop,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0123
+c.3637dupA,p.Ile1213Asnfs*28,Frameshift,Duplication,14,1194,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0445
+c.6089G>A,p.Ser2030Asn,Missense,Substitution,19,2011,AGC AAC,Ser Asn,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1780
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1426
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0401
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0856
+c.788-?_2113+?del,,Large structural change (>50 bp),Deletion,7-13,,del exons 7-13,,,multiple domains,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0005
+c.5220-?_6429+?del,,Large structural change (>50 bp),Deletion,15-22,,del exons 15-22,,,multiple domains,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0033
+c.77T>G,p.Leu26Arg,Missense,Substitution,1,7,CTG CGG,Leu Arg,A1,Heavy chain,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS1462
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0034
+c.4379dupA,p.Asn1460Lysfs*2,Frameshift,Duplication,14,1441,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0107
+c.2443C>T,p.Gln815*,Nonsense,Substitution,14,796,CAG TAG,Gln Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0648
+c.854T>G,p.Val285Gly,Missense,Substitution,7,266,GTG GGG,Val Gly,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0037
+c.5954G>A,p.Arg1985Gln,Missense,Substitution,18,1966,CGA CAA,Arg Gln,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0816
+c.6430-?_6430+?del145,,Large structural change (>50 bp),Deletion,Intron 22 - Exon 23,,del 145,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0124
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0319
+c.6898_6899dup,p.Val2301Argfs*85,Frameshift,Duplication,25,2282,dup AA,frameshift,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0368
+c.1312A>T,p.Ile438Phe,Missense,Substitution,9,419,ATT TTT,Ile Phe,A2,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0214
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0575
+c.1735G>A,p.Asp579Asn,Missense,Substitution,11,560,GAT AAT,Asp Asn,A2,Heavy chain,>5,,Mild,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0367
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0425
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0213
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1861
+c.4379dupA,p.Asn1460Lysfs*2,Frameshift,Duplication,14,1441,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1633
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0380
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3026
+c.787+5G>A,,Splice site change,Substitution,Intron 6,IVS 6 +5,g>a,,,,1-5,,Moderate,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0082
+None,,,,,,None,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0183
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0012
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1254
+c.6977G>C,p.Arg2326Pro,Missense,Substitution,26,2307,CGA CCA,Arg Pro,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0038
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0187
+c.1042T>C,p.Cys348Arg,Missense,Substitution,8,329,TGT CGT,Cys Arg,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0424
+c.6116-3C>A,,Splice site change,Substitution,Intron 19,IVS19 -3,c>a,,,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1262
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0399
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0924
+c.32T>C,p.Leu11Pro,Missense,Substitution,1,-9,CTG CCG,Leu Pro,Signal,,>5,,Mild,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0448
+c.6353C>T,p.Ser2118Phe,Missense,Substitution,22,2099,TCT TTT,Ser Phe,C1,Light chain,1-5,,Moderate,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0400
+c.1832_1834del,p.Gln611del,"Small structural change (in-frame, <50 bp)",Deletion,12,592,del AAC 592-593,Gln del,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0637
+c.1316G>T,p.Gly439Val,Missense,Substitution,9,420,GGT GTT,Gly Val,A2,Heavy chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1346
+c.1636C>T,p.Arg546Trp,Missense,Substitution,11,527,CGG TGG,Arg Trp,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0270
+c.5539_5586+?del,,Large structural change (>50 bp),Deletion,16,,del portion exon 16,,,Single domain,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1934
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1475
+c.2004_2007del,p.Val670Serfs*51,Frameshift,Deletion,13,651,del TTCT 649-650,frameshift,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0291
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0188
+c.4409_4412dup,p.Met1471Ilefs*5,Frameshift,Duplication,14,1452,del AGAT,frameshift,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1532
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1798
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0240
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1650
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1751
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0439
+c.4379dupA,p.Asn1460Lysfs*2,Frameshift,Duplication,14,1441,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0318
+c.-171-?_787+?del,,Large structural change (>50 bp),Deletion,1-6,,del exons 1-6,,,single domain,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0405
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1196
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1357
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0060
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1014
+c.38T>G,p.Leu13Arg,Missense,Substitution,1,-7,CTT CGT,Leu Arg,Signal,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0013
+c.667G>A,p.Glu223Lys,Missense,Substitution,5,204,GAA AAA,Glu Lys,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1599
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1605
+c.6545G>A,p.Arg2182His,Missense,Substitution,23,2163,CGC CAC,Arg His,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1504
+c.[6429+?_6430-?inv];[c.5220-?_6429+?del],,Large structural change (>50 bp),Deletion/Inversion,Intron 22,,I22 Inversion+Deletion(c.5220-?_6429+?del),,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0092
+c.902G>A,p.Arg301His,Missense,Substitution,7,282,CGC CAC,Arg His,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0417
+c.143+?_144-?inv,,Large structural change (>50 bp),Inversion,Intron 1,,Inversion,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0466
+c.3637dupA,p.Ile1213Asnfs*28,Frameshift,Duplication,14,1194,dup A,frameshift,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0036
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0105
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0678
+c.1333G>T,p.Val445Phe,Missense,Substitution,9,426,GTC TTC,Val Phe,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0164
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0048
+c.575T>C,p.Ile192Thr,Missense,Substitution,4,173,ATT ACT,Ile Thr,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0056
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0057
+c.3050T>A,p.Leu1017*,Nonsense,Substitution,14,998,TTA TAA,Leu Stop,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0108
+c.5398C>G,p.Arg1800Gly,Missense,Substitution,16,1781,CGT GGT,Arg Gly,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1268
+c.4447delA,p.Thr1483Glnfs*84,Frameshift,Deletion,14,1464,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1166
+c.2443C>T,p.Gln815*,Nonsense,Substitution,14,796,CAG TAG,Gln Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0239
+c.2443C>T,p.Gln815*,Nonsense,Substitution,14,796,CAG TAG,Gln Stop,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0292
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0058
+c.5879G>A,p.Arg1960Gln,Missense,Substitution,18,1941,CGA CAA,Arg Gln,A3,Light chain,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0406
+c.871G>A,p.Glu291Lys,Missense,Substitution,7,272,GAA AAA,Glu Lys,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0170
+c.6545G>A,p.Arg2182His,Missense,Substitution,23,2163,CGC CAC,Arg His,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0171
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0957
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0485
+c.6430-2A>G,,Splice site change,Substitution,Intron 22,IVS 22 -2,a>g,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0148
+c.6430-2A>G,,Splice site change,Substitution,Intron 22,IVS 22 -2,a>g,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0147
+c.6496C>T,p.Arg2166*,Nonsense,Substitution,23,2147,CGA TGA,Arg Stop,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0125
+c.2015_2017del,p.Phe672del,"Small structural change (in-frame, <50 bp)",Deletion,13,653,del TCT 653-654,Phe del,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0081
+c.4379dupA,p.Asn1460Lysfs*2,Frameshift,Duplication,14,1441,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0163
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0883
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0320
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0046
+c.6977G>A,p.Arg2326Gln,Missense,Substitution,26,2307,CGA CAA,Arg Gln,C2,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0376
+c.1094A>G,p.Tyr365Cys,Missense,Substitution,8,346,TAT TGT,Tyr Cys,a1,Heavy chain,>5,,Mild,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0422
+c.1094A>G,p.Tyr365Cys,Missense,Substitution,8,346,TAT TGT,Tyr Cys,a1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0423
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1493
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0196
+c.5474_5475del,p.Phe1825Cysfs*4,Frameshift,Deletion,16,1806,del TT,frameshift,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0032
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0097
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0686
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1288
+c.1804C>T,p.Arg602*,Nonsense,Substitution,12,583,CGA TGA,Arg Stop,A2,Heavy chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0607
+c.5954G>A,p.Arg1985Gln,Missense,Substitution,18,1966,CGA CAA,Arg Gln,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0792
+c.2114-?_5219+?del,,Large structural change (>50 bp),Deletion,14,,del exon 14,,A3,single domain,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0698
+c.4379dupA,p.Asn1460Lysfs*2,Frameshift,Duplication,14,1441,dup A,frameshift,B,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0608
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0642
+c.6021_6041del,p.Met2007_Gly2013del,"Small structural change (in-frame, <50 bp)",Deletion,19,1988,del 21bp 1988-1995,frameshift,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0803
+c.6545G>T,p.Arg2182Leu,Missense,Substitution,23,2163,CGC CTC,Arg Leu,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0699
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,1-5,,Moderate,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1203
+c.5219+3A>G,,Splice site change,Substitution,Intron 14,IVS14 +3,a>g,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0839
+None,,,,,,None,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1289
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,,,,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS3013
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1533
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0679
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1467
+c.5220-?_6429+?del,,Large structural change (>50 bp),Deletion,15-22,,del exons 15-22,,,multiple domains,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0664
+c.265G>A,p.Gly89Ser,Missense,Substitution,2,70,GGT AGT,Gly Ser,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0707
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3012
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,,,,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS3011
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS3030
+c.6443A>G,p.Asn2148Ser,Missense,Substitution,23,2129,AAT AGT,Asn Ser,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0859
+c.1271+1G>A,,Splice site change,Substitution,Intron 8,IVS 8 +1,g>a,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1246
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0564
+c.6967C>T,p.Arg2323Cys,Missense,Substitution,26,2304,CGC TGC,Arg Cys,C2,Light chain,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0570
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0739
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0740
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0640
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0584
+c.1909A>C,p.Asn637His,Missense,Substitution,13,618,AAT CAT,Asn His,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3018
+c.1909A>C,p.Asn637His,Missense,Substitution,13,618,AAT CAT,Asn His,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3015
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1409
+c.2158G>C,p.Gly720Arg,Missense,Substitution,14,701,GGC CGC,Gly Arg,A2,Heavy chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1116
+c.1316G>T,p.Gly439Val,Missense,Substitution,9,420,GGT GTT,Gly Val,A2,Heavy chain,1-5,,Moderate,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1184
+c.3417dupT,p.Gly1140Trpfs*26,Frameshift,Duplication,14,1121,dup T,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0630
+c.6021_6041del,p.Met2007_Gly2013del,"Small structural change (in-frame, <50 bp)",Deletion,19,1988,del 21bp 1988-1995,frameshift,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0628
+c.901C>T,p.Arg301Cys,Missense,Substitution,7,282,CGC TGC,Arg Cys,A1,Heavy chain,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0665
+c.209_212del,p.Phe70*,Frameshift,Deletion,2,51,del TTGT 51-52,frameshift,A1,Heavy chain,<1,,Severe,,Yes,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0840
+c.6901-?_*1802+?del,,Large structural change (>50 bp),Deletion,26 - 3'UTR,,del exon 26 + 3'UTR,,,single domain,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0674
+c.5219+3A>G,,Splice site change,Substitution,Intron 14,IVS14 +3,a>g,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0737
+c.5219+3A>G,,Splice site change,Substitution,Intron 14,IVS14 +3,a>g,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0738
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1202
+c.6505C>T,p.Arg2169Cys,Missense,Substitution,23,2150,CGT TGT,Arg Cys,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1371
+c.209_212del,p.Phe70*,Frameshift,Deletion,2,51,del TTGT 51-52,frameshift,A1,Heavy chain,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0828
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0609
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0979
+c.209_212del,p.Phe70*,Frameshift,Deletion,2,51,del TTGT 51-52,frameshift,A1,Heavy chain,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0827
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1229
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0709
+c.6089G>A,p.Ser2030Asn,Missense,Substitution,19,2011,AGC AAC,Ser Asn,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0641
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS3027
+c.1332delA,p.Val445Serfs*37,Frameshift,Deletion,9,426,del A,frameshift,A2,Heavy Chain,<1,,Severe,,Yes,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS3056
+c.5122C>T,p.Arg1708Cys,Missense,Substitution,14,1689,CGC TGC,Arg Cys,a3,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0706
+None,,,,,,None,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1272
+c.6977G>A,p.Arg2326Gln,Missense,Substitution,26,2307,CGA CAA,Arg Gln,C2,Light chain,>5,,Mild,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0947
+c.410C>T,p.Thr137Ile,Missense,Substitution,4,118,ACC ATC,Thr Ile,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1265
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1379
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0495
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0494
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0496
+c.5321A>G,p.His1774Arg,Missense,Substitution,15,1755,CAT CGT,His Arg,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0431
+c.5219+3A>G,,Splice site change,Substitution,Intron 14,IVS14 +3,a>g,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0497
+c.6046C>T,p.Arg2016Trp,Missense,Substitution,19,1997,CGG TGG,Arg Trp,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0054
+None,,,,,,None,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1152
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0349
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0926
+c.2114-?_5219+?del,,Large structural change (>50 bp),Deletion,14,,del exon 14,,A3,single domain,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1165
+c.6977G>A,p.Arg2326Gln,Missense,Substitution,26,2307,CGA CAA,Arg Gln,C2,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1172
+c.6977G>A,p.Arg2326Gln,Missense,Substitution,26,2307,CGA CAA,Arg Gln,C2,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1173
+c.430G>A,p.Asp144Asn,Missense,Substitution,4,125,GAT AAT,Asp Asn,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0331
+c.1316G>T,p.Gly439Val,Missense,Substitution,9,420,GGT GTT,Gly Val,A2,Heavy chain,1-5,,Moderate,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0653
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0726
+c.328A>G,p.Met110Val,Missense,Substitution,3,91,ATG GTG,Met Val,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0377
+c.5399G>A,p.Arg1800His,Missense,Substitution,16,1781,CGT CAT,Arg His,A3,Light chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1096
+c.5220-?_6429+?del,,Large structural change (>50 bp),Deletion,15-22,,del exons 15-22,,,multiple domains,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0003
+c.5398C>T,p.Arg1800Cys,Missense,Substitution,16,1781,CGT TGT,Arg Cys,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0430
+c.1474T>C,p.Tyr492His,Missense,Substitution,10,473,TAT CAT,Tyr His,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1351
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1350
+c.3704_3705del,p.Thr1235Serfs*5,Frameshift,Deletion,14,1216,del CA,frameshift,B,Heavy chain,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS3050
+c.6429+?_6430-?inv,,Large structural change (>50 bp),Inversion,Intron 22,,Inversion,,,single domain,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0006
+c.1474T>C,p.Tyr492His,Missense,Substitution,10,473,TAT CAT,Tyr His,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0463
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0347
+c.143+1_601-?del,,Large structural change (>50 bp),Deletion,Intron 1 - Exon 4,,del intron 1-exon 4,,,multiple domains,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0052
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS2085
+c.4143delA,p.Ala1383Profs*41,Frameshift,Deletion,14,1362,del A,frameshift,B,Heavy chain,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3060
+c.1316G>T,p.Gly439Val,Missense,Substitution,9,420,GGT GTT,Gly Val,A2,Heavy chain,1-5,,Moderate,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0786
+c.6967C>T,p.Arg2323Cys,Missense,Substitution,26,2304,CGC TGC,Arg Cys,C2,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0312
+c.1636C>T,p.Arg546Trp,Missense,Substitution,11,527,CGG TGG,Arg Trp,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0428
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0671
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0655
+None,,,,,,None,,,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1341
+c.6694C>T,p.Gln2232*,Nonsense,Substitution,24,2213,CAA TAA,Gln Stop,C2,Light chain,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0727
+c.2167G>A,p.Ala723Thr,Missense,Substitution,14,704,GCC ACC,Ala Thr,A2,Heavy chain,1-5,,Moderate,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0080
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0442
+c.1804C>G,p.Arg602Gly,Missense,Substitution,12,583,CGA GGA,Arg Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0858
+c.6115+3_6115+6delGAGT,,Splice site change,Deletion,Intron 19,IVS19 +3_+6,del GAGT,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0685
+c.5667A>T,p.Gln1889His,Missense,Substitution,17,1870,CAA CAT,Gln His,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0450
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1342
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0794
+c.5399G>A,p.Arg1800His,Missense,Substitution,16,1781,CGT CAT,Arg His,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0314
+c.6533G>A,p.Arg2178His,Missense,Substitution,23,2159,CGC CAC,Arg His,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0350
+c.6016G>A,p.Glu2006Lys,Missense,Substitution,19,1987,GAA AAA,Glu Lys,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0441
+c.6967C>T,p.Arg2323Cys,Missense,Substitution,26,2304,CGC TGC,Arg Cys,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0429
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1363
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0781
+c.3870dupA,p.Gly1291Argfs*29,Frameshift,Duplication,14,1272,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0654
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0440
+c.6575-?_7056+?del,,Large structural change (>50 bp),Deletion,24-26,,del exons 24-26,,,Single domain,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS3055
+c.6674C>G,p.Ser2225*,Nonsense,Substitution,24,2206,TCA TGA,Ser Stop,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0169
+c.5096A>T,p.Tyr1699Phe,Missense,Substitution,14,1680,TAT TTT,Tyr Phe,a3,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0348
+c.143+?_144-?inv,,Large structural change (>50 bp),Inversion,Intron 1,,Inversion,,,single domain,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0414
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0673
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0590
+c.6967C>T,p.Arg2323Cys,Missense,Substitution,26,2304,CGC TGC,Arg Cys,C2,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0378
+c.2167G>T,p.Ala723Ser,Missense,Substitution,14,704,GCC TCC,Ala Ser,A2,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0703
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0427
+c.4379dupA,p.Asn1460Lysfs*2,Frameshift,Duplication,14,1441,dup A,frameshift,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0464
+c.5219+3A>G,,Splice site change,Substitution,Intron 14,IVS14 +3,a>g,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0042
+c.6544C>T,p.Arg2182Cys,Missense,Substitution,23,2163,CGC TGC,Arg Cys,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0351
+c.1632T>G,p.Asp544Glu,Missense,Substitution,11,525,GAT GAG,Asp Glu,A2,Heavy Chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1349
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1430
+c.1505T>G,p.Val502Gly,Missense,Substitution,10,483,GTC GGC,Val Gly,A2,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0782
+c.1898T>G,p.Met633Arg,Missense,Substitution,12,614,ATG AGG,Met Arg,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0051
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0539
+c.6053A>G,p.Glu2018Gly,Missense,Substitution,19,1999,GAA GGA,Glu Gly,A3,Light chain,<1,,Severe,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS0346
+c.5399G>A,p.Arg1800His,Missense,Substitution,16,1781,CGT CAT,Arg His,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0670
+c.6575G>T,p.Ser2192Ile,Missense,Substitution,24,2173,AGT ATT,Ser Ile,C2,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1080
+c.2596_2606del,p.Met866Profs*2,Frameshift,Deletion,14,847,del ATGGTATTTAC,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1378
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0079
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0472
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0078
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0310
+c.1025A>G,p.Tyr342Cys,Missense,Substitution,8,323,TAT TGT,Tyr Cys,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0309
+None,,,,,,None,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0371
+c.6426_6427del,p.Leu2142Phefs*18,Frameshift,Deletion,22,2123,del AA,frameshift,C1,Light chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1908
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0592
+c.5603C>T,p.Ser1868Leu,Missense,Substitution,17,1849,TCA TTA,Ser Leu,A3,Light chain,<1,,Severe,,No,BH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0725
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0026
+c.143+?_144-?inv,,Large structural change (>50 bp),Inversion,Intron 1,,Inversion,,,single domain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1919
+None,,,,,,None,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1874
+c.6736A>T,p.Lys2246*,Nonsense,Substitution,25,2227,AAA TAA,Lys Stop,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0201
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0374
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS3036
+c.6545G>A,p.Arg2182His,Missense,Substitution,23,2163,CGC CAC,Arg His,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0220
+c.311T>A,p.Val104Asp,Missense,Substitution,3,85,GTC GAC,Val Asp,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0379
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0100
+c.1336C>T,p.Arg446*,Nonsense,Substitution,9,427,CGA TGA,Arg Stop,A2,Heavy chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2018
+c.904C>T,p.Gln302*,Nonsense,Substitution,7,283,CAG TAG,Gln Stop,A1,Heavy chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0572
+c.904C>T,p.Gln302*,Nonsense,Substitution,7,283,CAG TAG,Gln Stop,A1,Heavy chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0571
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0160
+c.1336C>T,p.Arg446*,Nonsense,Substitution,9,427,CGA TGA,Arg Stop,A2,Heavy chain,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2006
+c.5110_5111dup,p.Asn1704Lysfs*28,Frameshift,Duplication,14,1685,dup AA,frameshift,a3,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0099
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0039
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0025
+c.5399G>A,p.Arg1800His,Missense,Substitution,16,1781,CGT CAT,Arg His,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0199
+c.5720G>T,p.Ser1907Ile,Missense,Substitution,17,1888,AGC ATC,Ser Ile,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0221
+c.6007delinsTT,p.Glu2003Leufs*37,Frameshift,Insertion/deletion,19,1984,del G ins TT,frameshift,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0093
+c.5399G>A,p.Arg1800His,Missense,Substitution,16,1781,CGT CAT,Arg His,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1673
+c.6163C>T,p.Gln2055*,Nonsense,Substitution,20,2036,CAG TAG,Gln Stop,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0027
+c.5464delA,p.Arg1822Glufs*49,Frameshift,Deletion,16,1803,del A,frameshift,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0040
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0860
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3047
+c.6976C>T,p.Arg2326*,Nonsense,Substitution,26,2307,CGA TGA,Arg Stop,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0667
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0375
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0158
+c.6901-?_*1802+?del,,Large structural change (>50 bp),Deletion,26 - 3'UTR,,del exon 26 + 3'UTR,,,single domain,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0488
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0289
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1875
+c.5143C>T,p.Arg1715*,Nonsense,Substitution,14,1696,CGA TGA,Arg Stop,A3,Light chain,<1,,Severe,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS0823
+c.1384C>T,p.Gln462*,Nonsense,Substitution,9,443,CAG TAG,Gln Stop,A2,Heavy chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3058
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0007
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1966
+c.935T>C,p.Phe312Ser,Missense,Substitution,7,293,TTC TCC,Phe Ser,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0420
+c.2077T>C,p.Ser693Pro,Missense,Substitution,13,674,TCA CCA,Ser Pro,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0159
+c.5392G>A,p.Ala1798Thr,Missense,Substitution,16,1779,GCC ACC,Ala Thr,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0068
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2028
+c.261G>A,p.Trp87*,Nonsense,Substitution,2,68,TGG TGA,Trp Stop,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0364
+c.6901-?_*1802+?del,,Large structural change (>50 bp),Deletion,26 - 3'UTR,,del exon 26 + 3'UTR,,,single domain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0372
+c.4121_4124del,p.Ile1374Thrfs*49,Frameshift,Deletion,14,1355,del TAGA 1355-1356,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0044
+c.4121_4124del,p.Ile1374Thrfs*49,Frameshift,Deletion,14,1355,del TAGA 1355-1356,frameshift,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0043
+c.6714G>C,p.Trp2238Cys,Missense,Substitution,24,2219,TGG TGC,Trp Cys,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0197
+c.301G>C,p.Asp101His,Missense,Substitution,3,82,GAT CAT,Asp His,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0509
+c.301G>C,p.Asp101His,Missense,Substitution,3,82,GAT CAT,Asp His,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1389
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0558
+c.5639delA,p.Asn1880Thrfs*3,Frameshift,Deletion,17,1861,del A,frameshift,A3,Light chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1984
+c.5639delA,p.Asn1880Thrfs*3,Frameshift,Deletion,17,1861,del A,frameshift,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0691
+c.871G>A,p.Glu291Lys,Missense,Substitution,7,272,GAA AAA,Glu Lys,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0724
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0227
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1469
+c.1015A>G,p.Met339Val,Missense,Substitution,8,320,ATG GTG,Met Val,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0225
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1931
+c.143+?_144-?inv,,Large structural change (>50 bp),Inversion,Intron 1,,Inversion,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0228
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0212
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0067
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1938
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0361
+c.3421C>T,p.Gln1141*,Nonsense,Substitution,14,1122,CAA TAA,Gln Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0529
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0317
+c.1485C>G,p.Tyr495*,Nonsense,Substitution,10,476,TAC TAG,Tyr Stop,A2,Heavy chain,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS3019
+c.6545G>A,p.Arg2182His,Missense,Substitution,23,2163,CGC CAC,Arg His,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0692
+c.1730C>A,p.Ser577Tyr,Missense,Substitution,11,558,TCT TAT,Ser Tyr,A2,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0365
+c.1815C>G,p.Tyr605*,Nonsense,Substitution,12,586,TAC TAG,Tyr Stop,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0203
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2040
+c.4379delA,p.Asn1460Ilefs*5,Frameshift,Deletion,14,1441,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0161
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3033
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0177
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0162
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2091
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0098
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0819
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0398
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0179
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0340
+c.2167G>A,p.Ala723Thr,Missense,Substitution,14,704,GCC ACC,Ala Thr,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0932
+c.3637dupA,p.Ile1213Asnfs*28,Frameshift,Duplication,14,1194,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0345
+c.935T>C,p.Phe312Ser,Missense,Substitution,7,293,TTC TCC,Phe Ser,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0129
+c.5122C>T,p.Arg1708Cys,Missense,Substitution,14,1689,CGC TGC,Arg Cys,a3,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0061
+c.2149C>T,p.Arg717Trp,Missense,Substitution,14,698,CGG TGG,Arg Trp,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1450
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0085
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0118
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1067
+c.6545G>A,p.Arg2182His,Missense,Substitution,23,2163,CGC CAC,Arg His,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0532
+c.979C>G,p.Leu327Val,Missense,Substitution,7,308,CTG GTG,Leu Val,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1034
+c.2213A>G,p.Tyr738Cys,Missense,Substitution,14,719,TAC TGC,Tyr Cys,a2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0622
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1336
+c.901C>T,p.Arg301Cys,Missense,Substitution,7,282,CGC TGC,Arg Cys,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0396
+c.599A>G,p.Glu200Gly,Missense,Substitution,4,181,GAA GGA,Glu Gly,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1344
+c.599A>G,p.Glu200Gly,Missense,Substitution,4,181,GAA GGA,Glu Gly,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1343
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0103
+c.4328_4331del,p.Lys1443Ilefs*21,Frameshift,Deletion,14,1424,del AAGA 1424-1425,frameshift,B,,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1183
+c.5544G>C,p.Glu1848Asp,Missense,Substitution,16,1829,GAG GAC,Glu Asp,A3,Light chain,>5,,Mild,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS1158
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0688
+c.5544G>C,p.Glu1848Asp,Missense,Substitution,16,1829,GAG GAC,Glu Asp,A3,Light chain,>5,,Mild,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS1157
+c.5096A>T,p.Tyr1699Phe,Missense,Substitution,14,1680,TAT TTT,Tyr Phe,a3,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0623
+c.1336C>T,p.Arg446*,Nonsense,Substitution,9,427,CGA TGA,Arg Stop,A2,Heavy chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1125
+c.6371A>G,p.Tyr2124Cys,Missense,Substitution,22,2105,TAT TGT,Tyr Cys,C1,Light chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1062
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0651
+c.728C>G,p.Ser243Cys,Missense,Substitution,6,224,TCT TGT,Ser Cys,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0231
+c.5587-?_5815+?dup,,Large structural change (>50 bp),Duplication,17,,duplication exon 17,,A3,single domain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0215
+c.2440C>T,p.Arg814*,Nonsense,Substitution,14,795,CGA TGA,Arg Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0230
+c.896A>T,p.Asn299Ile,Missense,Substitution,7,280,AAC ATC,Asn Ile,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0181
+c.5303G>A,p.Arg1768His,Missense,Substitution,15,1749,CGT CAT,Arg His,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1233
+ c.143+?_144-?dup/inv,,Large structural change (>50 bp),Duplication/Inversion,Intron 1,,Duplication/Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0777
+c.296T>C,p.Val99Ala,Missense,Substitution,3,80,GTT GCT,Val Ala,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0182
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1066
+c.6772A>G,p.Lys2258Glu,Missense,Substitution,25,2239,AAA GAA,Lys Glu,C2,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0717
+c.4935G>A,p.Trp1645*,Nonsense,Substitution,14,1626,TGG TGA,Trp Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0323
+c.1615G>A,p.Gly539Arg,Missense,Substitution,11,520,GGG AGG,Gly Arg,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0086
+c.3637dupA,p.Ile1213Asnfs*28,Frameshift,Duplication,14,1194,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0217
+c.7030G>C,p.Gly2344Arg,Missense,Substitution,26,2325,GGC CGC,Gly Arg,C2,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0684
+c.6371A>G,p.Tyr2124Cys,Missense,Substitution,22,2105,TAT TGT,Tyr Cys,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1339
+c.6371A>G,p.Tyr2124Cys,Missense,Substitution,22,2105,TAT TGT,Tyr Cys,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1340
+c.6371A>G,p.Tyr2124Cys,Missense,Substitution,22,2105,TAT TGT,Tyr Cys,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0732
+c.6316C>G,p.Gln2106Glu,Missense,Substitution,22,2087,CAG GAG,Gln Glu,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1261
+c.6316C>G,p.Gln2106Glu,Missense,Substitution,22,2087,CAG GAG,Gln Glu,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0776
+c.6316C>G,p.Gln2106Glu,Missense,Substitution,22,2087,CAG GAG,Gln Glu,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0775
+c.5587-93C>T,,Splice site change,Substitution,Intron 16,IVS 16 -93,c>t,,,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1292
+c.5587-93C>T,,Splice site change,Substitution,Intron 16,IVS 16 -93,c>t,,,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1293
+c.6028dupT,p.Ser2010Phefs*30,Frameshift,Duplication,19,1991,dup T,frameshift,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0791
+c.5150A>G,p.Tyr1717Cys,Missense,Substitution,14,1698,TAT TGT,Tyr Cys,A3,Light chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0927
+c.6494C>T,p.Ala2165Val,Missense,Substitution,23,2146,GCT GTT,Ala Val,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0120
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0321
+None,,,,,,None,,,,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0122
+c.5357T>G,p.Val1786Gly,Missense,Substitution,15,1767,GTT GGT,Val Gly,A3,Light chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0997
+c.5357T>G,p.Val1786Gly,Missense,Substitution,15,1767,GTT GGT,Val Gly,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0818
+c.6046C>T,p.Arg2016Trp,Missense,Substitution,19,1997,CGG TGG,Arg Trp,A3,Light chain,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0843
+c.4935G>A,p.Trp1645*,Nonsense,Substitution,14,1626,TGG TGA,Trp Stop,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0194
+c.1904-?_2113+?dup,,Large structural change (>50 bp),Duplication,13,,duplication exon 13,,A2,single domain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1182
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0643
+c.1034T>C,p.Val345Ala,Missense,Substitution,8,326,GTA GCA,Val Ala,A1,Heavy chain,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0104
+None,,,,,,None,,,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0101
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0527
+c.6532C>T,p.Arg2178Cys,Missense,Substitution,23,2159,CGC TGC,Arg Cys,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1330
+c.2095A>G,p.Met699Val,Missense,Substitution,13,680,ATG GTG,Met Val,A2,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0241
+c.1336C>T,p.Arg446*,Nonsense,Substitution,9,427,CGA TGA,Arg Stop,A2,Heavy chain,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1264
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0854
+c.6901-?_7056+?del,,Large structural change (>50 bp),Deletion,26,,del exon 26,,C2,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0232
+c.6658G>C,p.Ala2220Pro,Missense,Substitution,24,2201,GCC CCC,Ala Pro,C2,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1151
+c.508C>T,p.Pro170Ser,Missense,Substitution,4,151,CCA TCA,Pro Ser,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0191
+c.508C>T,p.Pro170Ser,Missense,Substitution,4,151,CCA TCA,Pro Ser,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0192
+c.508C>T,p.Pro170Ser,Missense,Substitution,4,151,CCA TCA,Pro Ser,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0193
+c.777G>T,p.Arg259Ser,Missense,Substitution,6,240,AGG AGT,Arg Ser,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0990
+c.3637dupA,p.Ile1213Asnfs*28,Frameshift,Duplication,14,1194,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0119
+c.6683G>A,p.Arg2228Gln,Missense,Substitution,24,2209,CGA CAA,Arg Gln,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0195
+c.3802C>T,p.Gln1268*,Nonsense,Substitution,14,1249,CAA TAA,Gln Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0102
+c.3637dupA,p.Ile1213Asnfs*28,Frameshift,Duplication,14,1194,dup A,frameshift,B,,1-5,,Moderate,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS0521
+None,,,,,,None,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0180
+c.1316G>T,p.Gly439Val,Missense,Substitution,9,420,GGT GTT,Gly Val,A2,Heavy chain,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0506
+c.274G>A,p.Gly92Ser,Missense,Substitution,3,73,GGT AGT,Gly Ser,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0863
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0126
+c.1807A>T,p.Ser603Cys,Missense,Substitution,12,584,AGC TGC,Ser Cys,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0683
+c.1807A>T,p.Ser603Cys,Missense,Substitution,12,584,AGC TGC,Ser Cys,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1133
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,1-5,,Moderate,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0062
+c.6901-?_7056+?del,,Large structural change (>50 bp),Deletion,26,,del exon 26,,C2,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0247
+c.6049G>A,p.Val2017Met,Missense,Substitution,19,1998,GTG ATG,Val Met,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0808
+c.2098T>C,p.Ser700Pro,Missense,Substitution,13,681,TCG CCG,Ser Pro,A2,Heavy Chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1470
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0620
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0989
+None,,,,,,None,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1383
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0988
+c.5954G>A,p.Arg1985Gln,Missense,Substitution,18,1966,CGA CAA,Arg Gln,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0127
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1147
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0031
+c.6563G>A,p.Cys2188Tyr,Missense,Substitution,23,2169,TGT TAT,Cys Tyr,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0024
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1725
+c.199A>T,p.Lys67*,Nonsense,Substitution,2,48,AAG TAG,Lys Stop,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0921
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0820
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0528
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0382
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0287
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0019
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0045
+c.6686T>C,p.Leu2229Pro,Missense,Substitution,24,2210,CTT CCT,Leu Pro,C2,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0156
+c.6089G>A,p.Ser2030Asn,Missense,Substitution,19,2011,AGC AAC,Ser Asn,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0223
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0020
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0149
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0173
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0174
+c.6437T>C,p.Phe2146Ser,Missense,Substitution,23,2127,TTT TCT,Phe Ser,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0028
+c.6437T>C,p.Phe2146Ser,Missense,Substitution,23,2127,TTT TCT,Phe Ser,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0029
+c.1063C>T,p.Arg355*,Nonsense,Substitution,8,336,CGA TGA,Arg Stop,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0184
+c.6907delC,p.Gln2303Argfs*11,Frameshift,Deletion,26,2284,del C,frameshift,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0017
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0021
+c.6429+?_6430-?inv,,Large structural change (>50 bp),Inversion,Intron 22,,Inversion,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1313
+c.311T>A,p.Val104Asp,Missense,Substitution,3,85,GTC GAC,Val Asp,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0014
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0383
+c.1804C>T,p.Arg602*,Nonsense,Substitution,12,583,CGA TGA,Arg Stop,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0065
+c.1214T>G,p.Ile405Ser,Missense,Substitution,8,386,ATT AGT,Ile Ser,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0246
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0030
+c.3203_3204del,p.Arg1068Asnfs*18,Frameshift,Deletion,14,1049,del GA,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1227
+c.3203_3204del,p.Arg1068Asnfs*18,Frameshift,Deletion,14,1049,del GA,frameshift,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0066
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0155
+c.5823T>A,p.Asn1941Lys,Missense,Substitution,18,1922,AAT AAA,Asn Lys,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0041
+c.5823T>A,p.Asn1941Lys,Missense,Substitution,18,1922,AAT AAA,Asn Lys,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1767
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1806
+c.683A>G,p.His228Arg,Missense,Substitution,6,209,CAC CGC,His Arg,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0269
+c.683A>G,p.His228Arg,Missense,Substitution,6,209,CAC CGC,His Arg,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0150
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0023
+c.5878C>T,p.Arg1960*,Nonsense,Substitution,18,1941,CGA TGA,Arg Stop,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0224
+c.641T>G,p.Phe214Cys,Missense,Substitution,5,195,TTT TGT,Phe Cys,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0410
+c.3168_3187dup,p.Pro1063Leufs*6,Frameshift,Duplication,14,1044,dup TGAGTTTAAAAAAGTGACAC,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1724
+c.6133G>A,p.Gly2045Arg,Missense,Substitution,20,2026,GGA AGA,Gly Arg,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0413
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0087
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1863
+c.311T>A,p.Val104Asp,Missense,Substitution,3,85,GTC GAC,Val Asp,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0288
+c.4451delG,p.Ser1484Metfs*83,Frameshift,Deletion,14,1465,del G,frameshift,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0016
+c.4451delG,p.Ser1484Metfs*83,Frameshift,Deletion,14,1465,del G,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0015
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0018
+c.821G>A,p.Trp274*,Nonsense,Substitution,7,255,TGG TAG,Trp Stop,A1,Heavy chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0117
+c.4841dupA,p.Asp1615Glyfs*10,Frameshift,Duplication,14,1596,dup A,frameshift,B,Heavy chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1921
+c.1990C>T,p.Gln664*,Nonsense,Substitution,13,645,CAG TAG,Gln Stop,A2,Heavy Chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3065
+c.1990C>T,p.Gln664*,Nonsense,Substitution,13,645,CAG TAG,Gln Stop,A2,Heavy Chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1865
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1977
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1657
+c.4379dupA,p.Asn1460Lysfs*2,Frameshift,Duplication,14,1441,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1744
+c.4996C>T,p.Gln1666*,Nonsense,Substitution,14,1647,CAA TAA,Gln Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1632
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1954
+c.5284T>G,p.Phe1762Val,Missense,Substitution,15,1743,TTT GTT,Phe Val,A3,Light Chain,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS1684
+c.6671C>T,p.Pro2224Leu,Missense,Substitution,24,2205,CCT CTT,Pro Leu,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1698
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1661
+c.4379dupA,p.Asn1460Lysfs*2,Frameshift,Duplication,14,1441,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1700
+c.4379dupA,p.Asn1460Lysfs*2,Frameshift,Duplication,14,1441,dup A,frameshift,B,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1685
+c.914T>G,p.Leu305Trp,Missense,Substitution,7,286,TTG TGG,Leu Trp,A1,Heavy Chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1815
+c.1814A>G,p.Tyr605Cys,Missense,Substitution,12,586,TAC TGC,Tyr Cys,A2,Heavy Chain,1-5,,Moderate,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS1766
+c.788-?_1443+?del,,Large structural change (>50 bp),Deletion,7-9,,del exons 7-9,,,single domain,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1929
+c.6403C>T,p.Arg2135*,Nonsense,Substitution,22,2116,CGA TGA,Arg Stop,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1765
+c.1332A>C,p.Lys444Asn,Missense,Substitution,9,425,AAA AAC,Lys Asn,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1674
+c.143+?_144-?inv,,Large structural change (>50 bp),Inversion,Intron 1,,Inversion,,,single domain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3025
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1703
+c.5301C>G,p.Tyr1767*,Nonsense,Substitution,15,1748,TAC TAG,Tyr Stop,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1796
+c.6980T>C,p.Ile2327Thr,Missense,Substitution,26,2308,ATT ACT,Ile Thr,C2,Light Chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1696
+c.143+?_144-?inv,,Large structural change (>50 bp),Inversion,Intron 1,,Inversion,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1726
+c.3906_3912dup,p.Gln1305Asnfs*17,Frameshift,Duplication,14,1286,dup AACCAAG,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1675
+c.275G>A,p.Gly92Asp,Missense,Substitution,3,73,GGT GAT,Gly Asp,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1640
+c.6119delG,p.Cys2040Phefs*59,Frameshift,Deletion,20,2021,del G,frameshift,C1,Light Chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1805
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1699
+c.1751A>G,p.Gln584Arg,Missense,Substitution,11,565,CAG CGG,Gln Arg,A2,Heavy chain,1-5,,Moderate,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1849
+c.144-?_388+?del,,Large structural change (>50 bp),Deletion,2-3,,del exons 2-3,,,single domain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1946
+c.1812G>T,p.Trp604Cys,Missense,Substitution,12,585,GGT GTT,Trp Cys,A2,Heavy Chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1848
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1892
+c.1032dupA,p.Val345Serfs*15,Frameshift,Duplication,8,326,dup A,frameshift,A1,Heavy chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1970
+c.2945dupA,p.Asn982Lysfs*9,Frameshift,Duplication,14,963,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1690
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1937
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1935
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1936
+c.2294C>G,p.Ser765*,Nonsense,Substitution,14,746,TCA TGA,Ser Stop,B,Heavy chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1974
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2004
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS2069
+c.3465dupA,p.Ser1156Ilefs*10,Frameshift,Duplication,14,1137,dup A,frameshift,B,Heavy chain,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS3063
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS2070
+c.5938C>G,p.His1980Asp,Missense,Substitution,18,1961,CAT GAT,His Asp,A3,Light chain,>5,,Mild,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1756
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1668
+c.143+?_144-?inv,,Large structural change (>50 bp),Inversion,Intron 1,,Inversion,,,single domain,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS3043
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS2079
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1973
+c.5961delA,p.Glu1988Argfs*42,Frameshift,Deletion,18,1969,del A,frameshift,A3,Light chain,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1790
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,,,,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS2003
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1732
+c.665A>G,p.Asp222Gly,Missense,Substitution,5,203,GAT GGT,Asp Gly,A1,Heavy chain,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS1749
+c.144-?_265+?dup,,Large structural change (>50 bp),Duplication,2,,del exon 2,,A1,single domain,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1741
+c.5839_5840insGGCTACATAATG,p.Thr1947delinsArgLeuHisAsnAla,"Small structural change (in-frame, <50 bp)",Insertion,18,1928,ins GGCTACATAATG,del Thr ins Arg Leu His Asn Ala,A3,Light chain,,,,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1944
+c.4328_4331del,p.Lys1443Ilefs*21,Frameshift,Deletion,14,1424,del AAGA 1424-1425,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1686
+c.2962_2963del,p.Ser988Trpfs*2,Frameshift,Deletion,14,969,del AG,frameshift,B,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1910
+c.6193dupT,p.Trp2065Leufs*61,Frameshift,Duplication,21,2046,dup T,frameshift,C1,Light chain,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1926
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1916
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS2080
+c.5220-?_6429+?del,,Large structural change (>50 bp),Deletion,15-22,,del exons 15-22,,,multiple domains,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS3046
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1980
+c.902G>A,p.Arg301His,Missense,Substitution,7,282,CGC CAC,Arg His,A1,Heavy chain,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS1800
+c.5220-?_6429+?del,,Large structural change (>50 bp),Deletion,15-22,,del exons 15-22,,,multiple domains,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS3045
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS2081
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS2082
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2005
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1731
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1694
+c.4379dupA,p.Asn1460Lysfs*2,Frameshift,Duplication,14,1441,dup A,frameshift,B,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1897
+c.3091_3094del,p.Lys1031Leufs*9,Frameshift,Deletion,14,1012,del AAGA,frameshift,B,,,,,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS3044
+c.4379dupA,p.Asn1460Lysfs*2,Frameshift,Duplication,14,1441,dup A,frameshift,B,,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS1688
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,1-5,,Moderate,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1086
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1740
+c.6683G>A,p.Arg2228Gln,Missense,Substitution,24,2209,CGA CAA,Arg Gln,C2,Light chain,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1918
+c.5824_5839dup,p.Thr1947Argfs*29,Frameshift,Duplication,18,1928,dup GGCTACATAATGGATA,frameshift,A3,Light chain,,,,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1945 Corrected
+c.3963_3964delinsTT,p.Gln1322*,Frameshift,Insertion/Deletion,14,1303,del CC ins TT,Gln Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1687
+c.575T>C,p.Ile192Thr,Missense,Substitution,4,173,ATT ACT,Ile Thr,A1,Heavy chain,>5,,Mild,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS1683
+c.6403C>T,p.Arg2135*,Nonsense,Substitution,22,2116,CGA TGA,Arg Stop,C1,Light chain,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1704
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS2034
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1958
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1793
+c.1744G>A,p.Gly582Arg,Missense,Substitution,11,563,GGA AGA,Gly Arg,A2,Heavy Chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1843
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS1840
+c.4072C>T,p.Gln1358*,Nonsense,Substitution,14,1339,CAG TAG,Gln Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1837
+c.4072C>T,p.Gln1358*,Nonsense,Substitution,14,1339,CAG TAG,Gln Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1838
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1736
+c.6089G>A,p.Ser2030Asn,Missense,Substitution,19,2011,AGC AAC,Ser Asn,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1866
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1795
+c.3380G>A,p.Trp1127*,Nonsense,Substitution,14,1108,TGG TAG,Trp Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1841
+c.4770T>G,p.Tyr1590*,Nonsense,Substitution,14,1571,TAT TAG,Tyr Stop,B,,<1,,Severe,,No,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS1870
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1832
+c.6901-?_*1802+?del,,Large structural change (>50 bp),Deletion,26 - 3'UTR,,del exon 26 + 3'UTR,,,single domain,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1983
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1739
+c.6089G>A,p.Ser2030Asn,Missense,Substitution,19,2011,AGC AAC,Ser Asn,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1867
+c.-171-?_6429+?del,,Large structural change (>50 bp),Deletion,1-22,,del promoter-exon 22,,,multiple domains,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2062
+c.388+2T>G,,Splice site change,Substitution,Intron 3,IVS 3 +2,t>g,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1792
+c.1316G>T,p.Gly439Val,Missense,Substitution,9,420,GGT GTT,Gly Val,A2,Heavy chain,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1834
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1738
+c.6545G>A,p.Arg2182His,Missense,Substitution,23,2163,CGC CAC,Arg His,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1835
+c.6089G>A,p.Ser2030Asn,Missense,Substitution,19,2011,AGC AAC,Ser Asn,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1872
+c.-171-?_143+?del,,Large structural change (>50 bp),Deletion,1,,del exon 1,,A1,single domain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1912
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1737
+c.5562G>A,p.Trp1854*,Nonsense,Substitution,16,1835,TGG TGA,Trp Stop,A3,Light Chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1917
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS1871
+c.3637dupA,p.Ile1213Asnfs*28,Frameshift,Duplication,14,1194,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1836
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0267
+c.4380delT,p.Asn1460Lysfs*5,Frameshift,Deletion,14,1441,del T,frameshift,B,,1-5,,Moderate,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0544
+c.6496C>T,p.Arg2166*,Nonsense,Substitution,23,2147,CGA TGA,Arg Stop,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1712
+c.935T>C,p.Phe312Ser,Missense,Substitution,7,293,TTC TCC,Phe Ser,A1,Heavy chain,>5,,Mild,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0258
+c.935T>C,p.Phe312Ser,Missense,Substitution,7,293,TTC TCC,Phe Ser,A1,Heavy chain,>5,,Mild,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0259
+c.935T>C,p.Phe312Ser,Missense,Substitution,7,293,TTC TCC,Phe Ser,A1,Heavy chain,>5,,Mild,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0260
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1296
+c.935T>C,p.Phe312Ser,Missense,Substitution,7,293,TTC TCC,Phe Ser,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1123
+c.5096A>T,p.Tyr1699Phe,Missense,Substitution,14,1680,TAT TTT,Tyr Phe,a3,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0133
+c.5434G>T,p.Glu1812*,Nonsense,Substitution,16,1793,GAG TAG,Glu Stop,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0165
+c.1316G>T,p.Gly439Val,Missense,Substitution,9,420,GGT GTT,Gly Val,A2,Heavy chain,1-5,,Moderate,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0300
+ c.143+?_144-?dup/inv,,Large structural change (>50 bp),Duplication/Inversion,Intron 1,,Duplication/Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0113
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0131
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0130
+c.4797G>A,p.Trp1599*,Nonsense,Substitution,14,1580,TGG TGA,Trp Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0830
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0069
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0831
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0166
+c.3218_3219delinsGAATGCTTATGGACAG,p.Lys1073Argfs*11,Frameshift,Insertion/Deletion,14,1054,del AA ins GAATGCTTATGGACAG,frameshift,B,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0263
+c.1538-?_1752+?del,,Large structural change (>50 bp),Deletion,11,,del exon 11,,A2,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0095
+c.1538-?_1752+?del,,Large structural change (>50 bp),Deletion,11,,del exon 11,,A2,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0096
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0264
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0339
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0112
+c.1214T>C,p.Ile405Thr,Missense,Substitution,8,386,ATT ACT,Ile Thr,A2,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0064
+c.6429+?_6430-?inv,,Large structural change (>50 bp),Inversion,Intron 22,,Inversion,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0306
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1663
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1662
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0089
+c.1444-?_1537+?del,,Large structural change (>50 bp),Deletion,10,,del exon 10,,A2,single domain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0338
+c.935T>C,p.Phe312Ser,Missense,Substitution,7,293,TTC TCC,Phe Ser,A1,Heavy chain,>5,,Mild,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0261
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1013
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0875
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0402
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0301
+c.6738delA,p.Glu2247Serfs*11,Frameshift,Deletion,25,2228,del A,frameshift,C2,Light chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0090
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0116
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1746
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0370
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0114
+c.75C>G,p.Tyr25*,Nonsense,Substitution,1,6,TAC TAG,Tyr Stop,A1,Heavy chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0483
+c.75C>G,p.Tyr25*,Nonsense,Substitution,1,6,TAC TAG,Tyr Stop,A1,Heavy chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0265
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0145
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0146
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0094
+c.6532C>T,p.Arg2178Cys,Missense,Substitution,23,2159,CGC TGC,Arg Cys,C1,Light chain,>5,,Mild,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0404
+c.36C>A,p.Cys12*,Nonsense,Substitution,1,-8,TGC TGA,Cys Stop,Signal,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0471
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0262
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0268
+c.5953C>T,p.Arg1985*,Nonsense,Substitution,18,1966,CGA TGA,Arg Stop,A3,Light chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0298
+ c.143+?_144-?dup/inv,,Large structural change (>50 bp),Duplication/Inversion,Intron 1,,Duplication/Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0344
+c.6796G>C,p.Gly2266Arg,Missense,Substitution,25,2247,GGA CGA,Gly Arg,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0337
+c.6133G>A,p.Gly2045Arg,Missense,Substitution,20,2026,GGA AGA,Gly Arg,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0144
+c.6544C>T,p.Arg2182Cys,Missense,Substitution,23,2163,CGC TGC,Arg Cys,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1316
+c.6544C>T,p.Arg2182Cys,Missense,Substitution,23,2163,CGC TGC,Arg Cys,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1315
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0307
+c.2048A>G,p.Tyr683Cys,Missense,Substitution,13,664,TAT TGT,Tyr Cys,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0084
+c.2048A>G,p.Tyr683Cys,Missense,Substitution,13,664,TAT TGT,Tyr Cys,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0083
+c.1172G>A,p.Arg391His,Missense,Substitution,8,372,CGC CAC,Arg His,a1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0222
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0091
+c.1907T>G,p.Ile636Ser,Missense,Substitution,13,617,ATC AGC,Ile Ser,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0515
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0257
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0245
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1159
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS0435
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0336
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0360
+None,,,,,,None,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0468
+None,,,,,,None,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0470
+None,,,,,,None,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0469
+c.4901delA,p.Glu1634Glyfs*8,Frameshift,Deletion,14,1615,del A,frameshift,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0433
+c.4901delA,p.Glu1634Glyfs*8,Frameshift,Deletion,14,1615,del A,frameshift,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0437
+c.1063C>T,p.Arg355*,Nonsense,Substitution,8,336,CGA TGA,Arg Stop,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0244
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0335
+c.3144G>A,p.Trp1048*,Nonsense,Substitution,14,1029,TGG TGA,Trp Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1142
+c.1172G>A,p.Arg391His,Missense,Substitution,8,372,CGC CAC,Arg His,a1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0325
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1323
+c.1172G>A,p.Arg391His,Missense,Substitution,8,372,CGC CAC,Arg His,a1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0326
+c.3293_3296delinsTT,p.Gln1098Leufs*19,Frameshift,Insertion/Deletion,14,1079,del AGAA ins TT,frameshift,B,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0436
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1508
+c.-171-?_787+?del,,Large structural change (>50 bp),Deletion,1-6,,del exons 1-6,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1488
+c.-171-?_787+?del,,Large structural change (>50 bp),Deletion,1-6,,del exons 1-6,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1489
+c.3646G>T,p.Glu1216*,Nonsense,Substitution,14,1197,GAA TAA,Glu Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0518
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0167
+c.5564C>A,p.Ala1855Asp,Missense,Substitution,16,1836,GCT GAT,Ala Asp,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0168
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1216
+c.901C>T,p.Arg301Cys,Missense,Substitution,7,282,CGC TGC,Arg Cys,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0254
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1538
+c.898C>G,p.His300Asp,Missense,Substitution,7,281,CAT GAT,His Asp,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0324
+c.935T>C,p.Phe312Ser,Missense,Substitution,7,293,TTC TCC,Phe Ser,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0243
+c.5096A>T,p.Tyr1699Phe,Missense,Substitution,14,1680,TAT TTT,Tyr Phe,a3,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0305
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0322
+c.4361T>A,p.Leu1454*,Nonsense,Substitution,14,1435,TTA TAA,Leu Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0328
+c.4361T>A,p.Leu1454*,Nonsense,Substitution,14,1435,TTA TAA,Leu Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0329
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS0434
+c.871G>A,p.Glu291Lys,Missense,Substitution,7,272,GAA AAA,Glu Lys,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0316
+c.871G>A,p.Glu291Lys,Missense,Substitution,7,272,GAA AAA,Glu Lys,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0315
+c.6481C>T,p.Pro2161Ser,Missense,Substitution,23,2142,CCT TCT,Pro Ser,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0977
+c.6481C>T,p.Pro2161Ser,Missense,Substitution,23,2142,CCT TCT,Pro Ser,C1,Light chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0578
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0256
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0255
+c.6560G>A,p.Gly2187Asp,Missense,Substitution,23,2168,GGC GAC,Gly Asp,C1,Light Chain,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0252
+c.143+?_144-?inv,,Large structural change (>50 bp),Inversion,Intron 1,,Inversion,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0447
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0330
+c.6977G>T,p.Arg2326Leu,Missense,Substitution,26,2307,CGA CTA,Arg Leu,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1526
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0304
+c.935T>C,p.Phe312Ser,Missense,Substitution,7,293,TTC TCC,Phe Ser,A1,Heavy chain,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0579
+c.935T>C,p.Phe312Ser,Missense,Substitution,7,293,TTC TCC,Phe Ser,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0580
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0426
+c.5398C>T,p.Arg1800Cys,Missense,Substitution,16,1781,CGT TGT,Arg Cys,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0514
+c.2054A>G,p.Asp685Gly,Missense,Substitution,13,666,ACA GCA,Asp Gly,A2,Heavy Chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1680
+c.908C>A,p.Ala303Glu,Missense,Substitution,7,284,GCG GAG,Ala Glu,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1310
+c.908C>A,p.Ala303Glu,Missense,Substitution,7,284,GCG GAG,Ala Glu,A1,Heavy chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0517
+c.908C>A,p.Ala303Glu,Missense,Substitution,7,284,GCG GAG,Ala Glu,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0516
+c.1933C>T,p.Gln645*,Nonsense,Substitution,13,626,CAG TAG,Gln Stop,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0302
+complex F8 gene inversion,,Large structural change (>50 bp),Inversion,1-26,,complext F8 gene inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0821
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1249
+c.6533G>A,p.Arg2178His,Missense,Substitution,23,2159,CGC CAC,Arg His,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0837
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1054
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1055
+c.6403C>G,p.Arg2135Gly,Missense,Substitution,22,2116,CGA GGA,Arg Gly,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1053
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2090
+c.6505C>T,p.Arg2169Cys,Missense,Substitution,23,2150,CGT TGT,Arg Cys,C1,Light chain,>5,,Mild,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1050
+c.1569G>T,p.=,Synonymous,Substitution,11,504,CTG CTT,Leu Leu,A2,Heavy chain,1-5,,Moderate,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1235
+c.3963_3964delinsTT,p.Gln1322*,Frameshift,Insertion/Deletion,14,1303,del CC ins TT,Gln Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1107
+None,,,,,,None,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1290
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0995
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1135
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1230
+c.344T>C,p.Val115Ala,Missense,Substitution,3,96,GTC GCC,Val Ala,A1,Heavy chain,1-5,,Moderate,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS1111
+c.5123G>A,p.Arg1708His,Missense,Substitution,14,1689,CGC CAC,Arg His,a3,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1326
+c.516C>A,p.Cys172*,Nonsense,Substitution,4,153,TGC TGA,Cys Stop,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1024
+c.5096A>T,p.Tyr1699Phe,Missense,Substitution,14,1680,TAT TTT,Tyr Phe,a3,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1372
+c.6977G>T,p.Arg2326Leu,Missense,Substitution,26,2307,CGA CTA,Arg Leu,C2,Light chain,1-5,,Moderate,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1112
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1211
+c.1569G>T,p.=,Synonymous,Substitution,11,504,CTG CTT,Leu Leu,A2,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1236
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0735
+c.4388_4391del,p.Ser1463*,Frameshift,Deletion,14,1444,del CTTT 1444-1445,frameshift,B,,<1,,Severe,,No,AIAN,,,USA,CDC Inhibitor Surveillance Project,HIS0966
+c.2043G>C,p.Met681Ile,Missense,Substitution,13,662,ATG ATC,Met Ile,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1844
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1079
+c.6429+?_6430-?inv,,Large structural change (>50 bp),Inversion,Intron 22,,Inversion,,,single domain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1011
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0922
+c.6239C>A,p.Ala2080Asp,Missense,Substitution,21,2061,GCC GAC,Ala Asp,C1,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1010
+c.788-?_1443+?del,,Large structural change (>50 bp),Deletion,7-9,,del exons 7-9,,,single domain,<1,,Severe,,Yes,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS1126
+c.6551A>C,p.Glu2184Ala,Missense,Substitution,23,2165,GAG GCG,Glu Ala,C1,Light chain,1-5,,Moderate,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0985
+c.6551A>C,p.Glu2184Ala,Missense,Substitution,23,2165,GAG GCG,Glu Ala,C1,Light chain,1-5,,Moderate,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0984
+c.-171-?_143+?del,,Large structural change (>50 bp),Deletion,1,,del exon 1,,A1,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1128
+c.1063C>T,p.Arg355*,Nonsense,Substitution,8,336,CGA TGA,Arg Stop,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1106
+c.6575-2A>C,,Splice site change,Substitution,Intron 23,IVS23 -2,a>c,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0762
+c.568G>T,p.Gly190Cys,Missense,Substitution,4,171,GGC TGC,Gly Cys,A1,Heavy chain,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0736
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,AIAN,,,USA,CDC Inhibitor Surveillance Project,HIS1114
+c.683A>G,p.His228Arg,Missense,Substitution,6,209,CAC CGC,His Arg,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1219
+c.6932C>A,p.Pro2311His,Missense,Substitution,26,2292,CCT CAT,Pro His,C2,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0917
+c.755C>T,p.Thr252Ile,Missense,Substitution,6,233,ACA ATA,Thr Ile,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0763
+c.7021G>A,p.Glu2341Lys,Missense,Substitution,26,2322,GAG AAG,Glu Lys,C2,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0759
+c.4825delA,p.Thr1609Glnfs*12,Frameshift,Deletion,14,1590,del A,frameshift,B,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1496
+c.1230_1232del,p.Glu410del,"Small structural change (in-frame, <50 bp)",Deletion,8,391,del GGA,del Glu,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1631
+c.1230_1232del,p.Glu410del,"Small structural change (in-frame, <50 bp)",Deletion,8,391,del GGA,del Glu,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1630
+c.2358_2359del,p.Lys787Aspfs*2,Frameshift,Deletion,14,768,del GA,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1237
+c.5096A>T,p.Tyr1699Phe,Missense,Substitution,14,1680,TAT TTT,Tyr Phe,a3,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0965
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1275
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0758
+c.5822A>G,p.Asn1941Ser,Missense,Substitution,18,1922,AAT AGT,Asn Ser,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1105
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1189
+c.1804C>T,p.Arg602*,Nonsense,Substitution,12,583,CGA TGA,Arg Stop,A2,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0968
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1443
+c.6046C>T,p.Arg2016Trp,Missense,Substitution,19,1997,CGG TGG,Arg Trp,A3,Light chain,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1575
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1161
+c.1015A>G,p.Met339Val,Missense,Substitution,8,320,ATG GTG,Met Val,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0731
+c.1538-1G>T,,Splice site change,Substitution,Intron 10,IVS 10 -1,g>t,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1109
+c.6371A>G,p.Tyr2124Cys,Missense,Substitution,22,2105,TAT TGT,Tyr Cys,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1110
+c.671-?_787+?del,,Large structural change (>50 bp),Deletion,6,,del exon 6,,A1,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1190
+c.5665C>T,p.Gln1889*,Nonsense,Substitution,17,1870,CAA TAA,Gln Stop,A3,Light chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1134
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1020
+c.5710G>A,p.Glu1904Lys,Missense,Substitution,17,1885,GAG AAG,Glu Lys,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0994
+None,,,,,,None,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1022
+None,,,,,,None,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1023
+c.6551A>C,p.Glu2184Ala,Missense,Substitution,23,2165,GAG GCG,Glu Ala,C1,Light chain,1-5,,Moderate,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0916
+c.6551A>C,p.Glu2184Ala,Missense,Substitution,23,2165,GAG GCG,Glu Ala,C1,Light chain,1-5,,Moderate,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1303
+c.5677C>T,p.Gln1893*,Nonsense,Substitution,17,1874,CAG TAG,Gln Stop,A3,Light chain,<1,,Severe,,Yes,AIAN,,,USA,CDC Inhibitor Surveillance Project,HIS0967
+c.6976C>T,p.Arg2326*,Nonsense,Substitution,26,2307,CGA TGA,Arg Stop,C2,Light chain,<1,,Severe,,No,,,,USA,CDC Inhibitor Surveillance Project,HIS1900
+c.1660A>G,p.Ser554Gly,Missense,Substitution,11,535,AGT GGT,Ser Gly,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1191
+c.6575-1G>A,,Splice site change,Substitution,Intron 23,IVS 23 -1,g>a,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1108
+c.344T>C,p.Val115Ala,Missense,Substitution,3,96,GTC GCC,Val Ala,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1113
+c.144-?_1752+?del,,Large structural change (>50 bp),Deletion,2-11,,del exons 2-11,,,Multiple domains,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1996
+None,,,,,,None,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1029
+c.788-?_1009+?del,,Large structural change (>50 bp),Deletion,7,,del exons 7-11,,A1,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1579
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0910
+c.5879G>A,p.Arg1960Gln,Missense,Substitution,18,1941,CGA CAA,Arg Gln,A3,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1130
+c.5879G>A,p.Arg1960Gln,Missense,Substitution,18,1941,CGA CAA,Arg Gln,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1129
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,,,,,Yes,BNH,,,USA,CDC Inhibitor Surveillance Project,HIS2029
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1021
+c.935T>C,p.Phe312Ser,Missense,Substitution,7,293,TTC TCC,Phe Ser,A1,Heavy chain,>5,,Mild,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS1626
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS0838
+c.6296_6297del,p.Ile2099Asnfs*26,Frameshift,Deletion,22,2080,del TT,frameshift,C1,Light chain,1-5,,Moderate,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS2073
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,ASPI,,,USA,CDC Inhibitor Surveillance Project,HIS1052
+c.1015A>G,p.Met339Val,Missense,Substitution,8,320,ATG GTG,Met Val,A1,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1218
+c.5096A>T,p.Tyr1699Phe,Missense,Substitution,14,1680,TAT TTT,Tyr Phe,a3,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1304
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1009
+c.6575-?_6723+?del,,Large structural change (>50 bp),Deletion,24,,del exon 24,,C2,single domain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1334
+c.3637dupA,p.Ile1213Asnfs*28,Frameshift,Duplication,14,1194,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1256
+c.6089G>A,p.Ser2030Asn,Missense,Substitution,19,2011,AGC AAC,Ser Asn,A3,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1545
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1309
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,1-5,,Moderate,,No,BH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1890
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS1727
+c.6977G>A,p.Arg2326Gln,Missense,Substitution,26,2307,CGA CAA,Arg Gln,C2,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1548
+c.6977G>A,p.Arg2326Gln,Missense,Substitution,26,2307,CGA CAA,Arg Gln,C2,Light chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1547
+c.1257_1262delinsG,p.Ala420Argfs*2,Frameshift,Insertion/Deletion,8,401,del CGCCCC ins G,frameshift,A2,Heavy chain,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS0902
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1492
+c.6560G>A,p.Gly2187Asp,Missense,Substitution,23,2168,GGC GAC,Gly Asp,C1,Light Chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1491
+c.1171C>T,p.Arg391Cys,Missense,Substitution,8,372,CGC TGC,Arg Cys,a1,Heavy chain,1-5,,Moderate,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1401
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1295
+c.2945dupA,p.Asn982Lysfs*9,Frameshift,Duplication,14,963,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1294
+c.6403C>T,p.Arg2135*,Nonsense,Substitution,22,2116,CGA TGA,Arg Stop,C1,Light chain,,,,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS2001
+c.6977G>A,p.Arg2326Gln,Missense,Substitution,26,2307,CGA CAA,Arg Gln,C2,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1477
+None,,,,,,None,,,,>5,,Mild,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS1537
+c.1569G>T,p.=,Synonymous,Substitution,11,504,CTG CTT,Leu Leu,A2,Heavy chain,>5,,Mild,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1121
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1231
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1358
+c.6575-1G>T,,Splice site change,Substitution,Intron 23,IVS 23 -1,g>t,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1257
+c.6724-1G>A,,Splice site change,Substitution,Intron 24,IVS 24 -1,g>a,,,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1193
+c.6724-1G>A,,Splice site change,Substitution,Intron 24,IVS 24 -1,g>a,,,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1194
+c.43C>T,p.Arg15*,Nonsense,Substitution,1,-5,CGA TGA,Arg Stop,Signal,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1402
+c.4627delA,p.Ser1543Alafs*24,Frameshift,Deletion,14,1524,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1308
+c.144-2A>G,,Splice site change,Substitution,Intron 1,IVS 1 -2,a>g,,,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1478
+c.821G>A,p.Trp274*,Nonsense,Substitution,7,255,TGG TAG,Trp Stop,A1,Heavy chain,,,,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS2000
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1225
+c.6901-?_*1802+?del,,Large structural change (>50 bp),Deletion,26 - 3'UTR,,del exon 26 + 3'UTR,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1604
+c.1654T>C,p.Tyr552His,Missense,Substitution,11,533,TAC CAC,Tyr His,A2,Heavy chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1241
+c.6506G>A,p.Arg2169His,Missense,Substitution,23,2150,CGT CAT,Arg His,C1,Light chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1540
+c.6901-?_*1802+?del,,Large structural change (>50 bp),Deletion,26 - 3'UTR,,del exon 26 + 3'UTR,,,single domain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1603
+c.3525delA,p.Glu1175Aspfs*6,Frameshift,Deletion,14,1156,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1120
+c.6743G>A,p.Trp2248*,Nonsense,Substitution,25,2229,TGG TAG,Trp Stop,C2,Light chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1283
+c.6968G>C,p.Arg2323Pro,Missense,Substitution,26,2304,CGC CCC,Arg Pro,C2,Light Chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1522
+c.941C>A,p.Thr314Asn,Missense,Substitution,7,295,ACT AAT,Thr Asn,A1,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1259
+None,,,,,,None,,,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1234
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1222
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1221
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1224
+c.3975_3977delinsGG,p.Phe1325Leufs*10,Frameshift,Insertion/Deletion,14,1306,del TGT ins GG,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1660
+c.3637dupA,p.Ile1213Asnfs*28,Frameshift,Duplication,14,1194,dup A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1536
+c.1569G>T,p.=,Synonymous,Substitution,11,504,CTG CTT,Leu Leu,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1656
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3038
+c.6790A>C,p.Thr2264Pro,Missense,Substitution,25,2245,ACT CCT,Thr Pro,C2,Light Chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1855
+c.6011C>T,p.Thr2004Ile,Missense,Substitution,19,1985,ACA ATA,Thr Ile,A3,Light chain,1-5,,Moderate,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1857
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1783
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1884
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1829
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1828
+c.763G>A,p.Gly255Ser,Missense,Substitution,6,236,GGT AGT,Gly Ser,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1789
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3083
+c.406C>T,p.Gln136*,Nonsense,Substitution,4,117,CAG TAG,Gln Stop,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1823
+c.406C>T,p.Gln136*,Nonsense,Substitution,4,117,CAG TAG,Gln Stop,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1824
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1777
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1763
+c.-171-?_787+?del,,Large structural change (>50 bp),Deletion,1-6,,del exons 1-6,,,single domain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3003
+c.1649G>A,p.Arg550His,Missense,Substitution,11,531,CGC CAC,Arg His,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1760
+c.5993A>C,p.Tyr1998Ser,Missense,Substitution,18,1979,TAT TCT,Tyr Ser,A3,Light chain,>5,,Mild,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1816
+c.6429+?_6430-?h-2inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 2 Inversion,,,,,,,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1982
+c.2623C>T,p.Gln875*,Nonsense,Substitution,14,856,CAA TAA,Gln Stop,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1762
+c.1834C>T,p.Arg612Cys,Missense,Substitution,12,593,CGC TGC,Arg Cys,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1778
+c.5815G>A,p.Ala1939Thr,Missense,Substitution,18,1920,GCA CCA,Ala Thr,A3,Light chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1786
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1809
+c.1649G>A,p.Arg550His,Missense,Substitution,11,531,CGC CAC,Arg His,A2,Heavy chain,>5,,Mild,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1856
+c.1636C>T,p.Arg546Trp,Missense,Substitution,11,527,CGG TGG,Arg Trp,A2,Heavy chain,>5,,Mild,,No,AIAN,,,USA,CDC Inhibitor Surveillance Project,HIS1889
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1810
+c.6093_6094del,p.Leu2032Phefs*7,Frameshift,Deletion,19,2013,del AC,frameshift,A3,Light Chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1764
+c.4825dupA,p.Thr1609Asnfs*4,Frameshift,Duplication,14,1590,dup A,frameshift,B,,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS3005
+None,,,,,,None,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1774
+None,,,,,,None,,,,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1886
+c.1786T>C,p.Ser596Pro,Missense,Substitution,12,577,TCT CCT,Ser Pro,A2,Heavy chain,<1,,Severe,,Yes,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1860
+c.2609_2610del,p.Pro870Argfs*10,Frameshift,Deletion,14,851,del CT,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1877
+c.2609_2610del,p.Pro870Argfs*10,Frameshift,Deletion,14,851,del CT,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1876
+c.6518C>T,p.Thr2173Ile,Missense,Substitution,23,2154,ACT ATT,Thr Ile,C1,Light chain,1-5,,Moderate,,No,OTH,,,USA,CDC Inhibitor Surveillance Project,HIS1759
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1831
+c.6116-1G>T,,Splice site change,Substitution,Intron 19,IVS 19 -1,g>t,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS2072
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1772
+c.5096A>T,p.Tyr1699Phe,Missense,Substitution,14,1680,TAT TTT,Tyr Phe,a3,,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1788
+c.209_212del,p.Phe70*,Frameshift,Deletion,2,51,del TTGT 51-52,frameshift,A1,Heavy chain,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1804
+c.6682C>T,p.Arg2228*,Nonsense,Substitution,24,2209,CGA TGA,Arg Stop,C2,Light chain,<1,,Severe,,No,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1775
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1885
+c.3637delA,p.Ile1213Phefs*5,Frameshift,Deletion,14,1194,del A,frameshift,B,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1769
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,Yes,WH,Hispanic,,USA,CDC Inhibitor Surveillance Project,HIS1779
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1758
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1770
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1771
+c.6429+?_6430-?h-3inv,,Large structural change (>50 bp),Inversion,Intron 22,,Type 1 Inversion,,,,<1,,Severe,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1847
+c.2161A>T,p.Met721Leu,Missense,Substitution,14,702,ATG TTG,Met Leu,A2,Heavy chain,1-5,,Moderate,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1799
+c.1649G>A,p.Arg550His,Missense,Substitution,11,531,CGC CAC,Arg His,A2,Heavy chain,>5,,Mild,,No,WNH,,,USA,CDC Inhibitor Surveillance Project,HIS1776

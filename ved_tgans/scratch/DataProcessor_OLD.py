@@ -31,15 +31,19 @@ class DataProcessor:
     def fit(self):
         GMM = GaussianMixture(n_components=3, random_state=42)
         for i in self.mappings:
-            if self.mappings[i] in ['numerical']:
+            if self.mappings[i] in ['numerical', 'datetime']:
                 self.m += 1
+                if self.mappings[i] == 'datetime':
+                    self.df[i] = pd.to_datetime(self.df[i])
+                    self.df[i] = self.df[i].astype(int) // 10**9
                 GMM.fit(self.df[[i]])
                 self.VGM_parameters[i] = {
                     'means': GMM.means_.flatten(),
                     'std_devs': np.sqrt(GMM.covariances_).flatten(),
                     'weights': GMM.weights_
                 }
-            elif self.mappings[i] in ['object', 'boolean', 'datetime']:
+            elif self.mappings[i] in ['object', 'boolean']:
+                self.D += 1
                 self.OHE[i] = OneHotEncoder(sparse_output=False, drop='first', handle_unknown='ignore')
                 self.OHE[i].fit(self.df[[i]])
 
@@ -49,11 +53,11 @@ class DataProcessor:
         transformed_df = df_to_transform.copy()
         for i in self.original_columns:
             if i in self.mappings:
-                if self.mappings[i] in ['numerical']:
+                if self.mappings[i] in ['numerical', 'datetime']:
                     if i in self.VGM_parameters:
                         for j in range(3):
                             transformed_df[f"{i}_VGM_{j}"] = self.VGM_parameters[i]['means'][j]
-                elif self.mappings[i] in ['object', 'boolean', 'datetime']:
+                elif self.mappings[i] == 'object':
                     if i in self.OHE:
                         ohe_result = self.OHE[i].transform(transformed_df[[i]])
                         ohe_df = pd.DataFrame(ohe_result, columns=self.OHE[i].get_feature_names_out([i]))
@@ -73,17 +77,16 @@ class DataProcessor:
                         ohe_data = transformed_df[ohe_columns]
                         inverse_categories = self.OHE[i].inverse_transform(ohe_data)
                         inverse_df[i] = inverse_categories.flatten()
-        
+
         # Convert datetime columns back to datetime
         for i in inverse_df.columns:
             if self.mappings.get(i) == 'datetime':
                 inverse_df[i] = pd.to_datetime(inverse_df[i], unit='s')
-        
+
         return inverse_df
 
     def fit_transform(self):
         self.fit()
         encoded_df = self.transformer()
         self.D = encoded_df.shape[1] - self.m
-        print(encoded_df.shape, self.m, self.D)
         return encoded_df, self.m, self.D
